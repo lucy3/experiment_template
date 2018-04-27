@@ -60,11 +60,11 @@ function make_slides(f) {
     },
   });
 
-  slides.priming = slide({
-    name: "priming",
-    start: function() {
-      $("#primingCondition").html("This is a priming sentece with " + exp.condition);
-    },
+  // slides.priming = slide({
+  //   name: "priming",
+  //   start: function() {
+  //     $("#primingCondition").html("This is a priming sentece with " + exp.condition);
+  //   },
 
 
     /* trial information for this block
@@ -84,25 +84,25 @@ function make_slides(f) {
     is determined, e.g., in init().
     Remember to comment out the other
     specification of present above*/
-    present: _.shuffle(exp.primingStims),
+  //   present: _.shuffle(exp.primingStims),
 
-    present_handle: function(stim){
+  //   present_handle: function(stim){
 
-      $("#primingCondition").html("This is a sentence with " + exp.condition);
+  //     $("#primingCondition").html("This is a sentence with " + exp.condition);
 
-      // use this version if present is directly given
-      // $("#primingSentence").html(stim.speaker +
-      //  " said a sentence with " + exp.condition);
+  //     // use this version if present is directly given
+  //     // $("#primingSentence").html(stim.speaker +
+  //     //  " said a sentence with " + exp.condition);
 
-      // use this version if present depends on the condition
-      $("#primingSentence").html(stim);
-      this.stim = stim; //you can store this information in the slide so you can record it later.
-    },
+  //     // use this version if present depends on the condition
+  //     $("#primingSentence").html(stim);
+  //     this.stim = stim; //you can store this information in the slide so you can record it later.
+  //   },
 
-    button : function() {
-      _stream.apply(this);
-    },
-  });
+  //   button : function() {
+  //     _stream.apply(this);
+  //   },
+  // });
 
   // slides.example = slide({
   //   name: "example",
