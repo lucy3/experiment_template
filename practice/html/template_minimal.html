@@ -29,7 +29,7 @@
   <!--Shared set-up ends-->
 
   <!--Things specific to this experiment-->
-    <title>Awesome Experiment: Minimalist template</title>
+    <title>Fun Sentence Completion</title>
     <script src="../js/template_minimal.js"></script>
     <link href="../css/local-style.css" rel="stylesheet" type="text/css"/>
     <!-- experiment specific helper functions -->
@@ -47,7 +47,7 @@
   the experiment-->
   <div class="slide" id="i0" >
     <p id="cocolab">Stanford Linguistics</p>
-    <p id="instruct-text">You will read some sentences and be asked to choose the best word that fills the blank. The HIT should take ~2 minutes. Please pay attention, thanks!</p>
+    <p id="instruct-text">You will choose the best word that completes each sentence and answer questions about the sentences. The HIT should take ~10 minutes. Please pay attention, thanks!</p>
     <button id="start_button" type="button">Start Experiment</button>
   </div>
 
@@ -92,17 +92,17 @@
   <h3>Instructions</h3>
   <p>You will read a few English sentences
     and for each sentence you
-    will be asked to fill in the blank.</p>
+    will be asked to complete it.</p>
   <button onclick="_s.button()">Continue</button>
 </div>
 
   <div class="slide" id="example">
     <p>Here is a concrete example to familiarize you with the task.</p>
 
-    <p>Am what I doing is worthwhile?</p>
+    <p>During lunch, Frank drank coffee and ate a...</p>
 
-    <input type="radio" name="exChoice" value="grammatical"> Grammatical
-    <input type="radio" name="exChoice" value="ungrammatical"> Ungrammatical<br>
+    <input type="radio" name="exChoice" value="grammatical"> Sandwich
+    <input type="radio" name="exChoice" value="ungrammatical"> Burger<br>
 
     <button onclick="_s.button()">Continue</button>
     <p class="err">Are you sure? Please consult your native speaker intuition harder and try again.</p>
