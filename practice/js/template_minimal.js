@@ -92,11 +92,24 @@ function make_slides(f) {
           var comp_q = dict[stim_item].neutralQ
         }
         var whichfirst = _.sample(['shortfirst', 'longfirst'])
+        if (whichfirst == 'shortfirst') {
+          var choice1 = dict[stim_item].choice1
+          var choice2 = dict[stim_item].choice2
+        } else {
+          var choice1 = dict[stim_item].choice2
+          var choice2 = dict[stim_item].choice1
+        }
         stim = stim_item + ' ' + supportive + '_' + whichfirst
+        // $("#stim").html(stim);
         $("#criticalSentence").html(context);
+        $("#option1").html(choice1);
+        $("#option2").html(choice2);
         $("#criticalQuestion").html(comp_q);
       } else {
+        // $("#stim").html(stim_item);
         $("#criticalSentence").html(dict[stim_item].context);
+        $("#option1").html(dict[stim_item].choice1);
+        $("#option2").html(dict[stim_item].choice2);
         $("#criticalQuestion").html(dict[stim_item].comp_q);
       }
 
@@ -173,7 +186,7 @@ function init() {
   //specify conditions
   // exp.condition = _.sample(["comparatives", "multiple negations"]); //can randomize between subject conditions here
   //blocks of the experiment:
-  exp.structure=["i0", "consent", "instructions", "example", "critical", 'subj_info', 'thanks'];
+  exp.structure=["i0", "consent", "example", "instructions", "critical", 'subj_info', 'thanks'];
 
   // generally no need to change anything below
   exp.trials = [];

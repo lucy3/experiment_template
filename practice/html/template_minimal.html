@@ -90,21 +90,23 @@
 <!--Instruction slide-->
 <div class="slide" id="instructions">
   <h3>Instructions</h3>
-  <p>Each sentence completion will have two options, and each sentence has a followup yes/no question.</p>
+  <p>Now, you will begin actual task items.</p>
   <button onclick="_s.button()">Continue</button>
 </div>
 
   <div class="slide" id="example">
+    <h3>Instructions</h3>
+    <p>Each sentence completion will have two options, and each sentence has a followup yes/no question.</p>
     <p>Here is a concrete example to familiarize you with the task.</p>
 
     <p>During lunch, Frank ate a sandwich and drank...</p>
 
-    <input type="radio" name="exChoice1" value="first"> coffee
+    <input type="radio" name="exChoice1" value="first"> coffee &emsp;
     <input type="radio" name="exChoice1" value="second"> tea<br>
 
     <p>Did Frank eat a sandwich?</p>
 
-    <input type="radio" name="exChoice2" value="yes"> yes
+    <input type="radio" name="exChoice2" value="yes"> yes &emsp;
     <input type="radio" name="exChoice2" value="no"> no<br><br>
 
     <button onclick="_s.button()">Continue</button>
@@ -129,14 +131,16 @@
 -->
 
 <div class="slide" id="critical">
+  <!-- <p id="stim">{{}}</p> -->
+
   <p id="criticalSentence">{{}}</p>
 
-  <input type="radio" name="criticalChoice1" value="first"> first
-  <input type="radio" name="criticalChoice1" value="second"> second<br>
+  <input type="radio" name="criticalChoice1" value="first"> <p style="display:inline" id="option1"> {{}}</p> &emsp;
+  <input type="radio" name="criticalChoice1" value="second"> <p style="display:inline" id="option2"> {{}}</p><br>
 
   <p id="criticalQuestion">{{}}</p>
 
-  <input type="radio" name="criticalChoice2" value="yes"> yes
+  <input type="radio" name="criticalChoice2" value="yes"> yes &emsp;
   <input type="radio" name="criticalChoice2" value="no"> no<br><br>
 
   <button onclick="_s.button()">Continue</button>
