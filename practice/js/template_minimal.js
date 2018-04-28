@@ -44,85 +44,9 @@ function make_slides(f) {
       $('input[name=exChoice]:checked').prop('checked', false);
     },
     button : function() {
-    // make sure participants understand
-    // the task before they continue
-      // response = $("#text_response").val();
-      // if (response.length == 0) {
-      //   $(".err").show();
-      // } else {
-      //   exp.data_trials.push({
-      //     "trial_type" : "example",
-      //     "response" : response
-      //   });
-      //   exp.go(); //make sure this is at the *end*, after you log your data
-      // }
       exp.go(); //use exp.go() if and only if there is no "present" data.
     },
   });
-
-  // slides.priming = slide({
-  //   name: "priming",
-  //   start: function() {
-  //     $("#primingCondition").html("This is a priming sentece with " + exp.condition);
-  //   },
-
-
-    /* trial information for this block
-     (the variable 'stim' will change between each of these values,
-      and for each of these, present_handle will be run.)
-      Remember to comment out the other
-      specification of present below*/
-    // present: _.shuffle([
-    //   {speaker: "John"},
-    //   {speaker: "Mary"}
-    // ]),
-
-    /* It might be the case that the
-    array of things you want to present depends
-    on the condition. A solution is
-    to define the array when the condition
-    is determined, e.g., in init().
-    Remember to comment out the other
-    specification of present above*/
-  //   present: _.shuffle(exp.primingStims),
-
-  //   present_handle: function(stim){
-
-  //     $("#primingCondition").html("This is a sentence with " + exp.condition);
-
-  //     // use this version if present is directly given
-  //     // $("#primingSentence").html(stim.speaker +
-  //     //  " said a sentence with " + exp.condition);
-
-  //     // use this version if present depends on the condition
-  //     $("#primingSentence").html(stim);
-  //     this.stim = stim; //you can store this information in the slide so you can record it later.
-  //   },
-
-  //   button : function() {
-  //     _stream.apply(this);
-  //   },
-  // });
-
-  // slides.example = slide({
-  //   name: "example",
-  //   start: function() {
-  //     $(".err").hide();
-  //     $(".display_condition").html("You are in " + exp.condition + ".");
-  //   },
-  //   button : function() {
-  //     response = $("#text_response").val();
-  //     if (response.length == 0) {
-  //       $(".err").show();
-  //     } else {
-  //       exp.data_trials.push({
-  //         "trial_type" : "example",
-  //         "response" : response
-  //       });
-  //       exp.go(); //make sure this is at the *end*, after you log your data
-  //     }
-  //   },
-  // });
 
   slides.critical = slide({
     name : "critical",
@@ -130,20 +54,26 @@ function make_slides(f) {
     /* trial information for this block
      (the variable 'stim' will change between each of these values,
       and for each of these, present_handle will be run.) */
-    present : _.shuffle([
-       "John and Mary laugh.",
-       "Does John and Mary laugh?",
-       "John and I am happy."
-    ]),
+    present : _.shuffle(Array(40).fill().map((_,i) => 'LongShort ' + (i+1)).concat(Array(40).fill().map((_,i) => 'filler ' + (i+1)))),
 
     //this gets run only at the beginning of the block
     present_handle : function(stim) {
       $(".err").hide();
 
       // uncheck the button and erase the previous value
-      exp.criticalResponse == null;
-      $('input[name=criticalChoice]:checked').prop('checked', false);
-      $("#criticalSentence").html(stim);
+      exp.criticalResponse1 == null;
+      exp.criticalResponse2 == null;
+      $('input[name=criticalChoice1]:checked').prop('checked', false);
+      $('input[name=criticalChoice2]:checked').prop('checked', false);
+      if (stim.startsWith("LongShort ")) {
+        var lsType = _.sample(['supp_shortfirst', 'supp_longfirst', 'neut_shortfirst', 'neut_longfirst'])
+        stim = stim + ' ' + lsType
+        $("#criticalSentence").html(stim);
+        $("#criticalQuestion").html("different!");
+      } else {
+        $("#criticalSentence").html(stim);
+        $("#criticalQuestion").html("same for everyone");
+      }
 
       this.stim = stim; //you can store this information in the slide so you can record it later.
 
@@ -151,10 +81,11 @@ function make_slides(f) {
 
     button : function() {
       //find out the checked option
-      exp.criticalResponse = $('input[name=criticalChoice]:checked').val();
+      exp.criticalResponse1 = $('input[name=criticalChoice1]:checked').val();
+      exp.criticalResponse2 = $('input[name=criticalChoice2]:checked').val();
 
       // verify the response
-      if (exp.criticalResponse == null) {
+      if (exp.criticalResponse1 == null || exp.criticalResponse2 == null) { //or exp.criticalResponse2 == null) {
         $(".err").show();
       } else {
         this.log_responses();
@@ -168,217 +99,12 @@ function make_slides(f) {
     log_responses : function() {
       exp.data_trials.push({
         "trial_type" : "critical",
-        //"sentence": this.stim, // don't forget to log the stimulus
-        "response" : exp.criticalResponse
+        "sentence": this.stim, // don't forget to log the stimulus
+        "response1" : exp.criticalResponse1,
+        "response2" : exp.criticalResponse2 
       });
     }
   });
-
-  // slides.one_slider = slide({
-  //   name : "one_slider",
-  //
-  //   /* trial information for this block
-  //    (the variable 'stim' will change between each of these values,
-  //     and for each of these, present_handle will be run.) */
-  //   present : [
-  //     {subject: "dog", object: "ball"},
-  //     {subject: "cat", object: "windowsill"},
-  //     {subject: "bird", object: "shiny object"},
-  //   ],
-  //
-  //   //this gets run only at the beginning of the block
-  //   present_handle : function(stim) {
-  //     $(".err").hide();
-  //
-  //     this.stim = stim; //I like to store this information in the slide so I can record it later.
-  //
-  //
-  //     $(".prompt").html(stim.subject + "s like " + stim.object + "s.");
-  //     this.init_sliders();
-  //     exp.sliderPost = null; //erase current slider value
-  //   },
-  //
-  //   button : function() {
-  //     if (exp.sliderPost == null) {
-  //       $(".err").show();
-  //     } else {
-  //       this.log_responses();
-  //
-  //       /* use _stream.apply(this); if and only if there is
-  //       "present" data. (and only *after* responses are logged) */
-  //       _stream.apply(this);
-  //     }
-  //   },
-  //
-  //   init_sliders : function() {
-  //     utils.make_slider("#single_slider", function(event, ui) {
-  //       exp.sliderPost = ui.value;
-  //     });
-  //   },
-  //
-  //   log_responses : function() {
-  //     exp.data_trials.push({
-  //       "trial_type" : "one_slider",
-  //       "response" : exp.sliderPost
-  //     });
-  //   }
-  // });
-
-  // slides.multi_slider = slide({
-  //   name : "multi_slider",
-  //   present : _.shuffle([
-  //     {"critter":"Wugs", "property":"fur"},
-  //     {"critter":"Blicks", "property":"fur"}
-  //   ]),
-  //   present_handle : function(stim) {
-  //     $(".err").hide();
-  //     this.stim = stim; //FRED: allows you to access stim in helpers
-  //
-  //     this.sentence_types = _.shuffle(["generic", "negation", "always", "sometimes", "usually"]);
-  //     var sentences = {
-  //       "generic": stim.critter + " have " + stim.property + ".",
-  //       "negation": stim.critter + " do not have " + stim.property + ".",
-  //       "always": stim.critter + " always have " + stim.property + ".",
-  //       "sometimes": stim.critter + " sometimes have " + stim.property + ".",
-  //       "usually": stim.critter + " usually have " + stim.property + "."
-  //     };
-  //
-  //     this.n_sliders = this.sentence_types.length;
-  //     $(".slider_row").remove();
-  //     for (var i=0; i<this.n_sliders; i++) {
-  //       var sentence_type = this.sentence_types[i];
-  //       var sentence = sentences[sentence_type];
-  //       $("#multi_slider_table").append('<tr class="slider_row"><td class="slider_target" id="sentence' + i + '">' + sentence + '</td><td colspan="2"><div id="slider' + i + '" class="slider">-------[ ]--------</div></td></tr>');
-  //       utils.match_row_height("#multi_slider_table", ".slider_target");
-  //     }
-  //
-  //     this.init_sliders(this.sentence_types);
-  //     exp.sliderPost = [];
-  //   },
-  //
-  //   button : function() {
-  //     if (exp.sliderPost.length < this.n_sliders) {
-  //       $(".err").show();
-  //     } else {
-  //       this.log_responses();
-  //       _stream.apply(this); //use _stream.apply(this); if and only if there is "present" data.
-  //     }
-  //   },
-  //
-  //   init_sliders : function(sentence_types) {
-  //     for (var i=0; i<sentence_types.length; i++) {
-  //       var sentence_type = sentence_types[i];
-  //       utils.make_slider("#slider" + i, this.make_slider_callback(i));
-  //     }
-  //   },
-  //   make_slider_callback : function(i) {
-  //     return function(event, ui) {
-  //       exp.sliderPost[i] = ui.value;
-  //     };
-  //   },
-  //   log_responses : function() {
-  //     for (var i=0; i<this.sentence_types.length; i++) {
-  //       var sentence_type = this.sentence_types[i];
-  //       exp.data_trials.push({
-  //         "trial_type" : "multi_slider",
-  //         "sentence_type" : sentence_type,
-  //         "response" : exp.sliderPost[i]
-  //       });
-  //     }
-  //   },
-  // });
-  //
-  // slides.vertical_sliders = slide({
-  //   name : "vertical_sliders",
-  //   present : _.shuffle([
-  //     {
-  //       "bins" : [
-  //         {
-  //           "min" : 0,
-  //           "max" : 10
-  //         },
-  //         {
-  //           "min" : 10,
-  //           "max" : 20
-  //         },
-  //         {
-  //           "min" : 20,
-  //           "max" : 30
-  //         },
-  //         {
-  //           "min" : 30,
-  //           "max" : 40
-  //         },
-  //         {
-  //           "min" : 40,
-  //           "max" : 50
-  //         },
-  //         {
-  //           "min" : 50,
-  //           "max" : 60
-  //         }
-  //       ],
-  //       "question": "How tall is tall?"
-  //     }
-  //   ]),
-  //   present_handle : function(stim) {
-  //     $(".err").hide();
-  //     this.stim = stim;
-  //
-  //     $("#vertical_question").html(stim.question);
-  //
-  //     $("#sliders").empty();
-  //     $("#bin_labels").empty();
-  //
-  //     $("#sliders").append('<td> \
-  //           <div id="slider_endpoint_labels"> \
-  //             <div class="top">likely</div> \
-  //             <div class="bottom">unlikely</div>\
-  //           </div>\
-  //         </td>')
-  //     $("#bin_labels").append('<td></td>')
-  //
-  //     this.n_sliders = stim.bins.length;
-  //     for (var i=0; i<stim.bins.length; i++) {
-  //       $("#sliders").append("<td><div id='vslider" + i + "' class='vertical_slider'>|</div></td>");
-  //       $("#bin_labels").append("<td class='bin_label'>" + stim.bins[i].min + " - " + stim.bins[i].max + "</td>");
-  //     }
-  //
-  //     this.init_sliders(stim);
-  //     exp.sliderPost = [];
-  //   },
-  //
-  //   button : function() {
-  //     if (exp.sliderPost.length < this.n_sliders) {
-  //       $(".err").show();
-  //     } else {
-  //       this.log_responses();
-  //       _stream.apply(this); //use _stream.apply(this); if and only if there is "present" data.
-  //     }
-  //   },
-  //
-  //   init_sliders : function(stim) {
-  //     for (var i=0; i<stim.bins.length; i++) {
-  //       utils.make_slider("#vslider" + i, this.make_slider_callback(i), "vertical");
-  //     }
-  //   },
-  //   make_slider_callback : function(i) {
-  //     return function(event, ui) {
-  //       exp.sliderPost[i] = ui.value;
-  //     };
-  //   },
-  //   log_responses : function() {
-  //     for (var i=0; i<this.stim.bins.length; i++) {
-  //       exp.data_trials.push({
-  //         "trial_type" : "vertical_slider",
-  //         "question" : this.stim.question,
-  //         "response" : exp.sliderPost[i],
-  //         "min" : this.stim.bins[i].min,
-  //         "max" : this.stim.bins[i].max
-  //       });
-  //     }
-  //   },
-  // });
 
   slides.subj_info =  slide({
     name : "subj_info",
@@ -406,7 +132,7 @@ function make_slides(f) {
           "trials" : exp.data_trials,
           "catch_trials" : exp.catch_trials,
           "system" : exp.system,
-          "condition" : exp.condition,
+          // "condition" : exp.condition,
           "subject_information" : exp.subj_data,
           "time_in_minutes" : (Date.now() - exp.startT)/60000
       };
@@ -420,15 +146,9 @@ function make_slides(f) {
 /// init ///
 function init() {
   //specify conditions
-  exp.condition = _.sample(["comparatives", "multiple negations"]); //can randomize between subject conditions here
+  // exp.condition = _.sample(["comparatives", "multiple negations"]); //can randomize between subject conditions here
   //blocks of the experiment:
   exp.structure=["i0", "consent", "instructions", "example", "critical", 'subj_info', 'thanks'];
-
-  // exp.primingStims = {"comparatives": ["John ate more food than this burger.",
-  //                             "Mary had more pets than Fido."],
-  //            "multiple negations": ["No head injury is too severe to depair",
-  //            "No head injury is too trivial to ignore"]
-  //   }[exp.condition];
 
   // generally no need to change anything below
   exp.trials = [];
