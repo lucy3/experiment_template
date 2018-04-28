@@ -1,0 +1,1000 @@
+# LongShort 1 supp_shortfirst
+Bob was very bad at algebra, so he hated...
+1. math    2. mathematics
+? Is Bob bad at algebra? Yes
+
+# LongShort 1 supp_longfirst
+Bob was very bad at algebra, so he hated...
+1. mathematics    2. math
+? Is Bob bad at algebra? Yes
+
+# LongShort 1 neut_shortfirst
+Bob introduced himself to me as someone who loved...
+1. math    2. mathematics
+? Did Bob introduce himself to me? Yes
+
+# LongShort 1 neut_longfirst
+Bob introduced himself to me as someone who loved...
+1. mathematics    2. math
+? Did Bob introduce himself to me? Yes
+
+# LongShort 2 supp_shortfirst
+For commuting to work, John got a 10-speed...
+1. bike    2. bicycle
+? Does John commute to work? Yes
+
+# LongShort 2 supp_longfirst
+For commuting to work, John got a 10-speed...
+1. bicycle    2. bike
+? Does John commute to work? Yes
+
+# LongShort 2 neut_shortfirst
+Last week John finally bought himself a new...
+1. bike    2. bicycle
+? Did John buy a new bike? Yes
+
+# LongShort 2 neut_longfirst
+Last week John finally bought himself a new...
+1. bicycle    2. bike
+? Did John buy a new bike? Yes
+
+# LongShort 3 supp_shortfirst
+Henry stayed up all night studying for his...
+1. exam    2. examination
+? Did Henry study? Yes
+
+# LongShort 3 supp_longfirst
+Henry stayed up all night studying for his...
+1. examination   2. exam
+? Did Henry study? Yes
+
+# LongShort 3 neut_shortfirst
+Henry was stressed because he had a major...
+1. exam    2. examination
+? Was Henry stressed? Yes
+
+# LongShort 3 neut_longfirst
+Henry was stressed because he had a major...
+1. examination    2. exam
+? Was Henry stressed? Yes
+
+# LongShort 4 supp_shortfirst
+Jason moved off campus because he was tired of living in a...
+1. dorm    2. dormitory
+? Did Jason want to keep living on campus? No
+
+# LongShort 4 supp_longfirst
+Jason moved off campus because he was tired of living in a...
+1. dormitory    2. dorm
+? Did Jason want to keep living on campus? No
+
+# LongShort 4 neut_shortfirst
+After leaving Dan's office, Jason did not want to go to the...
+1. dorm    2. dormitory
+? Did Dan leave Jason's office? No
+
+# LongShort 4 neut_longfirst
+After leaving Dan's office, Jason did not want to go to the...
+1. dormitory    2. dorm
+? Did Dan leave Jason's office? No
+
+# LongShort 5 supp_shortfirst
+To clarify the new policy, the boss sent everyone in the office a...
+1. memo    2. memorandum
+? Did the boss send something to everyone in the office? Yes
+
+# LongShort 5 supp_longfirst
+To clarify the new policy, the boss sent everyone in the office a...
+1. memorandum    2. memo
+? Did the boss send something to everyone in the office? Yes
+
+# LongShort 5 neut_shortfirst
+While he was going through a stack of papers, the boss found a...
+1. memo    2. memorandum
+? Did the boss find something? Yes
+
+# LongShort 5 neut_longfirst
+While he was going through a stack of papers, the boss found a...
+1. memorandum    2. memo
+? Did the boss find something? Yes
+
+# LongShort 6 supp_shortfirst
+Paul knew what Mary looked like before meeting her because he had seen a...
+1. photo    2. photograph
+? Did Paul know what Mary looked like before meeting her? Yes
+
+# LongShort 6 supp_longfirst
+Paul knew what Mary looked like before meeting her because he had seen a...
+1. photograph    2. photo
+? Did Paul know what Mary looked like before meeting her? Yes
+
+# LongShort 6 neut_shortfirst
+Paul thinks that what would be really useful in that particular situation is a...
+1. photo    2. photograph
+? Does Paul think something would be useful? Yes
+
+# LongShort 6 neut_longfirst
+Paul thinks that what would be really useful in that particular situation is a...
+1. photograph    2. photo
+? Does Paul think something would be useful? Yes
+
+# LongShort 7 supp_shortfirst
+Jim wanted to go to the wildest parties on campus, so he went to the biggest...
+1. frat    2. fraternity
+? Did Jim want to go to parties? Yes
+
+# LongShort 7 supp_longfirst
+Jim wanted to go to the wildest parties on campus, so he went to the biggest...
+1. fraternity    2. frat
+? Did Jim want to go to parties? Yes
+
+# LongShort 7 neut_shortfirst
+When coming home from work, Jim did everything he possibly could to avoid walking by the...
+1. frat    2. fraternity
+? Did Jim try to avoid something? Yes
+
+# LongShort 7 neut_longfirst
+When coming home from work, Jim did everything he possibly could to avoid walking by the...
+1. fraternity    2. frat
+? Did Jim try to avoid something? Yes
+
+# LongShort 8 supp_shortfirst
+Mary got some chocolate milk out of the...
+1. fridge    2. refrigerator
+? Did Mary get just juice from the fridge? No
+
+# LongShort 8 supp_longfirst
+Mary got some chocolate milk out of the...
+1. refrigerator    2. fridge
+? Did Mary get just juice from the fridge? No
+
+# LongShort 8 neut_shortfirst
+Mary asked Bill to help her move the...
+1. fridge    2. refrigerator
+? Did Mary ask for help moving the piano? No
+
+# LongShort 8 neut_longfirst
+Mary asked Bill to help her move the...
+1. refrigerator    2. fridge
+? Did Mary ask for help moving the piano? No
+
+# LongShort 9 supp_shortfirst
+At the zoo, John took a picture of a fat...
+1. hippo    2. hippopotamus
+? Did John take pictures at the zoo? Yes
+
+# LongShort 9 supp_longfirst
+At the zoo, John took a picture of a fat...
+1. hippopotamus    2. hippo
+? Did John take pictures at the zoo? Yes
+
+# LongShort 9 neut_shortfirst
+John loves his picture book, especially the page with the...
+1. hippo    2. hippopotamus
+? Does John love his picture book? Yes
+
+# LongShort 9 neut_longfirst
+John loves his picture book, especially the page with the...
+1. hippopotamus    2. hippo
+? Does John love his picture book? Yes
+
+# LongShort 10 supp_shortfirst
+Mary went to the zoo to see a thick-skinned...
+1. rhino    2. rhinoceros
+? Did Mary go to the zoo? Yes
+
+# LongShort 10 supp_longfirst
+Mary went to the zoo to see a thick-skinned...
+1. rhinoceros    2. rhino
+? Did Mary go to the zoo? Yes
+
+# LongShort 10 neut_shortfirst
+Mary marveled at the calm quiet composure of the...
+1. rhino    2. rhinoceros
+? Did Mary see an animal? Yes
+
+# LongShort 10 neut_longfirst
+Mary marveled at the calm quiet composure of the...
+1. rhinoceros    2. rhino
+? Did Mary see an animal? Yes
+
+# LongShort 11 supp_shortfirst
+Susan loves the apes at the zoo, and she even has a favorite...
+1. chimp    2. chimpanzee
+? Does Susan dislike the apes at the zoo? No
+
+# LongShort 11 supp_longfirst
+Susan loves the apes at the zoo, and she even has a favorite...
+1. chimpanzee    2. chimp
+? Does Susan dislike the apes at the zoo? No
+
+# LongShort 11 neut_shortfirst
+During a game of charades, Susan was too embarrassed to act like a...
+1. chimp    2. chimpanzee
+? Was Susan comfortable during charades? No
+
+# LongShort 11 neut_longfirst
+During a game of charades, Susan was too embarrassed to act like a...
+1. chimpanzee    2. chimp
+? Was Susan comfortable during charades? No
+
+# LongShort 12 supp_shortfirst
+Mark was embarrassed to be caught downloading...
+1. porn    2. pornography
+? Did Mark feel embarrassed to be caught downloading something? Yes
+
+# LongShort 12 supp_longfirst
+Mark was embarrassed to be caught downloading...
+1. pornogrpahy    2. porn
+? Did Mark feel embarrassed to be caught downloading something? Yes
+
+# LongShort 12 neut_shortfirst
+My brother Mark does not approve of...
+1. porn    2. pornography
+? Did Mark disapprove of something? Yes
+
+# LongShort 12 neut_longfirst
+My brother Mark does not approve of...
+1. pornography    2. porn
+? Did Mark disapprove of something? Yes
+
+# LongShort 13 supp_shortfirst
+For going to the prom, Paul rented a...
+1. limo    2. limousine
+? Did Paul go to prom? Yes
+
+# LongShort 13 supp_longfirst
+For going to the prom, Paul rented a...
+1. limousine    2. limo
+? Did Paul go to prom? Yes
+
+# LongShort 13 neut_shortfirst
+Last month, Paul and his friends rented a...
+1. limo    2. limousine
+? Did Paul's father rent something? Yes
+
+# LongShort 13 neut_longfirst
+Last month, Paul and his friends rented a...
+1. limousine    2. limo
+? Did Paul's father rent something? Yes
+
+# LongShort 14 supp_shortfirst
+In the jazz band, Tucker almost always plays the...
+1. sax    2. saxophone
+? Is Tucker in a polka band? No
+
+# LongShort 14 supp_longfirst
+In the jazz band, Tucker almost always plays the...
+1. saxophone    2. sax
+? Is Tucker in a polka band? No
+
+# LongShort 14 neut_shortfirst
+Last week, Tucker picked a lock and stole a...
+1. sax    2. saxophone
+? Is Tucker innocent of theft? No
+
+# LongShort 14 neut_longfirst
+Last week, Tucker picked a lock and stole a...
+1. saxophone    2. sax
+? Is Tucker innocent of theft? No
+
+# LongShort 15 supp_shortfirst
+My brother called the exterminator after he found a...
+1. roach    2. cockroach
+? Did my brother call the florist? No
+
+# LongShort 15 supp_longfirst
+My brother called the exterminator after he found a...
+1. cockroach    2. roach
+? Did my brother call the florist? No
+
+# LongShort 15 neut_shortfirst
+Leaving our family's house yesterday, my brother discovered a...
+1. roach   2. cockroach
+? Did my brother stay in the house all day yesterday? No
+
+# LongShort 15 neut_longfirst
+Leaving our family's house yesterday, my brother discovered a...
+1. cockroach   2. roach
+? Did my brother stay in the house all day yesterday? No
+
+# LongShort 16 supp_shortfirst
+When John's mother calls, he does not pick up the...
+1. phone    2. telephone
+? Does John avoid answering his mother's calls? Yes
+
+# LongShort 16 supp_longfirst
+When John's mother calls, he does not pick up the...
+1. telephone    2. phone
+? Does John avoid answering his mother's calls? Yes
+
+# LongShort 16 neut_shortfirst
+In every room of John's family home, there is a...
+1. phone    2. telephone
+? Does John's family have a home? Yes
+
+# LongShort 16 neut_longfirst
+In every room of John's family home, there is a...
+1. telephone    2. phone
+? Does John's family have a home? Yes
+
+# LongShort 17 supp_shortfirst
+After the other team scored, the coach argued with the...
+1. ref   2. referee
+? Did the coach's team score? No
+
+# LongShort 17 supp_longfirst
+After the other team scored, the coach argued with the...
+1. referee   2. ref
+? Did the coach's team score? No
+
+# LongShort 17 neut_shortfirst
+To make extra money on weekends, Justin works as a...
+1. ref   2. referee
+?Does Justin just relax and not work on weekends? No
+
+# LongShort 17 neut_longfirst
+To make extra money on weekends, Justin works as a...
+1. referee   2. ref
+?Does Justin just relax and not work on weekends? No
+
+# LongShort 18 supp_shortfirst
+James knows Harvard well since he spent four years there as an...
+1. undergrad    2. undergraduate
+?Did James go to Yale? No
+
+# LongShort 18 supp_longfirst
+James knows Harvard well since he spent four years there as an...
+1. undergraduate    2. undergrad
+?Did James go to Yale? No
+
+# LongShort 18 neut_shortfirst
+James had not thrown a football or baseball since he was an...
+1. undergrad    2. undergraduate
+?Does James still frequently throw baseballs? No
+
+# LongShort 18 neut_longfirst
+James had not thrown a football or baseball since he was an...
+1. undergraduate    2. undergrad
+?Does James still frequently throw baseballs? No
+
+# LongShort 19 supp_shortfirst
+Florian thought that the brown package weighed approximately one...
+1. kilo    2. kilogram
+?Is the package green? No
+
+# LongShort 19 supp_longfirst
+Florian thought that the brown package weighed approximately one...
+1. kilogram    2. kilo
+?Is the package green? No
+
+# LongShort 19 neut_shortfirst
+Florian told the others they should order approximately one...
+1. kilo    2. kilogram
+?Did Florian refuse to tell the others how much to order? No
+
+# LongShort 19 neut_longfirst
+Florian told the others they should order approximately one...
+1. kilogram    2. kilo
+?Did Florian refuse to tell the others how much to order? No
+
+# LongShort 20 supp_shortfirst
+After being diagnosed with cancer, Lionel had to undergo a course of...
+1. chemo    2. chemotherapy
+?Is it true that Lionel was never diagnosed with cancer? No
+
+# LongShort 20 supp_longfirst
+After being diagnosed with cancer, Lionel had to undergo a course of...
+1. chemotherapy    2. chemo
+?Is it true that Lionel was never diagnosed with cancer? No
+
+# LongShort 20 neut_shortfirst
+The man explained to Lionel that no one enjoys having to undergo...
+1. chemo    2. chemotherapy
+?Did the man refuse to speak to Lionel? No
+
+# LongShort 20 neut_longfirst
+The man explained to Lionel that no one enjoys having to undergo...
+1. chemotherapy    2. chemo
+?Did the man refuse to speak to Lionel? No
+
+# LongShort 21 supp_shortfirst
+When John gets home, he relaxes on the couch and watches his...
+1. TV    2. television
+? When John gets home, does he first read a book? No
+
+# LongShort 21 supp_longfirst
+When John gets home, he relaxes on the couch and watches his...
+1. television    2. TV
+? When John gets home, does he first read a book? No
+
+# LongShort 21 neut_shortfirst
+To celebrate his important promotion, John went out and bought a new...
+1. TV    2. television
+? Did John buy a car to celebrate his promotion? No
+
+# LongShort 21 neut_longfirst
+To celebrate his important promotion, John went out and bought a new...
+1. television    2. TV
+? Did John buy a car to celebrate his promotion? No
+
+# LongShort 22 supp_shortfirst
+After realizing he ate too much bread and cereal, Gary cut down on...
+1. carbs    2. carbohydrates
+? Did Gary want to keep eating a lot of bread and cereal? No
+
+# LongShort 22 supp_longfirst
+After realizing he ate too much bread and cereal, Gary cut down on...
+1. carbohydrates    2. carbs
+? Did Gary want to keep eating a lot of bread and cereal? No
+
+# LongShort 22 neut_shortfirst
+Ever since he talked to Lily, Gary has been trying to avoid...
+1. carbs    2. carbohydrates
+? Does Gary ignore what he eats? No
+
+# LongShort 22 neut_longfirst
+Ever since he talked to Lily, Gary has been trying to avoid...
+1. carbohydrates    2. carbs
+? Does Gary ignore what he eats? No
+
+# LongShort 23 supp_shortfirst
+Bill drove past the billboard with his company's latest...
+1. ad    2. advertisement
+? Did Bill pass a billboard? Yes
+
+# LongShort 23 supp_longfirst
+Bill drove past the billboard with his company's latest...
+1. advertisement    2. ad
+? Did Bill pass a billboard? Yes
+
+# LongShort 23 neut_shortfirst
+Almost everywhere Bill looked, there seemed to be another...
+1. ad    2. advertisement
+? Did Bill see a lot of something? Yes
+
+# LongShort 23 neut_longfirst
+Almost everywhere Bill looked, there seemed to be another...
+1. advertisement    2. ad
+? Did Bill see a lot of something? Yes
+
+# LongShort 24 supp_shortfirst
+When it got really hot, Eric wished his house in Florida had...
+1. A/C   2. air conditioning
+? Is Eric's only house in Maine? No
+
+# LongShort 24 supp_longfirst
+When it got really hot, Eric wished his house in Florida had...
+1. air conditioning    2. A/C
+? Is Eric's only house in Maine? No
+
+# LongShort 24 neut_shortfirst
+After several years, Eric finally decided that he was going to get...
+1. A/C   2. air conditioning
+? Did Eric continue putting off making a decision? No
+
+# LongShort 24 neut_longfirst
+After several years, Eric finally decided that he was going to get...
+1. air conditioning    2. A/C
+? Did Eric continue putting off making a decision? No
+
+# LongShort 25 supp_shortfirst
+Susan stopped at the Shell station because her car was low on...
+1. gas    2. gasoline
+? Did Susan stop at a Shell station? Yes
+
+# LongShort 25 supp_longfirst
+Susan stopped at the Shell station because her car was low on...
+1. gasoline    2. gas
+? Did Susan stop at a Shell station? Yes
+
+# LongShort 25 neut_shortfirst
+These days, Susan thinks that it costs far too much to buy...
+1. gas    2. gasoline
+? Does Susan think something is too expensive? Yes
+
+# LongShort 25 neut_longfirst
+These days, Susan thinks that it costs far too much to buy...
+1. gasoline    2. gas
+? Does Susan think something is too expensive? Yes
+
+# LongShort 26 supp_shortfirst
+Although Kevin loves British culture, he has never actually been to the...
+1. U.K.    2. United Kingdom
+? Does Kevin hate British culture? No
+
+# LongShort 26 supp_longfirst
+Although Kevin loves British culture, he has never actually been to the...
+1. United Kingdom    2. U.K.
+? Does Kevin hate British culture? No
+
+# LongShort 26 neut_shortfirst
+Although he rarely leaves home, Kevin's favorite place to go is the...
+1. U.K.    2. United Kingdom
+? Does Kevin leave home often? No
+
+# LongShort 26 neut_longfirst
+Although he rarely leaves home, Kevin's favorite place to go is the...
+1. United Kingdom    2. U.K.
+? Does Kevin leave home often? No
+
+# LongShort 27 supp_shortfirst
+Susan made sure the sound system worked, first testing the...
+1. mic    2. microphone
+? Did Susan test the mic last? No
+
+# LongShort 27 supp_longfirst
+Susan made sure the sound system worked, first testing the...
+1. microphone    2. mic
+? Did Susan test the mic last? No
+
+# LongShort 27 neut_shortfirst
+Susan asked the store staff several questions about their best...
+1. mic    2. microphone
+? Did Susan ask the store staff about laptops? No
+
+# LongShort 27 neut_longfirst
+Susan asked the store staff several questions about their best...
+1. microphone    2. mic
+? Did Susan ask the store staff about laptops? No
+
+# LongShort 28 supp_shortfirst
+Mary caused a panic by spilling some dangerous chemicals in her...
+1. lab    2. laboratory
+? Did Mary spill chemicals? Yes
+
+# LongShort 28 supp_longfirst
+Mary caused a panic by spilling some dangerous chemicals in her...
+1. laboratory    2. lab
+? Did Mary spill chemicals? Yes
+
+# LongShort 28 neut_shortfirst
+Mary wanted to show Susan the building with her...
+1. lab    2. laboratory
+? Did Mary want to show Susan a building? Yes
+
+# LongShort 28 neut_longfirst
+Mary wanted to show Susan the building with her...
+1. laboratory    2. lab
+? Did Mary want to show Susan a building? Yes
+
+# LongShort 29 supp_shortfirst
+Clay knew the dog was either a Golden Retriever or a...
+1. Lab    2. Labrador
+? Is a Golden Retriever a type of cat? No
+
+# LongShort 29 supp_longfirst
+Clay knew the dog was either a Golden Retriever or a...
+1. Labrador    2. Lab
+? Is a Golden Retriever a type of cat? No
+
+# LongShort 29 neut_shortfirst
+The first thing that Clay saw at the park was a...
+1. Lab    2. Labrador
+? Was a tiger the first thing Clay saw at the park? No
+
+# LongShort 29 neut_longfirst
+The first thing that Clay saw at the park was a...
+1. Labrador    2. Lab
+? Was a tiger the first thing Clay saw at the park? No
+
+# LongShort 30 supp_shortfirst
+Mary looks young, so the bartender asked her for...
+1. ID    2. identification
+? Does Mary look old for her age? No
+
+# LongShort 30 supp_longfirst
+Mary looks young, so the bartender asked her for...
+1. identification    2. ID
+? Does Mary look old for her age? No
+
+# LongShort 30 neut_shortfirst
+Several days ago, Mary was told to bring her...
+1. ID    2. identification
+? Was Mary told she didn't need to bring anything? No
+
+# LongShort 30 neut_longfirst
+Several days ago, Mary was told to bring her...
+1. identification    2. ID
+? Was Mary told she didn't need to bring anything? No
+
+# LongShort 31 supp_shortfirst
+Chris ordered a sandwich with mustard instead of...
+1. mayo    2. mayonnaise
+? Did Chris order a sandwich? Yes
+
+# LongShort 31 supp_longfirst
+Chris ordered a sandwich with mustard instead of...
+1. mayonnaise    2. mayo
+? Did Chris order a sandwich? Yes
+
+# LongShort 31 neut_shortfirst
+Yesterday Chris went to the store and bought...
+1. mayo    2. mayonnaise
+? Did Chris go shopping yesterday? Yes
+
+# LongShort 31 neut_longfirst
+Yesterday Chris went the store and bought...
+1. mayonnaise    2. mayo
+? Did Chris go shopping yesterday? Yes
+
+# LongShort 32 supp_shortfirst
+Clarence would rather drink water than Pepsi or...
+1. Coke    2. Coca-Cola
+? Does Clarence prefer soda to water? No
+
+# LongShort 32 supp_longfirst
+Clarence would rather drink water than Pepsi or...
+1. Coca-Cola    2. Coke 
+? Does Clarence prefer soda to water? No
+
+# LongShort 32 neut_shortfirst
+At the restaurant we went to, Clarence ordered...
+1. Coke    2. Coca-Cola
+? Did Clarence order water? No
+
+# LongShort 32 neut_longfirst
+At the restaurant we went to, Clarence ordered...
+1. Coca-Cola    2. Coke
+? Did Clarence order water? No
+
+# LongShort 33 supp_shortfirst
+The ice cream store's blender broke, so they could not make Joey a...
+1. shake    2. milkshake
+? Did the ice cream store's blender work well? No
+
+# LongShort 33 supp_longfirst
+The ice cream store's blender broke, so they could not make Joey a...
+1. milkshake    2. shake
+? Did the ice cream store's blender work well? No
+
+# LongShort 33 neut_shortfirst
+His friends all know that there is nothing Joey loves more than a...
+1. shake    2. milkshake
+? Does Joey like Snickers best? No
+
+# LongShort 33 neut_longfirst
+His friends all know that there is nothing Joey loves more than a...
+1. milkshake    2. shake
+? Does Joey like Snickers best? No
+
+# LongShort 34 supp_shortfirst
+When her dog got sick, Karen took it to the...
+1. vet    2. veterinarian
+? Does Karen have a dog? Yes
+
+# LongShort 34 supp_longfirst
+When her dog got sick, Karen took it to the...
+1. veterinarian    2. vet
+? Does Karen have a dog? Yes
+
+# LongShort 34 neut_shortfirst
+Just as she planned, Karen is training to be a...
+1. vet    2. veterinarian
+? Is Karen training to work with animals? Yes
+
+# LongShort 34 neut_longfirst
+Just as she planned, Karen is training to be a...
+1. veterinarian    2. vet
+? Is Karen training to work with animals? Yes
+
+# LongShort 35 supp_shortfirst
+Stan thinks McDonald's makes the best...
+1. burger    2. hamburger
+? Does Stan think Wendy's has the best burgers? No
+
+# LongShort 35 supp_longfirst
+Stan thinks McDonald's makes the best...
+1. hamburger    2. burger
+? Does Stan think Wendy's has the best burgers? No
+
+# LongShort 35 neut_shortfirst
+Last night, Stan bought himself a...
+1. burger    2. hamburger
+? Did Stan eat only hot dogs last night? No
+
+# LongShort 35 neut_longfirst
+Last night, Stan bought himself a...
+1. hamburger    2. burger
+? Did Stan eat only hot dogs last night? No
+
+# LongShort 36 supp_shortfirst
+Jack did leg exercises to strengthen his...
+1. quads   2. quadriceps
+? Did Jack do only arm exercises? No
+
+# LongShort 36 supp_longfirst
+Jack did leg exercises to strengthen his...
+1. quadriceps   2. quads
+? Did Jack do only arm exercises? No
+
+# LongShort 36 neut_shortfirst
+Jack was known for having very large...
+1. quads    2. quadriceps
+? Was Jack known for his big biceps? No
+
+# LongShort 36 neut_longfirst
+Jack was known for having very large...
+1. quadriceps    2. quads
+? Was Jack known for his big biceps? No
+
+# LongShort 37 supp_shortfirst
+To get some fresh air, the students like to spend time in the...
+1. quad    2. quadrangle
+? Do the students go to the cafeteria to get fresh air? No
+
+# LongShort 37 supp_longfirst
+To get some fresh air, the students like to spend time in the...
+1. quadrangle   2. quad
+? Do the students go to the cafeteria to get fresh air? No
+
+# LongShort 37 neut_shortfirst
+Yesterday, before he went home, Joseph spent a lot of time in the...
+1. quad   2. quadrangle
+? Did Joseph spend a lot of time indoors yesterday? No
+
+# LongShort 37 neut_longfirst
+Yesterday, before he went home, Joseph spent a lot of time in the...
+1. quadrangle    2. quad
+? Did Joseph spend a lot of time indoors yesterday? No
+
+# LongShort 38 supp_shortfirst
+After the car accident, Ben was taken in an ambulance to the...
+1. ER    2. emergency room
+? Did Ben have a car accident? Yes
+
+# LongShort 38 supp_longfirst
+After the car accident, Ben was taken in an ambulance to the...
+1. emergency room    2. ER
+? Did Ben have a car accident? Yes
+
+# LongShort 38 neut_shortfirst
+Neither Ben nor his wife have ever had to go to the...
+1. ER    2. emergency room
+? Does Ben have a wife? Yes
+
+# LongShort 38 neut_longfirst
+Neither Ben nor his wife have ever had to go to the...
+1. emergency room    2. ER
+? Does Ben have a wife? Yes
+
+# LongShort 39 supp_shortfirst
+Although John now lives in France, he still considers himself American because he was born in the...
+1. U.S.    2. United States
+? Does John now live in France? Yes
+
+# LongShort 39 supp_longfirst
+Although John now lives in France, he still considers himself American because he was born in the...
+1. United States    2. U.S.
+? Does John now live in France? Yes
+
+# LongShort 39 neut_shortfirst
+When he opened the box, John was surprised to learn he had received a package from the...
+1. U.S.    2. United States
+? Did John receive a package? Yes
+
+# LongShort 39 neut_longfirst
+When he opened the box, John was surprised to learn he had received a package from the...
+1. United States    2. U.S.
+? Did John receive a package? Yes
+
+# LongShort 40 supp_shortfirst
+Because it is a neutral country, Switzerland will never become a member of the...
+1. U.N.   2. United Nations
+? Is Switzerland a neutral country? Yes
+
+# LongShort 40 supp_longfirst
+Because it is a neutral country, Switzerland will never become a member of the...
+1. United Nations    2. U.N.
+? Is Switzerland a neutral country? Yes
+
+# LongShort 40 neut_shortfirst
+If he has free time, Don is still hoping to get to visit the...
+1. U.N.   2. United Nations
+? Is Don hoping to do something? Yes
+
+# LongShort 40 neut_longfirst
+If he has free time, Don is still hoping to get to visit the...
+1. United Nations    2. U.N.
+? Is Don hoping to do something? Yes
+
+# filler 1 filler
+John walked outside to talk to his...
+1. neighbor    2. friend
+? Did John stay inside? No
+
+# filler 2 filler
+Mary washed the dishes with the...
+1. detergent    2. soap
+? Did Mary wash the dishes? Yes
+
+# filler 3 filler
+Yesterday Susan went to the...
+1. doctor    2. physician
+? Did Susan stay home yesterday? No
+
+# filler 4 filler
+After many years, Paul ran into an old...
+1. classmate    2. pal
+? Did Paul see someone? Yes
+
+# filler 5 filler
+Bill's aunt went to the mall to buy...
+1. shoes    2. socks
+? Did Bill's aunt go home? No
+
+# filler 6 filler
+Susan kept a jewelry box full of...
+1. rings    2. diamonds
+? Did Susan have a jewelry box? Yes
+
+# filler 7 filler
+Mary saw the neighbor's...
+1. car    2. dog
+? Did Mary have neighbor? Yes
+
+# filler 8 filler
+John didn't get to see the new...
+1. movie    2. film
+? Did John see the new movie? No
+
+# filler 9 filler
+Just yesterday, Mary found out about the...
+1. scandal    2. affair
+? Did Mary know about the scandal all along? No
+
+# filler 10 filler
+Tired, Bill took a four-hour...
+1. nap    2. snooze
+? Did Bill sleep? Yes
+
+# filler 11 filler
+At John's company, they created...
+1. armchairs    2. tables
+? Does the company make CDs? No
+
+# filler 12 filler
+Next week, Susan will vacation in...
+1. Mexico    2. California
+? Will Susan will be in Mexico next week? Yes
+
+# filler 13 filler
+Afraid of many-legged creatures, Bill couldn't kill the...
+1. spider    2. centipede
+? Did Bill kill the spider? No
+
+# filler 14 filler
+Someone broke in and stole Mary's...
+1. computer    2. PC
+? Was Mary's computer stolen? Yes
+
+# filler 15 filler
+John's dog barked at every cat on the...
+1. street    2. road
+? Did John have a dog? Yes
+
+# filler 16 filler
+Bill carefully washed the...
+1. car    2. house
+? Did Bill wash the dishes? No
+
+# filler 17 filler
+Confused, Susan asked him for an...
+1. explanation    2. clarification
+? Did Susan understand at first? No
+
+# filler 18 filler
+Mary can't wait to see her...
+1. brother    2. bro
+? Does Mary have a brother? Yes
+
+# filler 19 filler
+Susan altered the length of her...
+1. dress    2. skirt
+? Did Susan alter her pants? No
+
+# filler 20 filler
+John laughed at the...
+1. clown    2. jester
+? Did John laugh? Yes
+
+# filler 21 filler
+After he twisted his ankle, Bill hopped on one...
+1. leg    2. foot
+? Did Bill break his arm? No
+
+# filler 22 filler
+After losing the election, John went to the...
+1. park    2. school
+? Did John lose the election? Yes
+
+# filler 23 filler
+As an Italian, Kevin enjoys eating...
+1. pizza    2. pasta
+? Is Kevin Italian? Yes
+
+# filler 24 filler
+Never at a loss for words, Tom gave a long...
+1. speech    2. recital
+? Is Tom a quiet person? No
+
+# filler 25 filler
+Roger wanted his son to play...
+1. tennis    2. golf
+? Does Roger have a son? Yes
+
+# filler 26 filler
+Sam was hungry even after eating...
+1. chicken   2. turkey
+? Was Sam still hungry after eating? Yes
+
+# filler 27 filler
+Marge was angry that her son broke the...
+1. lamp   2. table
+? Was Marge angry? Yes
+
+# filler 28 filler
+Ken doesn't know how to use a computer so has never been on the...
+1. web    2. Internet
+? Does Ken use a computer? No
+
+# filler 29 filler
+Lori is known for being a good...
+1. cook    2. chef
+? Does Lori make food? Yes
+
+# filler 30 filler
+Lester, who is from Indiana, has never been to....
+1. India    2. Maine
+? Is Lester from Arizona? No
+
+# filler 31 filler
+Sean, who likes to cook, bought a special...
+1. tomato   2. potato
+? Does Sean hate cooking? No
+
+# filler 32 filler
+Mike's aunt loves drawing pictures of...
+1. fish    2. bears
+? Does Mike's aunt draw? Yes
+
+# filler 33 filler
+Denver, a city in Colorado, is known for its...
+1. mountains    2. lakes
+? Is Denver in Utah? No
+
+# filler 34 filler
+Birds can make good pets but require a lot of...
+1. food    2. water
+? Can birds make good pets? Yes
+
+# filler 35 filler
+Strangely, Leo climbed the mountain without any...
+1. shoes   2. boots
+? Did Leo climb a mountain? Yes
+
+# filler 36 filler
+The red bottle that Adam dropped was made of...
+1. glass    2. plastic
+? Did Greg drop the red bottle? No
+
+# filler 37 filler
+Nine artists were gathered at the...
+1. convention   2. meeting
+? Were there thirteen artists gathered?  No
+
+# filler 38 filler
+The farmer, who never left his farm, grew a big...
+1. radish    2. turnip
+? Did the farmer spend a lot of time at his farm? Yes
+
+# filler 39 filler
+Hugo fled from the hurricane, that was approaching his...
+1. city   2. town
+? Did Hugo flee a hurricane? Yes
+
+# filler 40 filler
+Astronauts have been to the moon but never...
+1. Mars    2. Jupiter
+? Have astronauts been to the moon? Yes
+
