@@ -48,16 +48,33 @@ function make_slides(f) {
     },
   });
 
+  var dict = { 
+                "LongShort 1" : {
+                  supportive : "Bob was very bad at algebra, so he hated...",
+                  supportiveQ : "Is Bob bad at algebra?",
+                  neutral : "Bob introduced himself to me as someone who loved...",
+                  neutralQ : "Did Bob introduce himself to me?",
+                  choice1 : "math",
+                  choice2 : "mathematics",
+                }, 
+                "filler 1" : {
+                  context : "John walked outside to talk to his...",
+                  comp_q : "Did John stay inside?",
+                  choice1 : "neighbor", 
+                  choice2 : "friend",
+                },
+  };
+
   slides.critical = slide({
     name : "critical",
 
     /* trial information for this block
      (the variable 'stim' will change between each of these values,
       and for each of these, present_handle will be run.) */
-    present : _.shuffle(Array(40).fill().map((_,i) => 'LongShort ' + (i+1)).concat(Array(40).fill().map((_,i) => 'filler ' + (i+1)))),
+    present : _.shuffle(Array(1).fill().map((_,i) => 'LongShort ' + (i+1)).concat(Array(1).fill().map((_,i) => 'filler ' + (i+1)))),
 
     //this gets run only at the beginning of the block
-    present_handle : function(stim) {
+    present_handle : function(stim_item) {
       $(".err").hide();
 
       // uncheck the button and erase the previous value
@@ -65,14 +82,22 @@ function make_slides(f) {
       exp.criticalResponse2 == null;
       $('input[name=criticalChoice1]:checked').prop('checked', false);
       $('input[name=criticalChoice2]:checked').prop('checked', false);
-      if (stim.startsWith("LongShort ")) {
-        var lsType = _.sample(['supp_shortfirst', 'supp_longfirst', 'neut_shortfirst', 'neut_longfirst'])
-        stim = stim + ' ' + lsType
-        $("#criticalSentence").html(stim);
-        $("#criticalQuestion").html("different!");
+      if (stim_item.startsWith("LongShort ")) {
+        var supportive = _.sample(['supp', 'neut'])
+        if (supportive == 'supp') {
+          var context = dict[stim_item].supportive
+          var comp_q = dict[stim_item].supportiveQ
+        } else {
+          var context = dict[stim_item].neutral
+          var comp_q = dict[stim_item].neutralQ
+        }
+        var whichfirst = _.sample(['shortfirst', 'longfirst'])
+        stim = stim_item + ' ' + supportive + '_' + whichfirst
+        $("#criticalSentence").html(context);
+        $("#criticalQuestion").html(comp_q);
       } else {
-        $("#criticalSentence").html(stim);
-        $("#criticalQuestion").html("same for everyone");
+        $("#criticalSentence").html(dict[stim_item].context);
+        $("#criticalQuestion").html(dict[stim_item].comp_q);
       }
 
       this.stim = stim; //you can store this information in the slide so you can record it later.
