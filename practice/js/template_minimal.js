@@ -657,6 +657,7 @@ function make_slides(f) {
         $("#option1").html(dict[stim_item].choice1);
         $("#option2").html(dict[stim_item].choice2);
         $("#criticalQuestion").html(dict[stim_item].comp_q);
+        stim = stim_item
       }
 
       this.stim = stim; //you can store this information in the slide so you can record it later.
