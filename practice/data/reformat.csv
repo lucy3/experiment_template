@@ -1,0 +1,1961 @@
+"","stimulus","context","response","longWord","shortWord","order","workerid"
+"1","LongShort 14","neut","long","saxophone","sax","longfirst",1
+"2","LongShort 31","supp","short","mayonnaise","mayo","longfirst",1
+"3","LongShort 33","neut","long","milkshake","shake","shortfirst",1
+"4","LongShort 12","neut","long","pornography","porn","shortfirst",1
+"5","LongShort 27","supp","long","microphone","mic","longfirst",1
+"6","LongShort 10","neut","long","rhinoceros","rhino","shortfirst",1
+"7","LongShort 18","supp","short","undergraduate","undergrad","shortfirst",1
+"8","LongShort 35","neut","short","hamburger","burger","longfirst",1
+"9","LongShort 5","supp","short","memorandum","memo","shortfirst",1
+"10","LongShort 38","neut","long","emergency room","ER","longfirst",1
+"11","LongShort 40","supp","long","United Nations","U.N.","shortfirst",1
+"12","LongShort 34","neut","short","veterinarian","vet","longfirst",1
+"13","LongShort 23","neut","short","advertisement","ad","longfirst",1
+"14","LongShort 11","neut","short","chimpanzee","chimp","shortfirst",1
+"15","LongShort 37","supp","short","quadrangle","quad","longfirst",1
+"16","LongShort 20","neut","long","chemotherapy","chemo","longfirst",1
+"17","LongShort 15","neut","long","cockroach","roach","shortfirst",1
+"18","LongShort 25","supp","short","gasoline","gas","longfirst",1
+"19","LongShort 4","supp","short","dormitory","dorm","shortfirst",1
+"20","LongShort 13","neut","short","limousine","limo","longfirst",1
+"21","LongShort 36","neut","short","quadriceps","quads","longfirst",1
+"22","LongShort 22","supp","short","carbohydrates","carbs","longfirst",1
+"23","LongShort 16","neut","long","telephone","phone","shortfirst",1
+"24","LongShort 19","neut","long","kilogram","kilo","longfirst",1
+"25","LongShort 21","supp","long","television","TV","shortfirst",1
+"26","LongShort 2","supp","short","bicycle","bike","shortfirst",1
+"27","LongShort 7","supp","short","fraternity","frat","shortfirst",1
+"28","LongShort 30","supp","short","identification","ID","shortfirst",1
+"29","LongShort 29","neut","short","Labrador","Lab","shortfirst",1
+"30","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",1
+"31","LongShort 8","neut","short","refrigerator","fridge","shortfirst",1
+"32","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",1
+"33","LongShort 24","neut","long","air conditioning","A/C","shortfirst",1
+"34","LongShort 17","neut","long","referee","ref","shortfirst",1
+"35","LongShort 6","supp","short","photograph","photo","shortfirst",1
+"36","LongShort 39","supp","short","United States","U.S.","shortfirst",1
+"37","LongShort 9","neut","long","hippopotamus","hippo","longfirst",1
+"38","LongShort 28","neut","short","laboratory","lab","longfirst",1
+"39","LongShort 3","supp","short","examination","exam","shortfirst",1
+"40","LongShort 1","neut","short","mathematics","math","longfirst",1
+"41","LongShort 8","neut","long","refrigerator","fridge","longfirst",2
+"42","LongShort 15","neut","long","cockroach","roach","shortfirst",2
+"43","LongShort 32","supp","long","Coca-Cola","Coke","longfirst",2
+"44","LongShort 27","neut","long","microphone","mic","longfirst",2
+"45","LongShort 16","supp","short","telephone","phone","longfirst",2
+"46","LongShort 11","supp","long","chimpanzee","chimp","longfirst",2
+"47","LongShort 23","supp","long","advertisement","ad","shortfirst",2
+"48","LongShort 6","supp","long","photograph","photo","longfirst",2
+"49","LongShort 7","neut","long","fraternity","frat","shortfirst",2
+"50","LongShort 37","supp","short","quadrangle","quad","shortfirst",2
+"51","LongShort 40","supp","long","United Nations","U.N.","longfirst",2
+"52","LongShort 17","neut","long","referee","ref","shortfirst",2
+"53","LongShort 35","neut","long","hamburger","burger","longfirst",2
+"54","LongShort 36","neut","short","quadriceps","quads","shortfirst",2
+"55","LongShort 30","supp","short","identification","ID","longfirst",2
+"56","LongShort 2","supp","short","bicycle","bike","longfirst",2
+"57","LongShort 29","neut","long","Labrador","Lab","longfirst",2
+"58","LongShort 14","neut","long","saxophone","sax","shortfirst",2
+"59","LongShort 5","neut","short","memorandum","memo","shortfirst",2
+"60","LongShort 38","neut","short","emergency room","ER","shortfirst",2
+"61","LongShort 9","neut","short","hippopotamus","hippo","longfirst",2
+"62","LongShort 28","neut","short","laboratory","lab","longfirst",2
+"63","LongShort 25","supp","short","gasoline","gas","shortfirst",2
+"64","LongShort 19","supp","short","kilogram","kilo","shortfirst",2
+"65","LongShort 10","supp","short","rhinoceros","rhino","shortfirst",2
+"66","LongShort 33","supp","long","milkshake","shake","longfirst",2
+"67","LongShort 39","neut","long","United States","U.S.","shortfirst",2
+"68","LongShort 1","neut","short","mathematics","math","shortfirst",2
+"69","LongShort 21","neut","short","television","TV","shortfirst",2
+"70","LongShort 13","supp","short","limousine","limo","shortfirst",2
+"71","LongShort 3","neut","short","examination","exam","shortfirst",2
+"72","LongShort 18","neut","long","undergraduate","undergrad","longfirst",2
+"73","LongShort 4","supp","short","dormitory","dorm","shortfirst",2
+"74","LongShort 34","supp","short","veterinarian","vet","shortfirst",2
+"75","LongShort 31","supp","long","mayonnaise","mayo","longfirst",2
+"76","LongShort 26","neut","long","United Kingdom","U.K.","longfirst",2
+"77","LongShort 12","supp","short","pornography","porn","longfirst",2
+"78","LongShort 22","neut","short","carbohydrates","carbs","shortfirst",2
+"79","LongShort 20","neut","long","chemotherapy","chemo","longfirst",2
+"80","LongShort 24","supp","short","air conditioning","A/C","shortfirst",2
+"81","LongShort 13","neut","long","limousine","limo","longfirst",3
+"82","LongShort 30","neut","short","identification","ID","shortfirst",3
+"83","LongShort 34","supp","short","veterinarian","vet","shortfirst",3
+"84","LongShort 2","supp","long","bicycle","bike","longfirst",3
+"85","LongShort 38","neut","short","emergency room","ER","shortfirst",3
+"86","LongShort 29","neut","long","Labrador","Lab","longfirst",3
+"87","LongShort 36","supp","short","quadriceps","quads","shortfirst",3
+"88","LongShort 32","neut","long","Coca-Cola","Coke","shortfirst",3
+"89","LongShort 20","neut","long","chemotherapy","chemo","longfirst",3
+"90","LongShort 35","supp","long","hamburger","burger","shortfirst",3
+"91","LongShort 7","supp","long","fraternity","frat","shortfirst",3
+"92","LongShort 3","supp","short","examination","exam","shortfirst",3
+"93","LongShort 23","neut","long","advertisement","ad","shortfirst",3
+"94","LongShort 33","supp","long","milkshake","shake","longfirst",3
+"95","LongShort 28","supp","long","laboratory","lab","shortfirst",3
+"96","LongShort 40","supp","long","United Nations","U.N.","shortfirst",3
+"97","LongShort 12","supp","long","pornography","porn","longfirst",3
+"98","LongShort 4","neut","short","dormitory","dorm","shortfirst",3
+"99","LongShort 1","neut","short","mathematics","math","shortfirst",3
+"100","LongShort 21","supp","short","television","TV","shortfirst",3
+"101","LongShort 19","supp","short","kilogram","kilo","longfirst",3
+"102","LongShort 10","supp","long","rhinoceros","rhino","shortfirst",3
+"103","LongShort 18","supp","short","undergraduate","undergrad","shortfirst",3
+"104","LongShort 37","neut","short","quadrangle","quad","longfirst",3
+"105","LongShort 11","supp","long","chimpanzee","chimp","shortfirst",3
+"106","LongShort 5","neut","short","memorandum","memo","longfirst",3
+"107","LongShort 16","neut","long","telephone","phone","shortfirst",3
+"108","LongShort 14","supp","long","saxophone","sax","longfirst",3
+"109","LongShort 31","neut","long","mayonnaise","mayo","shortfirst",3
+"110","LongShort 26","neut","long","United Kingdom","U.K.","longfirst",3
+"111","LongShort 6","neut","long","photograph","photo","longfirst",3
+"112","LongShort 24","supp","long","air conditioning","A/C","shortfirst",3
+"113","LongShort 15","neut","long","cockroach","roach","longfirst",3
+"114","LongShort 17","neut","long","referee","ref","shortfirst",3
+"115","LongShort 8","neut","long","refrigerator","fridge","longfirst",3
+"116","LongShort 9","neut","short","hippopotamus","hippo","longfirst",3
+"117","LongShort 27","neut","long","microphone","mic","shortfirst",3
+"118","LongShort 39","supp","long","United States","U.S.","longfirst",3
+"119","LongShort 22","neut","short","carbohydrates","carbs","longfirst",3
+"120","LongShort 25","neut","short","gasoline","gas","shortfirst",3
+"121","LongShort 33","supp","long","milkshake","shake","shortfirst",4
+"122","LongShort 23","neut","long","advertisement","ad","longfirst",4
+"123","LongShort 15","supp","long","cockroach","roach","shortfirst",4
+"124","LongShort 35","supp","short","hamburger","burger","longfirst",4
+"125","LongShort 20","supp","long","chemotherapy","chemo","shortfirst",4
+"126","LongShort 30","supp","short","identification","ID","longfirst",4
+"127","LongShort 36","neut","short","quadriceps","quads","longfirst",4
+"128","LongShort 24","supp","long","air conditioning","A/C","longfirst",4
+"129","LongShort 25","neut","short","gasoline","gas","shortfirst",4
+"130","LongShort 2","neut","short","bicycle","bike","longfirst",4
+"131","LongShort 11","neut","long","chimpanzee","chimp","longfirst",4
+"132","LongShort 13","supp","short","limousine","limo","longfirst",4
+"133","LongShort 19","neut","short","kilogram","kilo","shortfirst",4
+"134","LongShort 40","neut","long","United Nations","U.N.","shortfirst",4
+"135","LongShort 7","neut","short","fraternity","frat","longfirst",4
+"136","LongShort 38","neut","short","emergency room","ER","longfirst",4
+"137","LongShort 39","supp","short","United States","U.S.","longfirst",4
+"138","LongShort 8","neut","short","refrigerator","fridge","longfirst",4
+"139","LongShort 31","supp","long","mayonnaise","mayo","shortfirst",4
+"140","LongShort 18","neut","short","undergraduate","undergrad","shortfirst",4
+"141","LongShort 6","supp","short","photograph","photo","shortfirst",4
+"142","LongShort 10","neut","short","rhinoceros","rhino","shortfirst",4
+"143","LongShort 22","neut","short","carbohydrates","carbs","longfirst",4
+"144","LongShort 4","neut","short","dormitory","dorm","longfirst",4
+"145","LongShort 16","neut","long","telephone","phone","longfirst",4
+"146","LongShort 14","neut","long","saxophone","sax","longfirst",4
+"147","LongShort 32","supp","short","Coca-Cola","Coke","longfirst",4
+"148","LongShort 1","supp","short","mathematics","math","longfirst",4
+"149","LongShort 21","neut","short","television","TV","longfirst",4
+"150","LongShort 37","supp","short","quadrangle","quad","shortfirst",4
+"151","LongShort 29","neut","short","Labrador","Lab","longfirst",4
+"152","LongShort 27","neut","short","microphone","mic","shortfirst",4
+"153","LongShort 5","neut","short","memorandum","memo","shortfirst",4
+"154","LongShort 26","neut","short","United Kingdom","U.K.","longfirst",4
+"155","LongShort 28","supp","short","laboratory","lab","longfirst",4
+"156","LongShort 34","supp","short","veterinarian","vet","longfirst",4
+"157","LongShort 3","neut","short","examination","exam","longfirst",4
+"158","LongShort 9","supp","short","hippopotamus","hippo","longfirst",4
+"159","LongShort 12","neut","short","pornography","porn","shortfirst",4
+"160","LongShort 17","neut","short","referee","ref","shortfirst",4
+"161","LongShort 31","supp","long","mayonnaise","mayo","longfirst",5
+"162","LongShort 12","neut","long","pornography","porn","longfirst",5
+"163","LongShort 24","neut","long","air conditioning","A/C","shortfirst",5
+"164","LongShort 13","neut","long","limousine","limo","longfirst",5
+"165","LongShort 30","neut","short","identification","ID","shortfirst",5
+"166","LongShort 16","neut","long","telephone","phone","longfirst",5
+"167","LongShort 17","neut","long","referee","ref","shortfirst",5
+"168","LongShort 38","supp","long","emergency room","ER","shortfirst",5
+"169","LongShort 1","neut","long","mathematics","math","longfirst",5
+"170","LongShort 18","neut","short","undergraduate","undergrad","shortfirst",5
+"171","LongShort 23","neut","short","advertisement","ad","shortfirst",5
+"172","LongShort 6","neut","short","photograph","photo","shortfirst",5
+"173","LongShort 37","supp","short","quadrangle","quad","shortfirst",5
+"174","LongShort 20","supp","long","chemotherapy","chemo","longfirst",5
+"175","LongShort 3","supp","short","examination","exam","longfirst",5
+"176","LongShort 25","supp","short","gasoline","gas","shortfirst",5
+"177","LongShort 34","supp","short","veterinarian","vet","shortfirst",5
+"178","LongShort 14","supp","long","saxophone","sax","longfirst",5
+"179","LongShort 5","supp","short","memorandum","memo","shortfirst",5
+"180","LongShort 2","supp","long","bicycle","bike","shortfirst",5
+"181","LongShort 36","neut","long","quadriceps","quads","longfirst",5
+"182","LongShort 15","supp","long","cockroach","roach","shortfirst",5
+"183","LongShort 10","neut","long","rhinoceros","rhino","longfirst",5
+"184","LongShort 11","neut","long","chimpanzee","chimp","shortfirst",5
+"185","LongShort 19","neut","long","kilogram","kilo","shortfirst",5
+"186","LongShort 39","neut","long","United States","U.S.","longfirst",5
+"187","LongShort 8","neut","short","refrigerator","fridge","shortfirst",5
+"188","LongShort 33","neut","long","milkshake","shake","longfirst",5
+"189","LongShort 4","supp","short","dormitory","dorm","shortfirst",5
+"190","LongShort 22","supp","long","carbohydrates","carbs","shortfirst",5
+"191","LongShort 21","supp","short","television","TV","shortfirst",5
+"192","LongShort 40","supp","long","United Nations","U.N.","shortfirst",5
+"193","LongShort 27","supp","long","microphone","mic","longfirst",5
+"194","LongShort 7","supp","long","fraternity","frat","longfirst",5
+"195","LongShort 32","neut","short","Coca-Cola","Coke","shortfirst",5
+"196","LongShort 28","neut","long","laboratory","lab","longfirst",5
+"197","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",5
+"198","LongShort 35","neut","short","hamburger","burger","longfirst",5
+"199","LongShort 9","neut","short","hippopotamus","hippo","shortfirst",5
+"200","LongShort 29","supp","long","Labrador","Lab","shortfirst",5
+"201","LongShort 3","supp","short","examination","exam","shortfirst",6
+"202","LongShort 21","supp","short","television","TV","shortfirst",6
+"203","LongShort 14","neut","long","saxophone","sax","shortfirst",6
+"204","LongShort 17","supp","long","referee","ref","shortfirst",6
+"205","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",6
+"206","LongShort 29","supp","long","Labrador","Lab","longfirst",6
+"207","LongShort 6","supp","long","photograph","photo","shortfirst",6
+"208","LongShort 32","neut","long","Coca-Cola","Coke","longfirst",6
+"209","LongShort 37","neut","short","quadrangle","quad","longfirst",6
+"210","LongShort 39","neut","long","United States","U.S.","longfirst",6
+"211","LongShort 12","neut","long","pornography","porn","shortfirst",6
+"212","LongShort 23","neut","short","advertisement","ad","longfirst",6
+"213","LongShort 33","supp","long","milkshake","shake","longfirst",6
+"214","LongShort 22","neut","short","carbohydrates","carbs","shortfirst",6
+"215","LongShort 35","supp","short","hamburger","burger","longfirst",6
+"216","LongShort 28","neut","long","laboratory","lab","longfirst",6
+"217","LongShort 30","supp","short","identification","ID","longfirst",6
+"218","LongShort 36","neut","short","quadriceps","quads","longfirst",6
+"219","LongShort 10","supp","long","rhinoceros","rhino","shortfirst",6
+"220","LongShort 27","supp","short","microphone","mic","longfirst",6
+"221","LongShort 16","supp","short","telephone","phone","longfirst",6
+"222","LongShort 24","neut","short","air conditioning","A/C","longfirst",6
+"223","LongShort 34","neut","short","veterinarian","vet","longfirst",6
+"224","LongShort 2","neut","short","bicycle","bike","shortfirst",6
+"225","LongShort 5","supp","short","memorandum","memo","shortfirst",6
+"226","LongShort 1","supp","short","mathematics","math","longfirst",6
+"227","LongShort 25","supp","short","gasoline","gas","shortfirst",6
+"228","LongShort 4","neut","short","dormitory","dorm","shortfirst",6
+"229","LongShort 18","neut","short","undergraduate","undergrad","longfirst",6
+"230","LongShort 19","neut","short","kilogram","kilo","shortfirst",6
+"231","LongShort 8","supp","short","refrigerator","fridge","longfirst",6
+"232","LongShort 9","supp","short","hippopotamus","hippo","shortfirst",6
+"233","LongShort 40","neut","long","United Nations","U.N.","longfirst",6
+"234","LongShort 13","neut","short","limousine","limo","shortfirst",6
+"235","LongShort 31","neut","long","mayonnaise","mayo","shortfirst",6
+"236","LongShort 20","neut","short","chemotherapy","chemo","shortfirst",6
+"237","LongShort 11","supp","long","chimpanzee","chimp","longfirst",6
+"238","LongShort 15","supp","long","cockroach","roach","shortfirst",6
+"239","LongShort 7","neut","long","fraternity","frat","shortfirst",6
+"240","LongShort 38","supp","short","emergency room","ER","shortfirst",6
+"241","LongShort 4","neut","short","dormitory","dorm","shortfirst",7
+"242","LongShort 19","supp","short","kilogram","kilo","shortfirst",7
+"243","LongShort 13","supp","long","limousine","limo","shortfirst",7
+"244","LongShort 40","supp","long","United Nations","U.N.","shortfirst",7
+"245","LongShort 33","neut","long","milkshake","shake","shortfirst",7
+"246","LongShort 38","neut","long","emergency room","ER","longfirst",7
+"247","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",7
+"248","LongShort 28","supp","short","laboratory","lab","longfirst",7
+"249","LongShort 29","supp","short","Labrador","Lab","longfirst",7
+"250","LongShort 37","supp","short","quadrangle","quad","longfirst",7
+"251","LongShort 23","neut","long","advertisement","ad","longfirst",7
+"252","LongShort 17","neut","long","referee","ref","longfirst",7
+"253","LongShort 5","neut","short","memorandum","memo","longfirst",7
+"254","LongShort 14","supp","long","saxophone","sax","longfirst",7
+"255","LongShort 9","supp","long","hippopotamus","hippo","longfirst",7
+"256","LongShort 30","supp","short","identification","ID","shortfirst",7
+"257","LongShort 7","neut","short","fraternity","frat","shortfirst",7
+"258","LongShort 10","supp","long","rhinoceros","rhino","shortfirst",7
+"259","LongShort 27","supp","short","microphone","mic","shortfirst",7
+"260","LongShort 35","neut","long","hamburger","burger","longfirst",7
+"261","LongShort 20","supp","long","chemotherapy","chemo","shortfirst",7
+"262","LongShort 6","neut","long","photograph","photo","longfirst",7
+"263","LongShort 39","supp","long","United States","U.S.","longfirst",7
+"264","LongShort 31","supp","short","mayonnaise","mayo","shortfirst",7
+"265","LongShort 24","neut","short","air conditioning","A/C","shortfirst",7
+"266","LongShort 11","neut","long","chimpanzee","chimp","longfirst",7
+"267","LongShort 32","supp","short","Coca-Cola","Coke","longfirst",7
+"268","LongShort 34","supp","short","veterinarian","vet","longfirst",7
+"269","LongShort 21","neut","long","television","TV","shortfirst",7
+"270","LongShort 3","neut","short","examination","exam","longfirst",7
+"271","LongShort 22","supp","long","carbohydrates","carbs","shortfirst",7
+"272","LongShort 36","neut","short","quadriceps","quads","longfirst",7
+"273","LongShort 8","neut","long","refrigerator","fridge","longfirst",7
+"274","LongShort 1","neut","short","mathematics","math","shortfirst",7
+"275","LongShort 15","neut","long","cockroach","roach","longfirst",7
+"276","LongShort 18","supp","short","undergraduate","undergrad","shortfirst",7
+"277","LongShort 16","supp","short","telephone","phone","shortfirst",7
+"278","LongShort 25","neut","short","gasoline","gas","longfirst",7
+"279","LongShort 2","supp","long","bicycle","bike","longfirst",7
+"280","LongShort 12","neut","long","pornography","porn","longfirst",7
+"281","LongShort 39","neut","long","United States","U.S.","shortfirst",8
+"282","LongShort 30","supp","short","identification","ID","longfirst",8
+"283","LongShort 16","supp","short","telephone","phone","shortfirst",8
+"284","LongShort 26","supp","long","United Kingdom","U.K.","longfirst",8
+"285","LongShort 14","neut","long","saxophone","sax","longfirst",8
+"286","LongShort 19","neut","long","kilogram","kilo","longfirst",8
+"287","LongShort 25","supp","short","gasoline","gas","longfirst",8
+"288","LongShort 10","supp","short","rhinoceros","rhino","longfirst",8
+"289","LongShort 37","supp","short","quadrangle","quad","shortfirst",8
+"290","LongShort 27","neut","long","microphone","mic","longfirst",8
+"291","LongShort 8","supp","short","refrigerator","fridge","shortfirst",8
+"292","LongShort 9","supp","short","hippopotamus","hippo","shortfirst",8
+"293","LongShort 7","supp","long","fraternity","frat","longfirst",8
+"294","LongShort 20","supp","long","chemotherapy","chemo","longfirst",8
+"295","LongShort 5","supp","short","memorandum","memo","shortfirst",8
+"296","LongShort 35","supp","long","hamburger","burger","longfirst",8
+"297","LongShort 24","neut","long","air conditioning","A/C","longfirst",8
+"298","LongShort 28","supp","short","laboratory","lab","longfirst",8
+"299","LongShort 34","neut","long","veterinarian","vet","longfirst",8
+"300","LongShort 6","supp","short","photograph","photo","longfirst",8
+"301","LongShort 18","neut","long","undergraduate","undergrad","longfirst",8
+"302","LongShort 32","supp","long","Coca-Cola","Coke","shortfirst",8
+"303","LongShort 38","supp","long","emergency room","ER","shortfirst",8
+"304","LongShort 33","neut","long","milkshake","shake","shortfirst",8
+"305","LongShort 17","neut","long","referee","ref","longfirst",8
+"306","LongShort 1","supp","short","mathematics","math","shortfirst",8
+"307","LongShort 21","neut","short","television","TV","longfirst",8
+"308","LongShort 2","neut","short","bicycle","bike","shortfirst",8
+"309","LongShort 12","neut","long","pornography","porn","shortfirst",8
+"310","LongShort 40","supp","long","United Nations","U.N.","longfirst",8
+"311","LongShort 23","supp","long","advertisement","ad","longfirst",8
+"312","LongShort 13","supp","short","limousine","limo","shortfirst",8
+"313","LongShort 3","supp","short","examination","exam","longfirst",8
+"314","LongShort 11","supp","short","chimpanzee","chimp","shortfirst",8
+"315","LongShort 15","supp","long","cockroach","roach","shortfirst",8
+"316","LongShort 36","neut","long","quadriceps","quads","shortfirst",8
+"317","LongShort 29","supp","long","Labrador","Lab","longfirst",8
+"318","LongShort 31","supp","long","mayonnaise","mayo","longfirst",8
+"319","LongShort 4","supp","short","dormitory","dorm","longfirst",8
+"320","LongShort 22","supp","long","carbohydrates","carbs","longfirst",8
+"321","LongShort 6","neut","short","photograph","photo","shortfirst",9
+"322","LongShort 28","supp","short","laboratory","lab","longfirst",9
+"323","LongShort 23","supp","long","advertisement","ad","longfirst",9
+"324","LongShort 3","neut","short","examination","exam","shortfirst",9
+"325","LongShort 5","supp","long","memorandum","memo","shortfirst",9
+"326","LongShort 16","supp","short","telephone","phone","longfirst",9
+"327","LongShort 17","supp","short","referee","ref","longfirst",9
+"328","LongShort 30","supp","short","identification","ID","shortfirst",9
+"329","LongShort 20","neut","long","chemotherapy","chemo","shortfirst",9
+"330","LongShort 7","neut","long","fraternity","frat","longfirst",9
+"331","LongShort 15","supp","long","cockroach","roach","shortfirst",9
+"332","LongShort 29","supp","short","Labrador","Lab","shortfirst",9
+"333","LongShort 19","neut","long","kilogram","kilo","shortfirst",9
+"334","LongShort 14","neut","long","saxophone","sax","longfirst",9
+"335","LongShort 10","neut","long","rhinoceros","rhino","longfirst",9
+"336","LongShort 33","neut","long","milkshake","shake","shortfirst",9
+"337","LongShort 25","neut","short","gasoline","gas","shortfirst",9
+"338","LongShort 8","supp","long","refrigerator","fridge","longfirst",9
+"339","LongShort 1","supp","short","mathematics","math","longfirst",9
+"340","LongShort 11","supp","long","chimpanzee","chimp","longfirst",9
+"341","LongShort 26","supp","short","United Kingdom","U.K.","shortfirst",9
+"342","LongShort 13","supp","short","limousine","limo","shortfirst",9
+"343","LongShort 9","supp","short","hippopotamus","hippo","shortfirst",9
+"344","LongShort 18","neut","short","undergraduate","undergrad","longfirst",9
+"345","LongShort 34","supp","short","veterinarian","vet","longfirst",9
+"346","LongShort 12","neut","long","pornography","porn","shortfirst",9
+"347","LongShort 36","neut","short","quadriceps","quads","shortfirst",9
+"348","LongShort 22","neut","short","carbohydrates","carbs","longfirst",9
+"349","LongShort 27","neut","long","microphone","mic","shortfirst",9
+"350","LongShort 40","neut","long","United Nations","U.N.","longfirst",9
+"351","LongShort 37","supp","short","quadrangle","quad","shortfirst",9
+"352","LongShort 35","neut","short","hamburger","burger","longfirst",9
+"353","LongShort 4","neut","short","dormitory","dorm","shortfirst",9
+"354","LongShort 32","neut","short","Coca-Cola","Coke","shortfirst",9
+"355","LongShort 2","supp","short","bicycle","bike","shortfirst",9
+"356","LongShort 38","neut","short","emergency room","ER","longfirst",9
+"357","LongShort 31","supp","short","mayonnaise","mayo","shortfirst",9
+"358","LongShort 24","neut","short","air conditioning","A/C","longfirst",9
+"359","LongShort 21","supp","short","television","TV","longfirst",9
+"360","LongShort 39","neut","short","United States","U.S.","longfirst",9
+"361","LongShort 28","neut","long","laboratory","lab","longfirst",10
+"362","LongShort 20","supp","long","chemotherapy","chemo","shortfirst",10
+"363","LongShort 15","supp","long","cockroach","roach","longfirst",10
+"364","LongShort 29","supp","short","Labrador","Lab","shortfirst",10
+"365","LongShort 5","neut","short","memorandum","memo","shortfirst",10
+"366","LongShort 24","supp","short","air conditioning","A/C","shortfirst",10
+"367","LongShort 38","neut","long","emergency room","ER","longfirst",10
+"368","LongShort 23","supp","short","advertisement","ad","shortfirst",10
+"369","LongShort 39","neut","long","United States","U.S.","longfirst",10
+"370","LongShort 25","supp","short","gasoline","gas","shortfirst",10
+"371","LongShort 13","supp","long","limousine","limo","longfirst",10
+"372","LongShort 21","neut","long","television","TV","longfirst",10
+"373","LongShort 14","supp","long","saxophone","sax","longfirst",10
+"374","LongShort 35","neut","long","hamburger","burger","longfirst",10
+"375","LongShort 3","supp","short","examination","exam","longfirst",10
+"376","LongShort 10","supp","long","rhinoceros","rhino","longfirst",10
+"377","LongShort 4","supp","long","dormitory","dorm","longfirst",10
+"378","LongShort 17","neut","long","referee","ref","shortfirst",10
+"379","LongShort 22","supp","short","carbohydrates","carbs","longfirst",10
+"380","LongShort 16","supp","short","telephone","phone","shortfirst",10
+"381","LongShort 8","neut","short","refrigerator","fridge","longfirst",10
+"382","LongShort 11","neut","long","chimpanzee","chimp","longfirst",10
+"383","LongShort 32","neut","short","Coca-Cola","Coke","shortfirst",10
+"384","LongShort 26","neut","long","United Kingdom","U.K.","longfirst",10
+"385","LongShort 12","supp","long","pornography","porn","longfirst",10
+"386","LongShort 36","neut","long","quadriceps","quads","longfirst",10
+"387","LongShort 2","supp","long","bicycle","bike","shortfirst",10
+"388","LongShort 1","neut","short","mathematics","math","longfirst",10
+"389","LongShort 19","supp","long","kilogram","kilo","shortfirst",10
+"390","LongShort 18","neut","long","undergraduate","undergrad","longfirst",10
+"391","LongShort 6","neut","long","photograph","photo","longfirst",10
+"392","LongShort 9","neut","long","hippopotamus","hippo","longfirst",10
+"393","LongShort 27","supp","short","microphone","mic","longfirst",10
+"394","LongShort 33","neut","short","milkshake","shake","longfirst",10
+"395","LongShort 34","supp","short","veterinarian","vet","longfirst",10
+"396","LongShort 37","supp","short","quadrangle","quad","longfirst",10
+"397","LongShort 30","neut","short","identification","ID","shortfirst",10
+"398","LongShort 31","supp","short","mayonnaise","mayo","shortfirst",10
+"399","LongShort 40","neut","short","United Nations","U.N.","shortfirst",10
+"400","LongShort 7","supp","long","fraternity","frat","shortfirst",10
+"401","LongShort 21","neut","short","television","TV","longfirst",11
+"402","LongShort 16","neut","short","telephone","phone","shortfirst",11
+"403","LongShort 15","supp","long","cockroach","roach","longfirst",11
+"404","LongShort 23","supp","long","advertisement","ad","shortfirst",11
+"405","LongShort 6","neut","long","photograph","photo","shortfirst",11
+"406","LongShort 14","neut","long","saxophone","sax","shortfirst",11
+"407","LongShort 11","neut","long","chimpanzee","chimp","longfirst",11
+"408","LongShort 28","supp","short","laboratory","lab","shortfirst",11
+"409","LongShort 22","supp","short","carbohydrates","carbs","shortfirst",11
+"410","LongShort 1","supp","short","mathematics","math","shortfirst",11
+"411","LongShort 31","neut","short","mayonnaise","mayo","longfirst",11
+"412","LongShort 12","neut","long","pornography","porn","shortfirst",11
+"413","LongShort 17","neut","long","referee","ref","shortfirst",11
+"414","LongShort 20","supp","long","chemotherapy","chemo","longfirst",11
+"415","LongShort 34","neut","long","veterinarian","vet","longfirst",11
+"416","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",11
+"417","LongShort 18","supp","short","undergraduate","undergrad","shortfirst",11
+"418","LongShort 38","neut","long","emergency room","ER","longfirst",11
+"419","LongShort 24","neut","long","air conditioning","A/C","longfirst",11
+"420","LongShort 37","supp","short","quadrangle","quad","longfirst",11
+"421","LongShort 7","neut","long","fraternity","frat","longfirst",11
+"422","LongShort 10","supp","long","rhinoceros","rhino","longfirst",11
+"423","LongShort 4","neut","short","dormitory","dorm","longfirst",11
+"424","LongShort 39","neut","long","United States","U.S.","longfirst",11
+"425","LongShort 2","neut","short","bicycle","bike","shortfirst",11
+"426","LongShort 5","supp","short","memorandum","memo","shortfirst",11
+"427","LongShort 13","supp","short","limousine","limo","shortfirst",11
+"428","LongShort 29","neut","short","Labrador","Lab","longfirst",11
+"429","LongShort 36","neut","short","quadriceps","quads","longfirst",11
+"430","LongShort 25","neut","long","gasoline","gas","longfirst",11
+"431","LongShort 33","neut","long","milkshake","shake","shortfirst",11
+"432","LongShort 40","supp","long","United Nations","U.N.","shortfirst",11
+"433","LongShort 35","neut","short","hamburger","burger","shortfirst",11
+"434","LongShort 30","neut","long","identification","ID","longfirst",11
+"435","LongShort 26","neut","long","United Kingdom","U.K.","longfirst",11
+"436","LongShort 9","neut","long","hippopotamus","hippo","longfirst",11
+"437","LongShort 19","neut","short","kilogram","kilo","longfirst",11
+"438","LongShort 27","neut","long","microphone","mic","longfirst",11
+"439","LongShort 3","neut","short","examination","exam","shortfirst",11
+"440","LongShort 8","supp","short","refrigerator","fridge","longfirst",11
+"441","LongShort 23","neut","short","advertisement","ad","longfirst",12
+"442","LongShort 39","neut","short","United States","U.S.","longfirst",12
+"443","LongShort 27","supp","short","microphone","mic","longfirst",12
+"444","LongShort 21","supp","short","television","TV","shortfirst",12
+"445","LongShort 11","supp","long","chimpanzee","chimp","shortfirst",12
+"446","LongShort 40","neut","short","United Nations","U.N.","longfirst",12
+"447","LongShort 37","neut","short","quadrangle","quad","longfirst",12
+"448","LongShort 38","neut","long","emergency room","ER","longfirst",12
+"449","LongShort 17","neut","long","referee","ref","shortfirst",12
+"450","LongShort 24","neut","long","air conditioning","A/C","shortfirst",12
+"451","LongShort 1","neut","short","mathematics","math","shortfirst",12
+"452","LongShort 30","supp","short","identification","ID","longfirst",12
+"453","LongShort 35","supp","long","hamburger","burger","shortfirst",12
+"454","LongShort 19","supp","short","kilogram","kilo","shortfirst",12
+"455","LongShort 15","neut","long","cockroach","roach","longfirst",12
+"456","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",12
+"457","LongShort 28","supp","short","laboratory","lab","shortfirst",12
+"458","LongShort 14","neut","long","saxophone","sax","longfirst",12
+"459","LongShort 34","neut","long","veterinarian","vet","longfirst",12
+"460","LongShort 22","neut","short","carbohydrates","carbs","shortfirst",12
+"461","LongShort 4","neut","short","dormitory","dorm","longfirst",12
+"462","LongShort 3","neut","short","examination","exam","shortfirst",12
+"463","LongShort 16","neut","short","telephone","phone","shortfirst",12
+"464","LongShort 6","supp","long","photograph","photo","shortfirst",12
+"465","LongShort 12","neut","short","pornography","porn","shortfirst",12
+"466","LongShort 31","supp","long","mayonnaise","mayo","longfirst",12
+"467","LongShort 2","neut","short","bicycle","bike","longfirst",12
+"468","LongShort 5","neut","short","memorandum","memo","longfirst",12
+"469","LongShort 33","supp","long","milkshake","shake","longfirst",12
+"470","LongShort 13","neut","short","limousine","limo","longfirst",12
+"471","LongShort 32","supp","short","Coca-Cola","Coke","longfirst",12
+"472","LongShort 25","neut","short","gasoline","gas","shortfirst",12
+"473","LongShort 29","neut","short","Labrador","Lab","shortfirst",12
+"474","LongShort 9","neut","short","hippopotamus","hippo","shortfirst",12
+"475","LongShort 10","neut","short","rhinoceros","rhino","shortfirst",12
+"476","LongShort 18","supp","short","undergraduate","undergrad","shortfirst",12
+"477","LongShort 20","neut","short","chemotherapy","chemo","shortfirst",12
+"478","LongShort 8","supp","long","refrigerator","fridge","shortfirst",12
+"479","LongShort 36","supp","short","quadriceps","quads","longfirst",12
+"480","LongShort 7","neut","short","fraternity","frat","shortfirst",12
+"481","LongShort 20","supp","long","chemotherapy","chemo","shortfirst",13
+"482","LongShort 6","supp","short","photograph","photo","shortfirst",13
+"483","LongShort 12","supp","short","pornography","porn","shortfirst",13
+"484","LongShort 34","neut","long","veterinarian","vet","longfirst",13
+"485","LongShort 29","neut","long","Labrador","Lab","shortfirst",13
+"486","LongShort 1","supp","short","mathematics","math","longfirst",13
+"487","LongShort 38","neut","long","emergency room","ER","longfirst",13
+"488","LongShort 10","supp","short","rhinoceros","rhino","shortfirst",13
+"489","LongShort 35","supp","long","hamburger","burger","longfirst",13
+"490","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",13
+"491","LongShort 8","supp","short","refrigerator","fridge","longfirst",13
+"492","LongShort 28","neut","short","laboratory","lab","shortfirst",13
+"493","LongShort 27","neut","long","microphone","mic","longfirst",13
+"494","LongShort 14","supp","long","saxophone","sax","shortfirst",13
+"495","LongShort 2","supp","long","bicycle","bike","longfirst",13
+"496","LongShort 25","supp","short","gasoline","gas","longfirst",13
+"497","LongShort 9","neut","short","hippopotamus","hippo","shortfirst",13
+"498","LongShort 13","supp","short","limousine","limo","longfirst",13
+"499","LongShort 32","neut","long","Coca-Cola","Coke","longfirst",13
+"500","LongShort 7","neut","long","fraternity","frat","shortfirst",13
+"501","LongShort 19","neut","long","kilogram","kilo","shortfirst",13
+"502","LongShort 36","neut","short","quadriceps","quads","shortfirst",13
+"503","LongShort 18","neut","short","undergraduate","undergrad","longfirst",13
+"504","LongShort 5","supp","short","memorandum","memo","longfirst",13
+"505","LongShort 16","supp","short","telephone","phone","longfirst",13
+"506","LongShort 24","supp","long","air conditioning","A/C","longfirst",13
+"507","LongShort 4","supp","short","dormitory","dorm","shortfirst",13
+"508","LongShort 39","supp","long","United States","U.S.","shortfirst",13
+"509","LongShort 22","supp","short","carbohydrates","carbs","longfirst",13
+"510","LongShort 15","supp","long","cockroach","roach","shortfirst",13
+"511","LongShort 11","supp","short","chimpanzee","chimp","longfirst",13
+"512","LongShort 23","supp","long","advertisement","ad","shortfirst",13
+"513","LongShort 33","supp","long","milkshake","shake","shortfirst",13
+"514","LongShort 3","neut","short","examination","exam","longfirst",13
+"515","LongShort 40","neut","long","United Nations","U.N.","longfirst",13
+"516","LongShort 31","supp","long","mayonnaise","mayo","shortfirst",13
+"517","LongShort 17","supp","long","referee","ref","longfirst",13
+"518","LongShort 37","supp","short","quadrangle","quad","shortfirst",13
+"519","LongShort 21","supp","short","television","TV","longfirst",13
+"520","LongShort 30","supp","long","identification","ID","longfirst",13
+"521","LongShort 9","supp","long","hippopotamus","hippo","longfirst",14
+"522","LongShort 11","neut","long","chimpanzee","chimp","shortfirst",14
+"523","LongShort 4","neut","short","dormitory","dorm","longfirst",14
+"524","LongShort 5","neut","short","memorandum","memo","shortfirst",14
+"525","LongShort 8","supp","long","refrigerator","fridge","shortfirst",14
+"526","LongShort 38","neut","long","emergency room","ER","shortfirst",14
+"527","LongShort 27","neut","long","microphone","mic","shortfirst",14
+"528","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",14
+"529","LongShort 25","supp","short","gasoline","gas","shortfirst",14
+"530","LongShort 20","neut","long","chemotherapy","chemo","longfirst",14
+"531","LongShort 23","supp","short","advertisement","ad","longfirst",14
+"532","LongShort 18","neut","short","undergraduate","undergrad","longfirst",14
+"533","LongShort 7","supp","long","fraternity","frat","shortfirst",14
+"534","LongShort 28","supp","long","laboratory","lab","longfirst",14
+"535","LongShort 10","neut","long","rhinoceros","rhino","shortfirst",14
+"536","LongShort 40","neut","long","United Nations","U.N.","longfirst",14
+"537","LongShort 12","supp","short","pornography","porn","shortfirst",14
+"538","LongShort 22","supp","short","carbohydrates","carbs","longfirst",14
+"539","LongShort 33","supp","long","milkshake","shake","shortfirst",14
+"540","LongShort 29","supp","long","Labrador","Lab","shortfirst",14
+"541","LongShort 19","supp","long","kilogram","kilo","shortfirst",14
+"542","LongShort 2","neut","short","bicycle","bike","shortfirst",14
+"543","LongShort 1","supp","short","mathematics","math","longfirst",14
+"544","LongShort 13","neut","short","limousine","limo","longfirst",14
+"545","LongShort 24","supp","long","air conditioning","A/C","longfirst",14
+"546","LongShort 36","neut","short","quadriceps","quads","longfirst",14
+"547","LongShort 39","supp","long","United States","U.S.","shortfirst",14
+"548","LongShort 3","supp","short","examination","exam","shortfirst",14
+"549","LongShort 14","supp","long","saxophone","sax","longfirst",14
+"550","LongShort 15","neut","long","cockroach","roach","longfirst",14
+"551","LongShort 6","neut","short","photograph","photo","longfirst",14
+"552","LongShort 17","neut","long","referee","ref","longfirst",14
+"553","LongShort 31","supp","long","mayonnaise","mayo","shortfirst",14
+"554","LongShort 30","supp","short","identification","ID","longfirst",14
+"555","LongShort 35","supp","short","hamburger","burger","shortfirst",14
+"556","LongShort 34","supp","short","veterinarian","vet","shortfirst",14
+"557","LongShort 37","supp","long","quadrangle","quad","shortfirst",14
+"558","LongShort 32","neut","long","Coca-Cola","Coke","shortfirst",14
+"559","LongShort 21","neut","short","television","TV","shortfirst",14
+"560","LongShort 16","supp","short","telephone","phone","shortfirst",14
+"561","LongShort 22","neut","long","carbohydrates","carbs","shortfirst",15
+"562","LongShort 29","supp","long","Labrador","Lab","longfirst",15
+"563","LongShort 2","neut","short","bicycle","bike","shortfirst",15
+"564","LongShort 17","neut","long","referee","ref","longfirst",15
+"565","LongShort 1","supp","short","mathematics","math","shortfirst",15
+"566","LongShort 6","neut","long","photograph","photo","longfirst",15
+"567","LongShort 37","supp","short","quadrangle","quad","longfirst",15
+"568","LongShort 35","supp","short","hamburger","burger","longfirst",15
+"569","LongShort 15","neut","long","cockroach","roach","shortfirst",15
+"570","LongShort 28","neut","short","laboratory","lab","shortfirst",15
+"571","LongShort 36","neut","short","quadriceps","quads","longfirst",15
+"572","LongShort 40","supp","long","United Nations","U.N.","shortfirst",15
+"573","LongShort 27","supp","short","microphone","mic","shortfirst",15
+"574","LongShort 24","supp","long","air conditioning","A/C","longfirst",15
+"575","LongShort 26","supp","long","United Kingdom","U.K.","longfirst",15
+"576","LongShort 3","supp","short","examination","exam","shortfirst",15
+"577","LongShort 31","neut","long","mayonnaise","mayo","longfirst",15
+"578","LongShort 21","neut","short","television","TV","longfirst",15
+"579","LongShort 18","neut","short","undergraduate","undergrad","shortfirst",15
+"580","LongShort 38","neut","long","emergency room","ER","shortfirst",15
+"581","LongShort 39","neut","long","United States","U.S.","shortfirst",15
+"582","LongShort 33","neut","long","milkshake","shake","shortfirst",15
+"583","LongShort 8","supp","short","refrigerator","fridge","longfirst",15
+"584","LongShort 11","supp","long","chimpanzee","chimp","shortfirst",15
+"585","LongShort 32","neut","long","Coca-Cola","Coke","shortfirst",15
+"586","LongShort 7","neut","long","fraternity","frat","shortfirst",15
+"587","LongShort 19","supp","long","kilogram","kilo","shortfirst",15
+"588","LongShort 16","supp","long","telephone","phone","longfirst",15
+"589","LongShort 12","supp","long","pornography","porn","longfirst",15
+"590","LongShort 25","neut","short","gasoline","gas","shortfirst",15
+"591","LongShort 34","neut","long","veterinarian","vet","longfirst",15
+"592","LongShort 9","supp","short","hippopotamus","hippo","shortfirst",15
+"593","LongShort 4","neut","short","dormitory","dorm","longfirst",15
+"594","LongShort 13","neut","long","limousine","limo","shortfirst",15
+"595","LongShort 10","neut","long","rhinoceros","rhino","longfirst",15
+"596","LongShort 30","supp","short","identification","ID","longfirst",15
+"597","LongShort 23","neut","long","advertisement","ad","longfirst",15
+"598","LongShort 14","neut","long","saxophone","sax","longfirst",15
+"599","LongShort 20","neut","long","chemotherapy","chemo","shortfirst",15
+"600","LongShort 5","supp","short","memorandum","memo","longfirst",15
+"601","LongShort 29","neut","short","Labrador","Lab","longfirst",16
+"602","LongShort 23","supp","short","advertisement","ad","shortfirst",16
+"603","LongShort 8","neut","short","refrigerator","fridge","longfirst",16
+"604","LongShort 16","supp","short","telephone","phone","shortfirst",16
+"605","LongShort 14","neut","long","saxophone","sax","shortfirst",16
+"606","LongShort 27","neut","long","microphone","mic","longfirst",16
+"607","LongShort 20","neut","short","chemotherapy","chemo","longfirst",16
+"608","LongShort 34","neut","short","veterinarian","vet","longfirst",16
+"609","LongShort 22","supp","short","carbohydrates","carbs","longfirst",16
+"610","LongShort 24","supp","short","air conditioning","A/C","shortfirst",16
+"611","LongShort 4","neut","short","dormitory","dorm","shortfirst",16
+"612","LongShort 13","neut","short","limousine","limo","longfirst",16
+"613","LongShort 31","supp","short","mayonnaise","mayo","shortfirst",16
+"614","LongShort 19","supp","short","kilogram","kilo","shortfirst",16
+"615","LongShort 1","neut","short","mathematics","math","shortfirst",16
+"616","LongShort 5","supp","short","memorandum","memo","shortfirst",16
+"617","LongShort 15","neut","long","cockroach","roach","longfirst",16
+"618","LongShort 2","neut","short","bicycle","bike","shortfirst",16
+"619","LongShort 39","neut","long","United States","U.S.","longfirst",16
+"620","LongShort 25","supp","short","gasoline","gas","longfirst",16
+"621","LongShort 36","supp","short","quadriceps","quads","longfirst",16
+"622","LongShort 18","supp","short","undergraduate","undergrad","shortfirst",16
+"623","LongShort 9","neut","short","hippopotamus","hippo","longfirst",16
+"624","LongShort 21","neut","short","television","TV","longfirst",16
+"625","LongShort 33","neut","long","milkshake","shake","shortfirst",16
+"626","LongShort 28","supp","short","laboratory","lab","longfirst",16
+"627","LongShort 37","supp","short","quadrangle","quad","longfirst",16
+"628","LongShort 10","neut","long","rhinoceros","rhino","longfirst",16
+"629","LongShort 12","neut","short","pornography","porn","shortfirst",16
+"630","LongShort 38","supp","short","emergency room","ER","longfirst",16
+"631","LongShort 35","supp","short","hamburger","burger","shortfirst",16
+"632","LongShort 26","neut","short","United Kingdom","U.K.","longfirst",16
+"633","LongShort 30","neut","short","identification","ID","longfirst",16
+"634","LongShort 32","supp","short","Coca-Cola","Coke","longfirst",16
+"635","LongShort 17","neut","short","referee","ref","shortfirst",16
+"636","LongShort 40","supp","short","United Nations","U.N.","longfirst",16
+"637","LongShort 11","neut","long","chimpanzee","chimp","shortfirst",16
+"638","LongShort 3","supp","short","examination","exam","longfirst",16
+"639","LongShort 6","supp","short","photograph","photo","longfirst",16
+"640","LongShort 7","supp","long","fraternity","frat","shortfirst",16
+"641","LongShort 14","supp","long","saxophone","sax","shortfirst",17
+"642","LongShort 16","supp","long","telephone","phone","shortfirst",17
+"643","LongShort 6","supp","short","photograph","photo","longfirst",17
+"644","LongShort 8","neut","short","refrigerator","fridge","shortfirst",17
+"645","LongShort 40","neut","short","United Nations","U.N.","longfirst",17
+"646","LongShort 2","neut","short","bicycle","bike","longfirst",17
+"647","LongShort 18","supp","long","undergraduate","undergrad","longfirst",17
+"648","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",17
+"649","LongShort 11","neut","long","chimpanzee","chimp","longfirst",17
+"650","LongShort 4","supp","short","dormitory","dorm","shortfirst",17
+"651","LongShort 13","supp","long","limousine","limo","shortfirst",17
+"652","LongShort 26","neut","short","United Kingdom","U.K.","longfirst",17
+"653","LongShort 34","neut","long","veterinarian","vet","shortfirst",17
+"654","LongShort 33","neut","long","milkshake","shake","longfirst",17
+"655","LongShort 5","supp","short","memorandum","memo","longfirst",17
+"656","LongShort 10","supp","short","rhinoceros","rhino","longfirst",17
+"657","LongShort 38","neut","short","emergency room","ER","shortfirst",17
+"658","LongShort 28","neut","long","laboratory","lab","longfirst",17
+"659","LongShort 36","supp","short","quadriceps","quads","shortfirst",17
+"660","LongShort 20","supp","long","chemotherapy","chemo","longfirst",17
+"661","LongShort 37","supp","short","quadrangle","quad","longfirst",17
+"662","LongShort 30","supp","short","identification","ID","shortfirst",17
+"663","LongShort 3","neut","short","examination","exam","longfirst",17
+"664","LongShort 19","neut","short","kilogram","kilo","longfirst",17
+"665","LongShort 9","neut","short","hippopotamus","hippo","longfirst",17
+"666","LongShort 7","supp","long","fraternity","frat","longfirst",17
+"667","LongShort 1","supp","short","mathematics","math","shortfirst",17
+"668","LongShort 15","supp","long","cockroach","roach","shortfirst",17
+"669","LongShort 23","neut","long","advertisement","ad","longfirst",17
+"670","LongShort 12","supp","long","pornography","porn","longfirst",17
+"671","LongShort 35","neut","short","hamburger","burger","shortfirst",17
+"672","LongShort 17","neut","long","referee","ref","shortfirst",17
+"673","LongShort 31","neut","long","mayonnaise","mayo","shortfirst",17
+"674","LongShort 24","supp","long","air conditioning","A/C","longfirst",17
+"675","LongShort 22","supp","long","carbohydrates","carbs","shortfirst",17
+"676","LongShort 29","supp","short","Labrador","Lab","longfirst",17
+"677","LongShort 21","neut","short","television","TV","shortfirst",17
+"678","LongShort 27","supp","long","microphone","mic","shortfirst",17
+"679","LongShort 25","supp","short","gasoline","gas","longfirst",17
+"680","LongShort 39","supp","short","United States","U.S.","shortfirst",17
+"681","LongShort 27","neut","long","microphone","mic","longfirst",18
+"682","LongShort 29","neut","long","Labrador","Lab","longfirst",18
+"683","LongShort 13","supp","long","limousine","limo","longfirst",18
+"684","LongShort 37","supp","long","quadrangle","quad","longfirst",18
+"685","LongShort 2","supp","long","bicycle","bike","longfirst",18
+"686","LongShort 7","neut","short","fraternity","frat","shortfirst",18
+"687","LongShort 35","supp","long","hamburger","burger","shortfirst",18
+"688","LongShort 21","neut","long","television","TV","shortfirst",18
+"689","LongShort 22","supp","long","carbohydrates","carbs","longfirst",18
+"690","LongShort 11","supp","long","chimpanzee","chimp","shortfirst",18
+"691","LongShort 15","supp","long","cockroach","roach","longfirst",18
+"692","LongShort 25","supp","short","gasoline","gas","longfirst",18
+"693","LongShort 30","supp","short","identification","ID","shortfirst",18
+"694","LongShort 28","supp","short","laboratory","lab","longfirst",18
+"695","LongShort 4","neut","long","dormitory","dorm","shortfirst",18
+"696","LongShort 6","neut","short","photograph","photo","shortfirst",18
+"697","LongShort 14","neut","long","saxophone","sax","shortfirst",18
+"698","LongShort 34","neut","long","veterinarian","vet","shortfirst",18
+"699","LongShort 39","neut","long","United States","U.S.","longfirst",18
+"700","LongShort 10","supp","short","rhinoceros","rhino","shortfirst",18
+"701","LongShort 3","neut","short","examination","exam","shortfirst",18
+"702","LongShort 40","supp","short","United Nations","U.N.","longfirst",18
+"703","LongShort 31","neut","long","mayonnaise","mayo","longfirst",18
+"704","LongShort 8","neut","long","refrigerator","fridge","shortfirst",18
+"705","LongShort 38","neut","long","emergency room","ER","longfirst",18
+"706","LongShort 32","neut","short","Coca-Cola","Coke","shortfirst",18
+"707","LongShort 18","neut","long","undergraduate","undergrad","longfirst",18
+"708","LongShort 36","supp","short","quadriceps","quads","shortfirst",18
+"709","LongShort 5","supp","long","memorandum","memo","longfirst",18
+"710","LongShort 1","neut","long","mathematics","math","longfirst",18
+"711","LongShort 24","neut","long","air conditioning","A/C","longfirst",18
+"712","LongShort 12","supp","long","pornography","porn","longfirst",18
+"713","LongShort 26","supp","short","United Kingdom","U.K.","shortfirst",18
+"714","LongShort 19","neut","long","kilogram","kilo","longfirst",18
+"715","LongShort 9","supp","long","hippopotamus","hippo","longfirst",18
+"716","LongShort 16","supp","long","telephone","phone","longfirst",18
+"717","LongShort 17","neut","long","referee","ref","shortfirst",18
+"718","LongShort 33","neut","long","milkshake","shake","longfirst",18
+"719","LongShort 20","supp","long","chemotherapy","chemo","longfirst",18
+"720","LongShort 23","neut","long","advertisement","ad","longfirst",18
+"721","LongShort 36","neut","long","quadriceps","quads","longfirst",19
+"722","LongShort 28","supp","long","laboratory","lab","longfirst",19
+"723","LongShort 35","supp","long","hamburger","burger","longfirst",19
+"724","LongShort 27","supp","short","microphone","mic","shortfirst",19
+"725","LongShort 16","neut","short","telephone","phone","longfirst",19
+"726","LongShort 40","neut","long","United Nations","U.N.","shortfirst",19
+"727","LongShort 3","neut","short","examination","exam","longfirst",19
+"728","LongShort 26","supp","short","United Kingdom","U.K.","shortfirst",19
+"729","LongShort 39","supp","long","United States","U.S.","longfirst",19
+"730","LongShort 9","neut","short","hippopotamus","hippo","longfirst",19
+"731","LongShort 24","supp","long","air conditioning","A/C","longfirst",19
+"732","LongShort 5","neut","long","memorandum","memo","longfirst",19
+"733","LongShort 17","neut","long","referee","ref","longfirst",19
+"734","LongShort 8","supp","short","refrigerator","fridge","shortfirst",19
+"735","LongShort 7","supp","short","fraternity","frat","shortfirst",19
+"736","LongShort 11","neut","short","chimpanzee","chimp","shortfirst",19
+"737","LongShort 33","supp","short","milkshake","shake","shortfirst",19
+"738","LongShort 2","neut","long","bicycle","bike","shortfirst",19
+"739","LongShort 15","neut","long","cockroach","roach","shortfirst",19
+"740","LongShort 14","supp","long","saxophone","sax","shortfirst",19
+"741","LongShort 21","neut","short","television","TV","shortfirst",19
+"742","LongShort 6","supp","short","photograph","photo","shortfirst",19
+"743","LongShort 31","supp","short","mayonnaise","mayo","shortfirst",19
+"744","LongShort 20","supp","short","chemotherapy","chemo","shortfirst",19
+"745","LongShort 22","neut","short","carbohydrates","carbs","longfirst",19
+"746","LongShort 38","supp","short","emergency room","ER","longfirst",19
+"747","LongShort 29","supp","long","Labrador","Lab","shortfirst",19
+"748","LongShort 32","neut","short","Coca-Cola","Coke","longfirst",19
+"749","LongShort 34","supp","short","veterinarian","vet","longfirst",19
+"750","LongShort 30","neut","long","identification","ID","longfirst",19
+"751","LongShort 4","neut","long","dormitory","dorm","longfirst",19
+"752","LongShort 13","supp","long","limousine","limo","longfirst",19
+"753","LongShort 1","neut","long","mathematics","math","longfirst",19
+"754","LongShort 37","supp","short","quadrangle","quad","shortfirst",19
+"755","LongShort 10","neut","long","rhinoceros","rhino","longfirst",19
+"756","LongShort 12","supp","short","pornography","porn","shortfirst",19
+"757","LongShort 19","neut","short","kilogram","kilo","shortfirst",19
+"758","LongShort 18","supp","long","undergraduate","undergrad","longfirst",19
+"759","LongShort 23","neut","long","advertisement","ad","longfirst",19
+"760","LongShort 25","supp","short","gasoline","gas","shortfirst",19
+"761","LongShort 24","supp","long","air conditioning","A/C","longfirst",20
+"762","LongShort 34","neut","long","veterinarian","vet","shortfirst",20
+"763","LongShort 35","supp","long","hamburger","burger","shortfirst",20
+"764","LongShort 36","supp","long","quadriceps","quads","longfirst",20
+"765","LongShort 38","supp","long","emergency room","ER","shortfirst",20
+"766","LongShort 13","supp","long","limousine","limo","shortfirst",20
+"767","LongShort 39","neut","long","United States","U.S.","shortfirst",20
+"768","LongShort 23","neut","long","advertisement","ad","longfirst",20
+"769","LongShort 31","supp","short","mayonnaise","mayo","longfirst",20
+"770","LongShort 19","neut","long","kilogram","kilo","longfirst",20
+"771","LongShort 27","supp","long","microphone","mic","longfirst",20
+"772","LongShort 29","supp","long","Labrador","Lab","shortfirst",20
+"773","LongShort 26","supp","long","United Kingdom","U.K.","longfirst",20
+"774","LongShort 21","neut","long","television","TV","shortfirst",20
+"775","LongShort 22","supp","long","carbohydrates","carbs","shortfirst",20
+"776","LongShort 25","supp","short","gasoline","gas","longfirst",20
+"777","LongShort 3","neut","short","examination","exam","shortfirst",20
+"778","LongShort 17","neut","long","referee","ref","shortfirst",20
+"779","LongShort 9","supp","long","hippopotamus","hippo","longfirst",20
+"780","LongShort 37","neut","short","quadrangle","quad","shortfirst",20
+"781","LongShort 6","neut","long","photograph","photo","longfirst",20
+"782","LongShort 4","supp","short","dormitory","dorm","longfirst",20
+"783","LongShort 20","supp","long","chemotherapy","chemo","longfirst",20
+"784","LongShort 7","neut","short","fraternity","frat","shortfirst",20
+"785","LongShort 8","supp","short","refrigerator","fridge","shortfirst",20
+"786","LongShort 15","neut","short","cockroach","roach","shortfirst",20
+"787","LongShort 33","supp","long","milkshake","shake","longfirst",20
+"788","LongShort 2","neut","short","bicycle","bike","longfirst",20
+"789","LongShort 5","neut","short","memorandum","memo","shortfirst",20
+"790","LongShort 32","neut","short","Coca-Cola","Coke","shortfirst",20
+"791","LongShort 11","neut","short","chimpanzee","chimp","shortfirst",20
+"792","LongShort 40","neut","long","United Nations","U.N.","longfirst",20
+"793","LongShort 18","neut","short","undergraduate","undergrad","shortfirst",20
+"794","LongShort 28","neut","long","laboratory","lab","longfirst",20
+"795","LongShort 1","neut","long","mathematics","math","longfirst",20
+"796","LongShort 16","supp","long","telephone","phone","shortfirst",20
+"797","LongShort 12","supp","short","pornography","porn","shortfirst",20
+"798","LongShort 10","supp","long","rhinoceros","rhino","shortfirst",20
+"799","LongShort 30","neut","short","identification","ID","longfirst",20
+"800","LongShort 14","supp","long","saxophone","sax","longfirst",20
+"801","LongShort 16","supp","short","telephone","phone","longfirst",22
+"802","LongShort 9","supp","short","hippopotamus","hippo","shortfirst",22
+"803","LongShort 17","neut","short","referee","ref","shortfirst",22
+"804","LongShort 22","neut","short","carbohydrates","carbs","shortfirst",22
+"805","LongShort 36","neut","short","quadriceps","quads","shortfirst",22
+"806","LongShort 15","neut","short","cockroach","roach","shortfirst",22
+"807","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",22
+"808","LongShort 11","supp","long","chimpanzee","chimp","longfirst",22
+"809","LongShort 26","neut","short","United Kingdom","U.K.","longfirst",22
+"810","LongShort 6","supp","short","photograph","photo","shortfirst",22
+"811","LongShort 8","supp","short","refrigerator","fridge","longfirst",22
+"812","LongShort 39","neut","short","United States","U.S.","shortfirst",22
+"813","LongShort 38","supp","short","emergency room","ER","shortfirst",22
+"814","LongShort 29","neut","long","Labrador","Lab","longfirst",22
+"815","LongShort 35","supp","short","hamburger","burger","shortfirst",22
+"816","LongShort 21","supp","short","television","TV","shortfirst",22
+"817","LongShort 13","neut","long","limousine","limo","longfirst",22
+"818","LongShort 19","neut","long","kilogram","kilo","longfirst",22
+"819","LongShort 40","supp","short","United Nations","U.N.","longfirst",22
+"820","LongShort 24","neut","long","air conditioning","A/C","longfirst",22
+"821","LongShort 10","neut","short","rhinoceros","rhino","shortfirst",22
+"822","LongShort 27","neut","long","microphone","mic","longfirst",22
+"823","LongShort 34","supp","short","veterinarian","vet","shortfirst",22
+"824","LongShort 30","supp","short","identification","ID","shortfirst",22
+"825","LongShort 20","supp","short","chemotherapy","chemo","shortfirst",22
+"826","LongShort 18","supp","short","undergraduate","undergrad","shortfirst",22
+"827","LongShort 25","neut","long","gasoline","gas","longfirst",22
+"828","LongShort 31","supp","short","mayonnaise","mayo","shortfirst",22
+"829","LongShort 12","supp","short","pornography","porn","shortfirst",22
+"830","LongShort 33","supp","long","milkshake","shake","longfirst",22
+"831","LongShort 4","neut","short","dormitory","dorm","shortfirst",22
+"832","LongShort 1","supp","long","mathematics","math","longfirst",22
+"833","LongShort 3","neut","short","examination","exam","shortfirst",22
+"834","LongShort 28","neut","short","laboratory","lab","shortfirst",22
+"835","LongShort 5","supp","short","memorandum","memo","shortfirst",22
+"836","LongShort 23","neut","long","advertisement","ad","longfirst",22
+"837","LongShort 37","supp","short","quadrangle","quad","shortfirst",22
+"838","LongShort 2","neut","short","bicycle","bike","shortfirst",22
+"839","LongShort 7","neut","long","fraternity","frat","longfirst",22
+"840","LongShort 14","supp","long","saxophone","sax","longfirst",22
+"841","LongShort 14","supp","short","saxophone","sax","shortfirst",23
+"842","LongShort 39","supp","long","United States","U.S.","shortfirst",23
+"843","LongShort 4","supp","short","dormitory","dorm","longfirst",23
+"844","LongShort 27","supp","short","microphone","mic","shortfirst",23
+"845","LongShort 29","supp","short","Labrador","Lab","shortfirst",23
+"846","LongShort 11","neut","long","chimpanzee","chimp","longfirst",23
+"847","LongShort 33","supp","long","milkshake","shake","longfirst",23
+"848","LongShort 34","neut","long","veterinarian","vet","shortfirst",23
+"849","LongShort 23","neut","long","advertisement","ad","shortfirst",23
+"850","LongShort 24","neut","long","air conditioning","A/C","shortfirst",23
+"851","LongShort 5","neut","short","memorandum","memo","shortfirst",23
+"852","LongShort 25","neut","short","gasoline","gas","longfirst",23
+"853","LongShort 16","neut","long","telephone","phone","longfirst",23
+"854","LongShort 40","supp","long","United Nations","U.N.","longfirst",23
+"855","LongShort 13","supp","short","limousine","limo","shortfirst",23
+"856","LongShort 18","neut","short","undergraduate","undergrad","longfirst",23
+"857","LongShort 2","supp","short","bicycle","bike","shortfirst",23
+"858","LongShort 3","neut","short","examination","exam","longfirst",23
+"859","LongShort 9","neut","short","hippopotamus","hippo","longfirst",23
+"860","LongShort 28","neut","long","laboratory","lab","longfirst",23
+"861","LongShort 19","neut","long","kilogram","kilo","longfirst",23
+"862","LongShort 31","neut","short","mayonnaise","mayo","shortfirst",23
+"863","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",23
+"864","LongShort 20","neut","short","chemotherapy","chemo","longfirst",23
+"865","LongShort 30","neut","short","identification","ID","shortfirst",23
+"866","LongShort 38","neut","short","emergency room","ER","shortfirst",23
+"867","LongShort 22","supp","short","carbohydrates","carbs","shortfirst",23
+"868","LongShort 12","neut","long","pornography","porn","shortfirst",23
+"869","LongShort 21","neut","short","television","TV","shortfirst",23
+"870","LongShort 32","neut","short","Coca-Cola","Coke","longfirst",23
+"871","LongShort 15","neut","long","cockroach","roach","shortfirst",23
+"872","LongShort 10","neut","short","rhinoceros","rhino","longfirst",23
+"873","LongShort 17","neut","short","referee","ref","shortfirst",23
+"874","LongShort 37","neut","short","quadrangle","quad","shortfirst",23
+"875","LongShort 1","supp","short","mathematics","math","shortfirst",23
+"876","LongShort 6","supp","short","photograph","photo","shortfirst",23
+"877","LongShort 7","supp","short","fraternity","frat","shortfirst",23
+"878","LongShort 8","neut","short","refrigerator","fridge","longfirst",23
+"879","LongShort 36","neut","short","quadriceps","quads","longfirst",23
+"880","LongShort 35","supp","short","hamburger","burger","shortfirst",23
+"881","LongShort 37","supp","short","quadrangle","quad","longfirst",24
+"882","LongShort 13","supp","short","limousine","limo","longfirst",24
+"883","LongShort 39","supp","long","United States","U.S.","longfirst",24
+"884","LongShort 6","neut","long","photograph","photo","longfirst",24
+"885","LongShort 7","supp","long","fraternity","frat","shortfirst",24
+"886","LongShort 29","neut","short","Labrador","Lab","shortfirst",24
+"887","LongShort 23","supp","long","advertisement","ad","shortfirst",24
+"888","LongShort 2","neut","long","bicycle","bike","longfirst",24
+"889","LongShort 30","neut","short","identification","ID","longfirst",24
+"890","LongShort 15","supp","long","cockroach","roach","shortfirst",24
+"891","LongShort 17","neut","long","referee","ref","longfirst",24
+"892","LongShort 22","neut","long","carbohydrates","carbs","longfirst",24
+"893","LongShort 10","supp","long","rhinoceros","rhino","longfirst",24
+"894","LongShort 9","neut","long","hippopotamus","hippo","longfirst",24
+"895","LongShort 32","supp","long","Coca-Cola","Coke","shortfirst",24
+"896","LongShort 28","neut","long","laboratory","lab","longfirst",24
+"897","LongShort 33","supp","long","milkshake","shake","longfirst",24
+"898","LongShort 19","supp","short","kilogram","kilo","shortfirst",24
+"899","LongShort 14","neut","long","saxophone","sax","longfirst",24
+"900","LongShort 35","supp","long","hamburger","burger","longfirst",24
+"901","LongShort 40","supp","long","United Nations","U.N.","shortfirst",24
+"902","LongShort 8","neut","long","refrigerator","fridge","longfirst",24
+"903","LongShort 11","supp","long","chimpanzee","chimp","shortfirst",24
+"904","LongShort 31","neut","long","mayonnaise","mayo","longfirst",24
+"905","LongShort 38","supp","long","emergency room","ER","longfirst",24
+"906","LongShort 12","neut","long","pornography","porn","longfirst",24
+"907","LongShort 1","neut","short","mathematics","math","shortfirst",24
+"908","LongShort 4","supp","short","dormitory","dorm","shortfirst",24
+"909","LongShort 25","supp","short","gasoline","gas","shortfirst",24
+"910","LongShort 26","supp","long","United Kingdom","U.K.","shortfirst",24
+"911","LongShort 20","supp","long","chemotherapy","chemo","shortfirst",24
+"912","LongShort 16","neut","short","telephone","phone","longfirst",24
+"913","LongShort 18","supp","long","undergraduate","undergrad","longfirst",24
+"914","LongShort 5","supp","short","memorandum","memo","longfirst",24
+"915","LongShort 36","supp","short","quadriceps","quads","shortfirst",24
+"916","LongShort 3","neut","short","examination","exam","longfirst",24
+"917","LongShort 34","neut","long","veterinarian","vet","shortfirst",24
+"918","LongShort 27","neut","long","microphone","mic","shortfirst",24
+"919","LongShort 24","supp","long","air conditioning","A/C","shortfirst",24
+"920","LongShort 21","supp","short","television","TV","longfirst",24
+"921","LongShort 18","supp","short","undergraduate","undergrad","shortfirst",25
+"922","LongShort 1","supp","short","mathematics","math","shortfirst",25
+"923","LongShort 12","neut","long","pornography","porn","longfirst",25
+"924","LongShort 15","supp","long","cockroach","roach","shortfirst",25
+"925","LongShort 36","supp","long","quadriceps","quads","longfirst",25
+"926","LongShort 19","neut","long","kilogram","kilo","longfirst",25
+"927","LongShort 33","supp","long","milkshake","shake","shortfirst",25
+"928","LongShort 32","neut","short","Coca-Cola","Coke","longfirst",25
+"929","LongShort 27","neut","long","microphone","mic","longfirst",25
+"930","LongShort 4","supp","short","dormitory","dorm","shortfirst",25
+"931","LongShort 34","neut","long","veterinarian","vet","shortfirst",25
+"932","LongShort 16","neut","long","telephone","phone","shortfirst",25
+"933","LongShort 3","neut","short","examination","exam","shortfirst",25
+"934","LongShort 10","neut","long","rhinoceros","rhino","shortfirst",25
+"935","LongShort 14","neut","long","saxophone","sax","longfirst",25
+"936","LongShort 21","supp","short","television","TV","shortfirst",25
+"937","LongShort 39","supp","short","United States","U.S.","shortfirst",25
+"938","LongShort 37","supp","short","quadrangle","quad","shortfirst",25
+"939","LongShort 25","neut","short","gasoline","gas","longfirst",25
+"940","LongShort 11","supp","long","chimpanzee","chimp","longfirst",25
+"941","LongShort 20","supp","long","chemotherapy","chemo","shortfirst",25
+"942","LongShort 2","neut","short","bicycle","bike","longfirst",25
+"943","LongShort 29","neut","short","Labrador","Lab","longfirst",25
+"944","LongShort 6","supp","short","photograph","photo","longfirst",25
+"945","LongShort 17","neut","long","referee","ref","shortfirst",25
+"946","LongShort 38","supp","short","emergency room","ER","shortfirst",25
+"947","LongShort 40","supp","long","United Nations","U.N.","shortfirst",25
+"948","LongShort 7","neut","long","fraternity","frat","shortfirst",25
+"949","LongShort 30","supp","short","identification","ID","longfirst",25
+"950","LongShort 24","supp","short","air conditioning","A/C","longfirst",25
+"951","LongShort 23","neut","short","advertisement","ad","longfirst",25
+"952","LongShort 5","supp","short","memorandum","memo","longfirst",25
+"953","LongShort 26","neut","short","United Kingdom","U.K.","longfirst",25
+"954","LongShort 13","supp","short","limousine","limo","longfirst",25
+"955","LongShort 28","neut","short","laboratory","lab","longfirst",25
+"956","LongShort 35","neut","short","hamburger","burger","longfirst",25
+"957","LongShort 9","neut","long","hippopotamus","hippo","shortfirst",25
+"958","LongShort 31","supp","long","mayonnaise","mayo","longfirst",25
+"959","LongShort 22","supp","long","carbohydrates","carbs","longfirst",25
+"960","LongShort 8","supp","short","refrigerator","fridge","shortfirst",25
+"961","LongShort 7","neut","long","fraternity","frat","longfirst",26
+"962","LongShort 26","neut","short","United Kingdom","U.K.","shortfirst",26
+"963","LongShort 15","supp","short","cockroach","roach","shortfirst",26
+"964","LongShort 12","supp","short","pornography","porn","longfirst",26
+"965","LongShort 18","neut","short","undergraduate","undergrad","shortfirst",26
+"966","LongShort 24","supp","short","air conditioning","A/C","longfirst",26
+"967","LongShort 28","neut","short","laboratory","lab","longfirst",26
+"968","LongShort 5","supp","short","memorandum","memo","longfirst",26
+"969","LongShort 20","supp","short","chemotherapy","chemo","shortfirst",26
+"970","LongShort 22","supp","short","carbohydrates","carbs","shortfirst",26
+"971","LongShort 30","neut","short","identification","ID","shortfirst",26
+"972","LongShort 10","neut","short","rhinoceros","rhino","shortfirst",26
+"973","LongShort 16","neut","short","telephone","phone","longfirst",26
+"974","LongShort 29","neut","short","Labrador","Lab","longfirst",26
+"975","LongShort 38","supp","short","emergency room","ER","shortfirst",26
+"976","LongShort 17","supp","short","referee","ref","longfirst",26
+"977","LongShort 14","neut","long","saxophone","sax","shortfirst",26
+"978","LongShort 9","supp","short","hippopotamus","hippo","longfirst",26
+"979","LongShort 8","supp","short","refrigerator","fridge","shortfirst",26
+"980","LongShort 37","neut","short","quadrangle","quad","longfirst",26
+"981","LongShort 32","neut","short","Coca-Cola","Coke","shortfirst",26
+"982","LongShort 21","supp","short","television","TV","shortfirst",26
+"983","LongShort 39","supp","short","United States","U.S.","shortfirst",26
+"984","LongShort 25","neut","short","gasoline","gas","shortfirst",26
+"985","LongShort 23","neut","short","advertisement","ad","longfirst",26
+"986","LongShort 31","neut","short","mayonnaise","mayo","longfirst",26
+"987","LongShort 1","supp","short","mathematics","math","shortfirst",26
+"988","LongShort 13","supp","short","limousine","limo","longfirst",26
+"989","LongShort 11","supp","short","chimpanzee","chimp","shortfirst",26
+"990","LongShort 34","supp","short","veterinarian","vet","longfirst",26
+"991","LongShort 3","supp","short","examination","exam","shortfirst",26
+"992","LongShort 19","supp","short","kilogram","kilo","shortfirst",26
+"993","LongShort 36","neut","short","quadriceps","quads","shortfirst",26
+"994","LongShort 4","neut","short","dormitory","dorm","shortfirst",26
+"995","LongShort 27","neut","long","microphone","mic","longfirst",26
+"996","LongShort 6","neut","short","photograph","photo","longfirst",26
+"997","LongShort 2","neut","short","bicycle","bike","shortfirst",26
+"998","LongShort 40","neut","short","United Nations","U.N.","shortfirst",26
+"999","LongShort 35","supp","short","hamburger","burger","longfirst",26
+"1000","LongShort 33","supp","short","milkshake","shake","shortfirst",26
+"1001","LongShort 31","neut","long","mayonnaise","mayo","shortfirst",27
+"1002","LongShort 36","supp","long","quadriceps","quads","shortfirst",27
+"1003","LongShort 3","neut","short","examination","exam","longfirst",27
+"1004","LongShort 26","neut","short","United Kingdom","U.K.","shortfirst",27
+"1005","LongShort 28","neut","short","laboratory","lab","shortfirst",27
+"1006","LongShort 9","supp","short","hippopotamus","hippo","longfirst",27
+"1007","LongShort 24","supp","short","air conditioning","A/C","shortfirst",27
+"1008","LongShort 21","neut","short","television","TV","shortfirst",27
+"1009","LongShort 12","supp","short","pornography","porn","longfirst",27
+"1010","LongShort 30","supp","short","identification","ID","shortfirst",27
+"1011","LongShort 19","supp","short","kilogram","kilo","longfirst",27
+"1012","LongShort 39","supp","long","United States","U.S.","shortfirst",27
+"1013","LongShort 4","neut","short","dormitory","dorm","shortfirst",27
+"1014","LongShort 20","neut","short","chemotherapy","chemo","longfirst",27
+"1015","LongShort 14","supp","long","saxophone","sax","shortfirst",27
+"1016","LongShort 7","neut","long","fraternity","frat","shortfirst",27
+"1017","LongShort 15","neut","short","cockroach","roach","longfirst",27
+"1018","LongShort 23","supp","short","advertisement","ad","shortfirst",27
+"1019","LongShort 37","neut","short","quadrangle","quad","shortfirst",27
+"1020","LongShort 11","neut","short","chimpanzee","chimp","shortfirst",27
+"1021","LongShort 34","neut","short","veterinarian","vet","shortfirst",27
+"1022","LongShort 40","neut","short","United Nations","U.N.","shortfirst",27
+"1023","LongShort 1","neut","short","mathematics","math","longfirst",27
+"1024","LongShort 27","neut","long","microphone","mic","shortfirst",27
+"1025","LongShort 38","supp","short","emergency room","ER","shortfirst",27
+"1026","LongShort 8","neut","short","refrigerator","fridge","longfirst",27
+"1027","LongShort 6","supp","short","photograph","photo","longfirst",27
+"1028","LongShort 25","neut","short","gasoline","gas","longfirst",27
+"1029","LongShort 29","supp","short","Labrador","Lab","shortfirst",27
+"1030","LongShort 22","supp","short","carbohydrates","carbs","longfirst",27
+"1031","LongShort 16","neut","short","telephone","phone","shortfirst",27
+"1032","LongShort 2","neut","short","bicycle","bike","longfirst",27
+"1033","LongShort 13","supp","short","limousine","limo","shortfirst",27
+"1034","LongShort 10","supp","short","rhinoceros","rhino","shortfirst",27
+"1035","LongShort 5","neut","short","memorandum","memo","longfirst",27
+"1036","LongShort 17","neut","short","referee","ref","shortfirst",27
+"1037","LongShort 35","neut","short","hamburger","burger","shortfirst",27
+"1038","LongShort 18","supp","long","undergraduate","undergrad","shortfirst",27
+"1039","LongShort 33","supp","long","milkshake","shake","longfirst",27
+"1040","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",27
+"1041","LongShort 21","supp","short","television","TV","shortfirst",28
+"1042","LongShort 6","neut","short","photograph","photo","longfirst",28
+"1043","LongShort 14","neut","long","saxophone","sax","longfirst",28
+"1044","LongShort 37","supp","long","quadrangle","quad","shortfirst",28
+"1045","LongShort 12","neut","short","pornography","porn","shortfirst",28
+"1046","LongShort 27","supp","short","microphone","mic","shortfirst",28
+"1047","LongShort 40","neut","short","United Nations","U.N.","shortfirst",28
+"1048","LongShort 2","neut","short","bicycle","bike","shortfirst",28
+"1049","LongShort 24","supp","long","air conditioning","A/C","longfirst",28
+"1050","LongShort 28","neut","short","laboratory","lab","shortfirst",28
+"1051","LongShort 22","supp","short","carbohydrates","carbs","longfirst",28
+"1052","LongShort 34","neut","short","veterinarian","vet","shortfirst",28
+"1053","LongShort 5","neut","short","memorandum","memo","shortfirst",28
+"1054","LongShort 35","neut","long","hamburger","burger","longfirst",28
+"1055","LongShort 23","neut","short","advertisement","ad","longfirst",28
+"1056","LongShort 13","supp","short","limousine","limo","longfirst",28
+"1057","LongShort 7","neut","short","fraternity","frat","shortfirst",28
+"1058","LongShort 1","neut","short","mathematics","math","longfirst",28
+"1059","LongShort 39","neut","short","United States","U.S.","longfirst",28
+"1060","LongShort 33","neut","short","milkshake","shake","longfirst",28
+"1061","LongShort 11","neut","short","chimpanzee","chimp","longfirst",28
+"1062","LongShort 20","supp","short","chemotherapy","chemo","shortfirst",28
+"1063","LongShort 15","neut","long","cockroach","roach","longfirst",28
+"1064","LongShort 25","neut","short","gasoline","gas","longfirst",28
+"1065","LongShort 32","neut","long","Coca-Cola","Coke","longfirst",28
+"1066","LongShort 10","neut","short","rhinoceros","rhino","longfirst",28
+"1067","LongShort 26","neut","short","United Kingdom","U.K.","longfirst",28
+"1068","LongShort 18","supp","short","undergraduate","undergrad","longfirst",28
+"1069","LongShort 8","supp","short","refrigerator","fridge","longfirst",28
+"1070","LongShort 17","supp","short","referee","ref","shortfirst",28
+"1071","LongShort 16","supp","short","telephone","phone","shortfirst",28
+"1072","LongShort 31","neut","short","mayonnaise","mayo","shortfirst",28
+"1073","LongShort 9","neut","short","hippopotamus","hippo","longfirst",28
+"1074","LongShort 4","neut","short","dormitory","dorm","longfirst",28
+"1075","LongShort 36","supp","short","quadriceps","quads","shortfirst",28
+"1076","LongShort 19","supp","short","kilogram","kilo","shortfirst",28
+"1077","LongShort 38","supp","short","emergency room","ER","longfirst",28
+"1078","LongShort 29","supp","long","Labrador","Lab","longfirst",28
+"1079","LongShort 3","supp","short","examination","exam","longfirst",28
+"1080","LongShort 30","neut","short","identification","ID","longfirst",28
+"1081","LongShort 17","supp","long","referee","ref","longfirst",29
+"1082","LongShort 15","supp","long","cockroach","roach","shortfirst",29
+"1083","LongShort 36","neut","short","quadriceps","quads","shortfirst",29
+"1084","LongShort 25","neut","short","gasoline","gas","shortfirst",29
+"1085","LongShort 28","supp","short","laboratory","lab","longfirst",29
+"1086","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",29
+"1087","LongShort 24","supp","short","air conditioning","A/C","longfirst",29
+"1088","LongShort 13","neut","short","limousine","limo","shortfirst",29
+"1089","LongShort 21","supp","short","television","TV","longfirst",29
+"1090","LongShort 8","supp","short","refrigerator","fridge","longfirst",29
+"1091","LongShort 7","neut","long","fraternity","frat","shortfirst",29
+"1092","LongShort 11","supp","long","chimpanzee","chimp","shortfirst",29
+"1093","LongShort 23","neut","long","advertisement","ad","shortfirst",29
+"1094","LongShort 18","supp","short","undergraduate","undergrad","longfirst",29
+"1095","LongShort 19","neut","short","kilogram","kilo","longfirst",29
+"1096","LongShort 12","neut","long","pornography","porn","longfirst",29
+"1097","LongShort 30","neut","short","identification","ID","longfirst",29
+"1098","LongShort 31","neut","long","mayonnaise","mayo","shortfirst",29
+"1099","LongShort 26","supp","long","United Kingdom","U.K.","shortfirst",29
+"1100","LongShort 37","neut","short","quadrangle","quad","longfirst",29
+"1101","LongShort 6","neut","long","photograph","photo","shortfirst",29
+"1102","LongShort 39","neut","long","United States","U.S.","longfirst",29
+"1103","LongShort 14","supp","short","saxophone","sax","shortfirst",29
+"1104","LongShort 34","neut","short","veterinarian","vet","shortfirst",29
+"1105","LongShort 4","neut","short","dormitory","dorm","longfirst",29
+"1106","LongShort 29","supp","short","Labrador","Lab","longfirst",29
+"1107","LongShort 2","supp","short","bicycle","bike","longfirst",29
+"1108","LongShort 5","neut","short","memorandum","memo","longfirst",29
+"1109","LongShort 10","neut","short","rhinoceros","rhino","longfirst",29
+"1110","LongShort 9","supp","long","hippopotamus","hippo","longfirst",29
+"1111","LongShort 35","supp","short","hamburger","burger","shortfirst",29
+"1112","LongShort 33","supp","long","milkshake","shake","shortfirst",29
+"1113","LongShort 1","neut","short","mathematics","math","longfirst",29
+"1114","LongShort 22","supp","short","carbohydrates","carbs","shortfirst",29
+"1115","LongShort 38","supp","short","emergency room","ER","shortfirst",29
+"1116","LongShort 3","supp","short","examination","exam","shortfirst",29
+"1117","LongShort 16","supp","short","telephone","phone","longfirst",29
+"1118","LongShort 20","neut","long","chemotherapy","chemo","shortfirst",29
+"1119","LongShort 27","neut","long","microphone","mic","longfirst",29
+"1120","LongShort 40","supp","short","United Nations","U.N.","longfirst",29
+"1121","LongShort 12","neut","long","pornography","porn","longfirst",30
+"1122","LongShort 38","supp","long","emergency room","ER","shortfirst",30
+"1123","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",30
+"1124","LongShort 27","neut","long","microphone","mic","shortfirst",30
+"1125","LongShort 19","supp","long","kilogram","kilo","longfirst",30
+"1126","LongShort 3","neut","short","examination","exam","shortfirst",30
+"1127","LongShort 2","supp","short","bicycle","bike","longfirst",30
+"1128","LongShort 7","neut","long","fraternity","frat","longfirst",30
+"1129","LongShort 28","neut","short","laboratory","lab","shortfirst",30
+"1130","LongShort 6","neut","short","photograph","photo","longfirst",30
+"1131","LongShort 8","supp","short","refrigerator","fridge","longfirst",30
+"1132","LongShort 34","neut","long","veterinarian","vet","shortfirst",30
+"1133","LongShort 22","neut","short","carbohydrates","carbs","shortfirst",30
+"1134","LongShort 39","neut","long","United States","U.S.","shortfirst",30
+"1135","LongShort 16","supp","short","telephone","phone","shortfirst",30
+"1136","LongShort 10","neut","short","rhinoceros","rhino","shortfirst",30
+"1137","LongShort 1","supp","short","mathematics","math","longfirst",30
+"1138","LongShort 30","neut","short","identification","ID","longfirst",30
+"1139","LongShort 29","supp","short","Labrador","Lab","longfirst",30
+"1140","LongShort 11","supp","long","chimpanzee","chimp","longfirst",30
+"1141","LongShort 23","neut","short","advertisement","ad","longfirst",30
+"1142","LongShort 33","supp","short","milkshake","shake","longfirst",30
+"1143","LongShort 5","supp","short","memorandum","memo","longfirst",30
+"1144","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",30
+"1145","LongShort 40","neut","short","United Nations","U.N.","longfirst",30
+"1146","LongShort 36","neut","short","quadriceps","quads","longfirst",30
+"1147","LongShort 17","neut","long","referee","ref","shortfirst",30
+"1148","LongShort 20","neut","long","chemotherapy","chemo","shortfirst",30
+"1149","LongShort 21","supp","short","television","TV","shortfirst",30
+"1150","LongShort 35","supp","long","hamburger","burger","longfirst",30
+"1151","LongShort 18","supp","long","undergraduate","undergrad","shortfirst",30
+"1152","LongShort 24","supp","long","air conditioning","A/C","longfirst",30
+"1153","LongShort 4","neut","short","dormitory","dorm","longfirst",30
+"1154","LongShort 37","neut","short","quadrangle","quad","shortfirst",30
+"1155","LongShort 31","neut","long","mayonnaise","mayo","shortfirst",30
+"1156","LongShort 14","neut","long","saxophone","sax","longfirst",30
+"1157","LongShort 13","neut","short","limousine","limo","longfirst",30
+"1158","LongShort 15","neut","long","cockroach","roach","shortfirst",30
+"1159","LongShort 25","neut","short","gasoline","gas","shortfirst",30
+"1160","LongShort 9","neut","short","hippopotamus","hippo","longfirst",30
+"1161","LongShort 17","supp","short","referee","ref","longfirst",31
+"1162","LongShort 37","supp","short","quadrangle","quad","shortfirst",31
+"1163","LongShort 20","neut","long","chemotherapy","chemo","longfirst",31
+"1164","LongShort 18","supp","long","undergraduate","undergrad","longfirst",31
+"1165","LongShort 33","supp","long","milkshake","shake","longfirst",31
+"1166","LongShort 30","neut","short","identification","ID","shortfirst",31
+"1167","LongShort 22","supp","short","carbohydrates","carbs","shortfirst",31
+"1168","LongShort 23","supp","short","advertisement","ad","longfirst",31
+"1169","LongShort 3","supp","short","examination","exam","longfirst",31
+"1170","LongShort 35","neut","long","hamburger","burger","longfirst",31
+"1171","LongShort 34","neut","long","veterinarian","vet","shortfirst",31
+"1172","LongShort 1","supp","short","mathematics","math","shortfirst",31
+"1173","LongShort 10","neut","long","rhinoceros","rhino","shortfirst",31
+"1174","LongShort 4","neut","long","dormitory","dorm","shortfirst",31
+"1175","LongShort 29","neut","long","Labrador","Lab","longfirst",31
+"1176","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",31
+"1177","LongShort 9","supp","short","hippopotamus","hippo","shortfirst",31
+"1178","LongShort 38","neut","short","emergency room","ER","shortfirst",31
+"1179","LongShort 6","neut","short","photograph","photo","shortfirst",31
+"1180","LongShort 2","neut","short","bicycle","bike","longfirst",31
+"1181","LongShort 19","supp","long","kilogram","kilo","longfirst",31
+"1182","LongShort 40","supp","long","United Nations","U.N.","shortfirst",31
+"1183","LongShort 11","neut","long","chimpanzee","chimp","shortfirst",31
+"1184","LongShort 24","supp","long","air conditioning","A/C","longfirst",31
+"1185","LongShort 12","neut","long","pornography","porn","longfirst",31
+"1186","LongShort 27","supp","long","microphone","mic","shortfirst",31
+"1187","LongShort 21","neut","long","television","TV","longfirst",31
+"1188","LongShort 28","supp","short","laboratory","lab","longfirst",31
+"1189","LongShort 39","supp","long","United States","U.S.","shortfirst",31
+"1190","LongShort 16","supp","short","telephone","phone","longfirst",31
+"1191","LongShort 25","supp","short","gasoline","gas","longfirst",31
+"1192","LongShort 15","neut","long","cockroach","roach","shortfirst",31
+"1193","LongShort 26","supp","long","United Kingdom","U.K.","shortfirst",31
+"1194","LongShort 36","neut","short","quadriceps","quads","longfirst",31
+"1195","LongShort 14","neut","long","saxophone","sax","longfirst",31
+"1196","LongShort 5","neut","short","memorandum","memo","shortfirst",31
+"1197","LongShort 13","neut","long","limousine","limo","shortfirst",31
+"1198","LongShort 31","supp","long","mayonnaise","mayo","shortfirst",31
+"1199","LongShort 7","neut","long","fraternity","frat","longfirst",31
+"1200","LongShort 8","neut","short","refrigerator","fridge","longfirst",31
+"1201","LongShort 27","supp","short","microphone","mic","longfirst",32
+"1202","LongShort 20","neut","long","chemotherapy","chemo","shortfirst",32
+"1203","LongShort 40","supp","short","United Nations","U.N.","longfirst",32
+"1204","LongShort 1","supp","short","mathematics","math","longfirst",32
+"1205","LongShort 33","neut","long","milkshake","shake","longfirst",32
+"1206","LongShort 34","neut","long","veterinarian","vet","longfirst",32
+"1207","LongShort 4","supp","long","dormitory","dorm","shortfirst",32
+"1208","LongShort 28","neut","long","laboratory","lab","shortfirst",32
+"1209","LongShort 12","supp","long","pornography","porn","shortfirst",32
+"1210","LongShort 31","supp","long","mayonnaise","mayo","shortfirst",32
+"1211","LongShort 32","supp","short","Coca-Cola","Coke","longfirst",32
+"1212","LongShort 6","supp","long","photograph","photo","shortfirst",32
+"1213","LongShort 30","neut","long","identification","ID","longfirst",32
+"1214","LongShort 5","supp","short","memorandum","memo","longfirst",32
+"1215","LongShort 7","neut","short","fraternity","frat","longfirst",32
+"1216","LongShort 26","supp","long","United Kingdom","U.K.","shortfirst",32
+"1217","LongShort 19","neut","long","kilogram","kilo","longfirst",32
+"1218","LongShort 38","supp","long","emergency room","ER","longfirst",32
+"1219","LongShort 18","neut","long","undergraduate","undergrad","longfirst",32
+"1220","LongShort 23","supp","long","advertisement","ad","longfirst",32
+"1221","LongShort 13","supp","long","limousine","limo","shortfirst",32
+"1222","LongShort 3","supp","short","examination","exam","longfirst",32
+"1223","LongShort 10","supp","long","rhinoceros","rhino","shortfirst",32
+"1224","LongShort 16","supp","short","telephone","phone","shortfirst",32
+"1225","LongShort 11","supp","long","chimpanzee","chimp","longfirst",32
+"1226","LongShort 39","supp","long","United States","U.S.","longfirst",32
+"1227","LongShort 29","supp","long","Labrador","Lab","longfirst",32
+"1228","LongShort 21","supp","short","television","TV","longfirst",32
+"1229","LongShort 24","neut","long","air conditioning","A/C","longfirst",32
+"1230","LongShort 2","neut","long","bicycle","bike","longfirst",32
+"1231","LongShort 35","supp","long","hamburger","burger","longfirst",32
+"1232","LongShort 14","neut","long","saxophone","sax","shortfirst",32
+"1233","LongShort 25","supp","long","gasoline","gas","shortfirst",32
+"1234","LongShort 9","neut","short","hippopotamus","hippo","shortfirst",32
+"1235","LongShort 36","neut","long","quadriceps","quads","longfirst",32
+"1236","LongShort 8","supp","long","refrigerator","fridge","longfirst",32
+"1237","LongShort 22","neut","long","carbohydrates","carbs","longfirst",32
+"1238","LongShort 15","supp","long","cockroach","roach","shortfirst",32
+"1239","LongShort 17","neut","long","referee","ref","shortfirst",32
+"1240","LongShort 37","supp","short","quadrangle","quad","shortfirst",32
+"1241","LongShort 26","supp","short","United Kingdom","U.K.","shortfirst",33
+"1242","LongShort 37","supp","short","quadrangle","quad","shortfirst",33
+"1243","LongShort 32","neut","short","Coca-Cola","Coke","shortfirst",33
+"1244","LongShort 9","neut","short","hippopotamus","hippo","longfirst",33
+"1245","LongShort 19","neut","short","kilogram","kilo","longfirst",33
+"1246","LongShort 27","supp","short","microphone","mic","longfirst",33
+"1247","LongShort 24","supp","short","air conditioning","A/C","shortfirst",33
+"1248","LongShort 18","supp","short","undergraduate","undergrad","longfirst",33
+"1249","LongShort 10","neut","short","rhinoceros","rhino","longfirst",33
+"1250","LongShort 11","supp","short","chimpanzee","chimp","longfirst",33
+"1251","LongShort 2","supp","short","bicycle","bike","longfirst",33
+"1252","LongShort 7","neut","short","fraternity","frat","longfirst",33
+"1253","LongShort 13","neut","short","limousine","limo","longfirst",33
+"1254","LongShort 5","neut","short","memorandum","memo","longfirst",33
+"1255","LongShort 29","supp","short","Labrador","Lab","longfirst",33
+"1256","LongShort 38","neut","short","emergency room","ER","shortfirst",33
+"1257","LongShort 20","supp","long","chemotherapy","chemo","longfirst",33
+"1258","LongShort 1","supp","short","mathematics","math","shortfirst",33
+"1259","LongShort 31","neut","short","mayonnaise","mayo","longfirst",33
+"1260","LongShort 34","supp","short","veterinarian","vet","longfirst",33
+"1261","LongShort 3","neut","short","examination","exam","shortfirst",33
+"1262","LongShort 33","supp","long","milkshake","shake","longfirst",33
+"1263","LongShort 40","supp","long","United Nations","U.N.","shortfirst",33
+"1264","LongShort 17","neut","long","referee","ref","shortfirst",33
+"1265","LongShort 6","neut","short","photograph","photo","longfirst",33
+"1266","LongShort 16","supp","short","telephone","phone","shortfirst",33
+"1267","LongShort 25","supp","short","gasoline","gas","longfirst",33
+"1268","LongShort 22","neut","short","carbohydrates","carbs","longfirst",33
+"1269","LongShort 21","supp","short","television","TV","shortfirst",33
+"1270","LongShort 30","neut","short","identification","ID","longfirst",33
+"1271","LongShort 8","neut","short","refrigerator","fridge","longfirst",33
+"1272","LongShort 15","neut","long","cockroach","roach","longfirst",33
+"1273","LongShort 12","supp","short","pornography","porn","longfirst",33
+"1274","LongShort 39","neut","long","United States","U.S.","shortfirst",33
+"1275","LongShort 28","neut","short","laboratory","lab","shortfirst",33
+"1276","LongShort 36","supp","short","quadriceps","quads","shortfirst",33
+"1277","LongShort 23","neut","short","advertisement","ad","shortfirst",33
+"1278","LongShort 4","neut","short","dormitory","dorm","shortfirst",33
+"1279","LongShort 35","supp","short","hamburger","burger","shortfirst",33
+"1280","LongShort 14","neut","long","saxophone","sax","shortfirst",33
+"1281","LongShort 40","neut","short","United Nations","U.N.","longfirst",34
+"1282","LongShort 16","neut","short","telephone","phone","longfirst",34
+"1283","LongShort 6","supp","short","photograph","photo","shortfirst",34
+"1284","LongShort 24","neut","long","air conditioning","A/C","shortfirst",34
+"1285","LongShort 21","supp","short","television","TV","shortfirst",34
+"1286","LongShort 18","neut","long","undergraduate","undergrad","shortfirst",34
+"1287","LongShort 35","neut","short","hamburger","burger","longfirst",34
+"1288","LongShort 23","neut","short","advertisement","ad","shortfirst",34
+"1289","LongShort 27","supp","short","microphone","mic","longfirst",34
+"1290","LongShort 1","neut","short","mathematics","math","longfirst",34
+"1291","LongShort 4","supp","short","dormitory","dorm","longfirst",34
+"1292","LongShort 19","supp","long","kilogram","kilo","shortfirst",34
+"1293","LongShort 13","neut","short","limousine","limo","shortfirst",34
+"1294","LongShort 3","neut","short","examination","exam","shortfirst",34
+"1295","LongShort 28","neut","short","laboratory","lab","longfirst",34
+"1296","LongShort 38","supp","short","emergency room","ER","shortfirst",34
+"1297","LongShort 20","neut","short","chemotherapy","chemo","longfirst",34
+"1298","LongShort 32","neut","long","Coca-Cola","Coke","longfirst",34
+"1299","LongShort 9","neut","short","hippopotamus","hippo","shortfirst",34
+"1300","LongShort 7","supp","long","fraternity","frat","longfirst",34
+"1301","LongShort 12","neut","short","pornography","porn","longfirst",34
+"1302","LongShort 26","neut","short","United Kingdom","U.K.","shortfirst",34
+"1303","LongShort 22","supp","short","carbohydrates","carbs","longfirst",34
+"1304","LongShort 14","neut","long","saxophone","sax","shortfirst",34
+"1305","LongShort 2","neut","short","bicycle","bike","longfirst",34
+"1306","LongShort 10","supp","short","rhinoceros","rhino","shortfirst",34
+"1307","LongShort 37","supp","short","quadrangle","quad","shortfirst",34
+"1308","LongShort 29","supp","short","Labrador","Lab","longfirst",34
+"1309","LongShort 34","supp","short","veterinarian","vet","longfirst",34
+"1310","LongShort 17","supp","long","referee","ref","longfirst",34
+"1311","LongShort 11","neut","short","chimpanzee","chimp","shortfirst",34
+"1312","LongShort 8","neut","short","refrigerator","fridge","shortfirst",34
+"1313","LongShort 30","supp","short","identification","ID","shortfirst",34
+"1314","LongShort 36","supp","short","quadriceps","quads","longfirst",34
+"1315","LongShort 31","neut","long","mayonnaise","mayo","shortfirst",34
+"1316","LongShort 5","supp","short","memorandum","memo","longfirst",34
+"1317","LongShort 39","supp","short","United States","U.S.","longfirst",34
+"1318","LongShort 15","neut","long","cockroach","roach","longfirst",34
+"1319","LongShort 33","neut","long","milkshake","shake","longfirst",34
+"1320","LongShort 25","supp","short","gasoline","gas","shortfirst",34
+"1321","LongShort 37","supp","short","quadrangle","quad","longfirst",35
+"1322","LongShort 33","neut","long","milkshake","shake","longfirst",35
+"1323","LongShort 7","neut","long","fraternity","frat","longfirst",35
+"1324","LongShort 28","supp","short","laboratory","lab","shortfirst",35
+"1325","LongShort 24","supp","long","air conditioning","A/C","shortfirst",35
+"1326","LongShort 39","supp","long","United States","U.S.","shortfirst",35
+"1327","LongShort 22","neut","long","carbohydrates","carbs","shortfirst",35
+"1328","LongShort 6","supp","long","photograph","photo","longfirst",35
+"1329","LongShort 1","supp","short","mathematics","math","longfirst",35
+"1330","LongShort 10","supp","long","rhinoceros","rhino","shortfirst",35
+"1331","LongShort 19","supp","short","kilogram","kilo","shortfirst",35
+"1332","LongShort 32","supp","long","Coca-Cola","Coke","longfirst",35
+"1333","LongShort 23","neut","long","advertisement","ad","longfirst",35
+"1334","LongShort 17","supp","short","referee","ref","shortfirst",35
+"1335","LongShort 26","supp","short","United Kingdom","U.K.","shortfirst",35
+"1336","LongShort 29","neut","short","Labrador","Lab","longfirst",35
+"1337","LongShort 12","supp","long","pornography","porn","shortfirst",35
+"1338","LongShort 35","supp","long","hamburger","burger","shortfirst",35
+"1339","LongShort 38","neut","long","emergency room","ER","shortfirst",35
+"1340","LongShort 3","supp","short","examination","exam","longfirst",35
+"1341","LongShort 8","neut","short","refrigerator","fridge","longfirst",35
+"1342","LongShort 31","neut","long","mayonnaise","mayo","shortfirst",35
+"1343","LongShort 11","supp","long","chimpanzee","chimp","longfirst",35
+"1344","LongShort 27","neut","long","microphone","mic","shortfirst",35
+"1345","LongShort 9","neut","long","hippopotamus","hippo","shortfirst",35
+"1346","LongShort 36","neut","short","quadriceps","quads","shortfirst",35
+"1347","LongShort 40","supp","short","United Nations","U.N.","shortfirst",35
+"1348","LongShort 25","supp","short","gasoline","gas","shortfirst",35
+"1349","LongShort 15","neut","long","cockroach","roach","longfirst",35
+"1350","LongShort 20","supp","long","chemotherapy","chemo","shortfirst",35
+"1351","LongShort 16","supp","long","telephone","phone","shortfirst",35
+"1352","LongShort 30","neut","short","identification","ID","shortfirst",35
+"1353","LongShort 34","neut","long","veterinarian","vet","shortfirst",35
+"1354","LongShort 21","supp","short","television","TV","longfirst",35
+"1355","LongShort 2","supp","long","bicycle","bike","shortfirst",35
+"1356","LongShort 5","supp","long","memorandum","memo","longfirst",35
+"1357","LongShort 18","supp","short","undergraduate","undergrad","longfirst",35
+"1358","LongShort 14","neut","long","saxophone","sax","longfirst",35
+"1359","LongShort 13","supp","short","limousine","limo","shortfirst",35
+"1360","LongShort 4","neut","long","dormitory","dorm","longfirst",35
+"1361","LongShort 32","neut","long","Coca-Cola","Coke","shortfirst",36
+"1362","LongShort 19","supp","short","kilogram","kilo","shortfirst",36
+"1363","LongShort 22","neut","short","carbohydrates","carbs","longfirst",36
+"1364","LongShort 29","neut","short","Labrador","Lab","longfirst",36
+"1365","LongShort 37","neut","short","quadrangle","quad","shortfirst",36
+"1366","LongShort 13","supp","short","limousine","limo","longfirst",36
+"1367","LongShort 9","neut","short","hippopotamus","hippo","longfirst",36
+"1368","LongShort 26","neut","short","United Kingdom","U.K.","longfirst",36
+"1369","LongShort 36","supp","short","quadriceps","quads","shortfirst",36
+"1370","LongShort 40","supp","long","United Nations","U.N.","longfirst",36
+"1371","LongShort 7","supp","long","fraternity","frat","shortfirst",36
+"1372","LongShort 2","neut","short","bicycle","bike","longfirst",36
+"1373","LongShort 20","supp","long","chemotherapy","chemo","shortfirst",36
+"1374","LongShort 1","neut","short","mathematics","math","longfirst",36
+"1375","LongShort 39","supp","long","United States","U.S.","longfirst",36
+"1376","LongShort 34","supp","long","veterinarian","vet","shortfirst",36
+"1377","LongShort 38","neut","long","emergency room","ER","shortfirst",36
+"1378","LongShort 33","supp","long","milkshake","shake","shortfirst",36
+"1379","LongShort 25","neut","short","gasoline","gas","shortfirst",36
+"1380","LongShort 35","supp","long","hamburger","burger","longfirst",36
+"1381","LongShort 21","neut","short","television","TV","longfirst",36
+"1382","LongShort 30","supp","long","identification","ID","shortfirst",36
+"1383","LongShort 3","neut","short","examination","exam","shortfirst",36
+"1384","LongShort 18","neut","short","undergraduate","undergrad","longfirst",36
+"1385","LongShort 24","neut","long","air conditioning","A/C","longfirst",36
+"1386","LongShort 14","neut","long","saxophone","sax","longfirst",36
+"1387","LongShort 8","supp","short","refrigerator","fridge","longfirst",36
+"1388","LongShort 27","neut","long","microphone","mic","shortfirst",36
+"1389","LongShort 6","supp","long","photograph","photo","shortfirst",36
+"1390","LongShort 23","supp","long","advertisement","ad","shortfirst",36
+"1391","LongShort 12","neut","long","pornography","porn","shortfirst",36
+"1392","LongShort 10","neut","long","rhinoceros","rhino","longfirst",36
+"1393","LongShort 16","neut","short","telephone","phone","longfirst",36
+"1394","LongShort 11","neut","long","chimpanzee","chimp","longfirst",36
+"1395","LongShort 15","supp","long","cockroach","roach","longfirst",36
+"1396","LongShort 28","neut","long","laboratory","lab","shortfirst",36
+"1397","LongShort 17","neut","long","referee","ref","longfirst",36
+"1398","LongShort 31","neut","long","mayonnaise","mayo","shortfirst",36
+"1399","LongShort 5","neut","short","memorandum","memo","shortfirst",36
+"1400","LongShort 4","supp","short","dormitory","dorm","longfirst",36
+"1401","LongShort 34","neut","long","veterinarian","vet","shortfirst",37
+"1402","LongShort 21","neut","short","television","TV","shortfirst",37
+"1403","LongShort 26","neut","long","United Kingdom","U.K.","longfirst",37
+"1404","LongShort 31","supp","long","mayonnaise","mayo","longfirst",37
+"1405","LongShort 36","supp","long","quadriceps","quads","shortfirst",37
+"1406","LongShort 32","supp","long","Coca-Cola","Coke","longfirst",37
+"1407","LongShort 39","neut","long","United States","U.S.","shortfirst",37
+"1408","LongShort 24","neut","short","air conditioning","A/C","shortfirst",37
+"1409","LongShort 15","supp","long","cockroach","roach","longfirst",37
+"1410","LongShort 35","neut","long","hamburger","burger","shortfirst",37
+"1411","LongShort 4","neut","short","dormitory","dorm","shortfirst",37
+"1412","LongShort 3","neut","short","examination","exam","longfirst",37
+"1413","LongShort 40","neut","long","United Nations","U.N.","shortfirst",37
+"1414","LongShort 2","supp","long","bicycle","bike","shortfirst",37
+"1415","LongShort 27","neut","long","microphone","mic","shortfirst",37
+"1416","LongShort 16","neut","long","telephone","phone","shortfirst",37
+"1417","LongShort 12","neut","long","pornography","porn","shortfirst",37
+"1418","LongShort 22","supp","long","carbohydrates","carbs","longfirst",37
+"1419","LongShort 33","supp","long","milkshake","shake","longfirst",37
+"1420","LongShort 1","neut","short","mathematics","math","shortfirst",37
+"1421","LongShort 20","supp","short","chemotherapy","chemo","shortfirst",37
+"1422","LongShort 28","supp","long","laboratory","lab","shortfirst",37
+"1423","LongShort 10","supp","short","rhinoceros","rhino","shortfirst",37
+"1424","LongShort 25","supp","short","gasoline","gas","shortfirst",37
+"1425","LongShort 7","supp","long","fraternity","frat","longfirst",37
+"1426","LongShort 11","neut","short","chimpanzee","chimp","longfirst",37
+"1427","LongShort 29","neut","long","Labrador","Lab","shortfirst",37
+"1428","LongShort 6","neut","long","photograph","photo","longfirst",37
+"1429","LongShort 8","supp","short","refrigerator","fridge","longfirst",37
+"1430","LongShort 9","supp","long","hippopotamus","hippo","shortfirst",37
+"1431","LongShort 13","supp","short","limousine","limo","longfirst",37
+"1432","LongShort 5","supp","long","memorandum","memo","shortfirst",37
+"1433","LongShort 37","neut","long","quadrangle","quad","shortfirst",37
+"1434","LongShort 18","supp","long","undergraduate","undergrad","longfirst",37
+"1435","LongShort 30","neut","short","identification","ID","longfirst",37
+"1436","LongShort 17","supp","short","referee","ref","longfirst",37
+"1437","LongShort 14","supp","long","saxophone","sax","shortfirst",37
+"1438","LongShort 38","neut","short","emergency room","ER","longfirst",37
+"1439","LongShort 23","supp","long","advertisement","ad","longfirst",37
+"1440","LongShort 19","supp","long","kilogram","kilo","shortfirst",37
+"1441","LongShort 29","neut","long","Labrador","Lab","longfirst",38
+"1442","LongShort 7","neut","short","fraternity","frat","shortfirst",38
+"1443","LongShort 27","neut","long","microphone","mic","longfirst",38
+"1444","LongShort 30","neut","short","identification","ID","longfirst",38
+"1445","LongShort 12","neut","long","pornography","porn","shortfirst",38
+"1446","LongShort 1","supp","short","mathematics","math","longfirst",38
+"1447","LongShort 13","supp","short","limousine","limo","longfirst",38
+"1448","LongShort 15","supp","long","cockroach","roach","shortfirst",38
+"1449","LongShort 33","neut","long","milkshake","shake","longfirst",38
+"1450","LongShort 31","supp","short","mayonnaise","mayo","shortfirst",38
+"1451","LongShort 39","neut","short","United States","U.S.","longfirst",38
+"1452","LongShort 14","neut","long","saxophone","sax","longfirst",38
+"1453","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",38
+"1454","LongShort 40","neut","short","United Nations","U.N.","longfirst",38
+"1455","LongShort 34","supp","short","veterinarian","vet","shortfirst",38
+"1456","LongShort 16","supp","short","telephone","phone","shortfirst",38
+"1457","LongShort 11","supp","long","chimpanzee","chimp","longfirst",38
+"1458","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",38
+"1459","LongShort 22","supp","short","carbohydrates","carbs","shortfirst",38
+"1460","LongShort 2","neut","short","bicycle","bike","shortfirst",38
+"1461","LongShort 37","neut","short","quadrangle","quad","longfirst",38
+"1462","LongShort 20","supp","long","chemotherapy","chemo","longfirst",38
+"1463","LongShort 23","neut","short","advertisement","ad","longfirst",38
+"1464","LongShort 17","neut","long","referee","ref","longfirst",38
+"1465","LongShort 10","supp","short","rhinoceros","rhino","longfirst",38
+"1466","LongShort 18","supp","short","undergraduate","undergrad","shortfirst",38
+"1467","LongShort 6","supp","short","photograph","photo","longfirst",38
+"1468","LongShort 9","neut","short","hippopotamus","hippo","longfirst",38
+"1469","LongShort 38","neut","short","emergency room","ER","shortfirst",38
+"1470","LongShort 8","supp","short","refrigerator","fridge","shortfirst",38
+"1471","LongShort 35","neut","short","hamburger","burger","longfirst",38
+"1472","LongShort 24","supp","short","air conditioning","A/C","shortfirst",38
+"1473","LongShort 25","supp","short","gasoline","gas","shortfirst",38
+"1474","LongShort 5","supp","short","memorandum","memo","longfirst",38
+"1475","LongShort 19","supp","short","kilogram","kilo","longfirst",38
+"1476","LongShort 28","neut","short","laboratory","lab","shortfirst",38
+"1477","LongShort 3","supp","short","examination","exam","shortfirst",38
+"1478","LongShort 4","supp","short","dormitory","dorm","longfirst",38
+"1479","LongShort 36","neut","short","quadriceps","quads","shortfirst",38
+"1480","LongShort 21","neut","short","television","TV","shortfirst",38
+"1481","LongShort 21","supp","long","television","TV","shortfirst",39
+"1482","LongShort 8","neut","long","refrigerator","fridge","longfirst",39
+"1483","LongShort 39","neut","short","United States","U.S.","shortfirst",39
+"1484","LongShort 9","supp","long","hippopotamus","hippo","shortfirst",39
+"1485","LongShort 11","supp","long","chimpanzee","chimp","shortfirst",39
+"1486","LongShort 17","neut","long","referee","ref","shortfirst",39
+"1487","LongShort 6","supp","long","photograph","photo","longfirst",39
+"1488","LongShort 40","neut","short","United Nations","U.N.","shortfirst",39
+"1489","LongShort 22","supp","long","carbohydrates","carbs","longfirst",39
+"1490","LongShort 32","neut","short","Coca-Cola","Coke","shortfirst",39
+"1491","LongShort 27","neut","long","microphone","mic","shortfirst",39
+"1492","LongShort 12","neut","long","pornography","porn","longfirst",39
+"1493","LongShort 18","neut","long","undergraduate","undergrad","shortfirst",39
+"1494","LongShort 29","neut","long","Labrador","Lab","longfirst",39
+"1495","LongShort 4","neut","short","dormitory","dorm","shortfirst",39
+"1496","LongShort 14","neut","long","saxophone","sax","shortfirst",39
+"1497","LongShort 2","neut","short","bicycle","bike","shortfirst",39
+"1498","LongShort 7","supp","long","fraternity","frat","shortfirst",39
+"1499","LongShort 3","neut","short","examination","exam","longfirst",39
+"1500","LongShort 20","supp","long","chemotherapy","chemo","shortfirst",39
+"1501","LongShort 23","supp","long","advertisement","ad","shortfirst",39
+"1502","LongShort 38","neut","long","emergency room","ER","shortfirst",39
+"1503","LongShort 30","neut","long","identification","ID","shortfirst",39
+"1504","LongShort 19","supp","long","kilogram","kilo","longfirst",39
+"1505","LongShort 28","supp","short","laboratory","lab","longfirst",39
+"1506","LongShort 33","supp","long","milkshake","shake","shortfirst",39
+"1507","LongShort 35","supp","long","hamburger","burger","shortfirst",39
+"1508","LongShort 25","supp","long","gasoline","gas","longfirst",39
+"1509","LongShort 34","supp","short","veterinarian","vet","shortfirst",39
+"1510","LongShort 16","neut","long","telephone","phone","shortfirst",39
+"1511","LongShort 1","neut","long","mathematics","math","longfirst",39
+"1512","LongShort 26","supp","long","United Kingdom","U.K.","shortfirst",39
+"1513","LongShort 31","supp","short","mayonnaise","mayo","longfirst",39
+"1514","LongShort 5","neut","short","memorandum","memo","shortfirst",39
+"1515","LongShort 15","supp","long","cockroach","roach","longfirst",39
+"1516","LongShort 36","supp","short","quadriceps","quads","shortfirst",39
+"1517","LongShort 24","neut","long","air conditioning","A/C","shortfirst",39
+"1518","LongShort 10","neut","long","rhinoceros","rhino","longfirst",39
+"1519","LongShort 37","supp","short","quadrangle","quad","longfirst",39
+"1520","LongShort 13","supp","long","limousine","limo","longfirst",39
+"1521","LongShort 38","neut","short","emergency room","ER","longfirst",40
+"1522","LongShort 6","neut","long","photograph","photo","shortfirst",40
+"1523","LongShort 22","neut","short","carbohydrates","carbs","longfirst",40
+"1524","LongShort 18","supp","short","undergraduate","undergrad","shortfirst",40
+"1525","LongShort 5","neut","short","memorandum","memo","shortfirst",40
+"1526","LongShort 10","neut","long","rhinoceros","rhino","longfirst",40
+"1527","LongShort 30","neut","short","identification","ID","longfirst",40
+"1528","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",40
+"1529","LongShort 1","neut","short","mathematics","math","shortfirst",40
+"1530","LongShort 19","neut","long","kilogram","kilo","longfirst",40
+"1531","LongShort 20","neut","long","chemotherapy","chemo","shortfirst",40
+"1532","LongShort 8","supp","short","refrigerator","fridge","shortfirst",40
+"1533","LongShort 26","supp","long","United Kingdom","U.K.","shortfirst",40
+"1534","LongShort 29","supp","long","Labrador","Lab","longfirst",40
+"1535","LongShort 17","neut","long","referee","ref","longfirst",40
+"1536","LongShort 21","neut","short","television","TV","shortfirst",40
+"1537","LongShort 24","supp","long","air conditioning","A/C","longfirst",40
+"1538","LongShort 31","supp","long","mayonnaise","mayo","longfirst",40
+"1539","LongShort 36","neut","short","quadriceps","quads","shortfirst",40
+"1540","LongShort 37","supp","short","quadrangle","quad","shortfirst",40
+"1541","LongShort 33","neut","long","milkshake","shake","shortfirst",40
+"1542","LongShort 40","supp","long","United Nations","U.N.","shortfirst",40
+"1543","LongShort 16","neut","long","telephone","phone","shortfirst",40
+"1544","LongShort 13","supp","short","limousine","limo","longfirst",40
+"1545","LongShort 7","neut","short","fraternity","frat","shortfirst",40
+"1546","LongShort 15","supp","long","cockroach","roach","shortfirst",40
+"1547","LongShort 28","neut","short","laboratory","lab","shortfirst",40
+"1548","LongShort 11","neut","long","chimpanzee","chimp","shortfirst",40
+"1549","LongShort 12","neut","long","pornography","porn","longfirst",40
+"1550","LongShort 14","neut","long","saxophone","sax","shortfirst",40
+"1551","LongShort 23","supp","long","advertisement","ad","shortfirst",40
+"1552","LongShort 4","supp","short","dormitory","dorm","longfirst",40
+"1553","LongShort 2","neut","short","bicycle","bike","shortfirst",40
+"1554","LongShort 9","supp","long","hippopotamus","hippo","longfirst",40
+"1555","LongShort 3","supp","short","examination","exam","longfirst",40
+"1556","LongShort 35","supp","short","hamburger","burger","longfirst",40
+"1557","LongShort 34","neut","long","veterinarian","vet","longfirst",40
+"1558","LongShort 27","neut","long","microphone","mic","longfirst",40
+"1559","LongShort 39","neut","long","United States","U.S.","longfirst",40
+"1560","LongShort 25","supp","short","gasoline","gas","shortfirst",40
+"1561","LongShort 39","supp","long","United States","U.S.","shortfirst",41
+"1562","LongShort 6","supp","long","photograph","photo","shortfirst",41
+"1563","LongShort 20","neut","long","chemotherapy","chemo","shortfirst",41
+"1564","LongShort 23","supp","long","advertisement","ad","shortfirst",41
+"1565","LongShort 5","supp","short","memorandum","memo","shortfirst",41
+"1566","LongShort 33","neut","long","milkshake","shake","shortfirst",41
+"1567","LongShort 38","neut","short","emergency room","ER","shortfirst",41
+"1568","LongShort 7","neut","short","fraternity","frat","shortfirst",41
+"1569","LongShort 34","supp","long","veterinarian","vet","longfirst",41
+"1570","LongShort 28","neut","short","laboratory","lab","longfirst",41
+"1571","LongShort 29","supp","long","Labrador","Lab","shortfirst",41
+"1572","LongShort 27","supp","long","microphone","mic","longfirst",41
+"1573","LongShort 30","neut","short","identification","ID","longfirst",41
+"1574","LongShort 24","neut","long","air conditioning","A/C","longfirst",41
+"1575","LongShort 14","neut","short","saxophone","sax","shortfirst",41
+"1576","LongShort 1","supp","short","mathematics","math","shortfirst",41
+"1577","LongShort 37","supp","short","quadrangle","quad","longfirst",41
+"1578","LongShort 3","neut","long","examination","exam","longfirst",41
+"1579","LongShort 19","neut","short","kilogram","kilo","longfirst",41
+"1580","LongShort 32","neut","short","Coca-Cola","Coke","shortfirst",41
+"1581","LongShort 35","neut","long","hamburger","burger","longfirst",41
+"1582","LongShort 18","neut","short","undergraduate","undergrad","shortfirst",41
+"1583","LongShort 36","supp","short","quadriceps","quads","longfirst",41
+"1584","LongShort 11","neut","short","chimpanzee","chimp","shortfirst",41
+"1585","LongShort 15","neut","short","cockroach","roach","shortfirst",41
+"1586","LongShort 26","supp","short","United Kingdom","U.K.","shortfirst",41
+"1587","LongShort 10","neut","short","rhinoceros","rhino","longfirst",41
+"1588","LongShort 25","supp","short","gasoline","gas","longfirst",41
+"1589","LongShort 8","neut","short","refrigerator","fridge","longfirst",41
+"1590","LongShort 17","supp","short","referee","ref","shortfirst",41
+"1591","LongShort 31","supp","short","mayonnaise","mayo","longfirst",41
+"1592","LongShort 22","neut","short","carbohydrates","carbs","shortfirst",41
+"1593","LongShort 40","supp","short","United Nations","U.N.","longfirst",41
+"1594","LongShort 16","supp","short","telephone","phone","shortfirst",41
+"1595","LongShort 9","supp","short","hippopotamus","hippo","longfirst",41
+"1596","LongShort 2","supp","short","bicycle","bike","shortfirst",41
+"1597","LongShort 4","neut","short","dormitory","dorm","longfirst",41
+"1598","LongShort 21","supp","short","television","TV","longfirst",41
+"1599","LongShort 13","supp","short","limousine","limo","shortfirst",41
+"1600","LongShort 12","neut","short","pornography","porn","shortfirst",41
+"1601","LongShort 36","supp","short","quadriceps","quads","shortfirst",42
+"1602","LongShort 15","supp","long","cockroach","roach","longfirst",42
+"1603","LongShort 14","neut","long","saxophone","sax","shortfirst",42
+"1604","LongShort 1","supp","short","mathematics","math","shortfirst",42
+"1605","LongShort 22","neut","short","carbohydrates","carbs","shortfirst",42
+"1606","LongShort 6","supp","short","photograph","photo","longfirst",42
+"1607","LongShort 35","neut","short","hamburger","burger","longfirst",42
+"1608","LongShort 9","supp","short","hippopotamus","hippo","longfirst",42
+"1609","LongShort 18","neut","short","undergraduate","undergrad","longfirst",42
+"1610","LongShort 25","supp","short","gasoline","gas","shortfirst",42
+"1611","LongShort 27","neut","long","microphone","mic","shortfirst",42
+"1612","LongShort 13","neut","short","limousine","limo","longfirst",42
+"1613","LongShort 37","neut","short","quadrangle","quad","longfirst",42
+"1614","LongShort 2","supp","short","bicycle","bike","longfirst",42
+"1615","LongShort 17","neut","long","referee","ref","longfirst",42
+"1616","LongShort 5","supp","short","memorandum","memo","longfirst",42
+"1617","LongShort 10","supp","short","rhinoceros","rhino","shortfirst",42
+"1618","LongShort 26","supp","long","United Kingdom","U.K.","longfirst",42
+"1619","LongShort 8","neut","short","refrigerator","fridge","shortfirst",42
+"1620","LongShort 40","supp","short","United Nations","U.N.","shortfirst",42
+"1621","LongShort 20","neut","short","chemotherapy","chemo","longfirst",42
+"1622","LongShort 33","supp","long","milkshake","shake","longfirst",42
+"1623","LongShort 32","supp","short","Coca-Cola","Coke","longfirst",42
+"1624","LongShort 16","supp","short","telephone","phone","longfirst",42
+"1625","LongShort 34","neut","long","veterinarian","vet","shortfirst",42
+"1626","LongShort 7","neut","long","fraternity","frat","shortfirst",42
+"1627","LongShort 19","neut","short","kilogram","kilo","longfirst",42
+"1628","LongShort 31","neut","short","mayonnaise","mayo","shortfirst",42
+"1629","LongShort 23","supp","short","advertisement","ad","shortfirst",42
+"1630","LongShort 21","neut","short","television","TV","shortfirst",42
+"1631","LongShort 11","supp","short","chimpanzee","chimp","shortfirst",42
+"1632","LongShort 30","neut","short","identification","ID","longfirst",42
+"1633","LongShort 29","supp","short","Labrador","Lab","shortfirst",42
+"1634","LongShort 3","supp","short","examination","exam","longfirst",42
+"1635","LongShort 38","neut","short","emergency room","ER","shortfirst",42
+"1636","LongShort 39","neut","short","United States","U.S.","shortfirst",42
+"1637","LongShort 24","supp","long","air conditioning","A/C","longfirst",42
+"1638","LongShort 28","neut","short","laboratory","lab","longfirst",42
+"1639","LongShort 12","supp","short","pornography","porn","longfirst",42
+"1640","LongShort 4","neut","short","dormitory","dorm","shortfirst",42
+"1641","LongShort 23","supp","long","advertisement","ad","shortfirst",43
+"1642","LongShort 12","neut","long","pornography","porn","longfirst",43
+"1643","LongShort 1","supp","long","mathematics","math","shortfirst",43
+"1644","LongShort 2","neut","long","bicycle","bike","shortfirst",43
+"1645","LongShort 8","supp","short","refrigerator","fridge","longfirst",43
+"1646","LongShort 33","neut","long","milkshake","shake","shortfirst",43
+"1647","LongShort 26","supp","long","United Kingdom","U.K.","longfirst",43
+"1648","LongShort 37","neut","short","quadrangle","quad","shortfirst",43
+"1649","LongShort 10","neut","long","rhinoceros","rhino","longfirst",43
+"1650","LongShort 18","supp","long","undergraduate","undergrad","shortfirst",43
+"1651","LongShort 35","neut","short","hamburger","burger","shortfirst",43
+"1652","LongShort 14","neut","long","saxophone","sax","shortfirst",43
+"1653","LongShort 34","supp","short","veterinarian","vet","shortfirst",43
+"1654","LongShort 36","supp","short","quadriceps","quads","shortfirst",43
+"1655","LongShort 39","supp","long","United States","U.S.","longfirst",43
+"1656","LongShort 32","neut","short","Coca-Cola","Coke","longfirst",43
+"1657","LongShort 5","neut","short","memorandum","memo","shortfirst",43
+"1658","LongShort 11","supp","long","chimpanzee","chimp","longfirst",43
+"1659","LongShort 21","neut","short","television","TV","shortfirst",43
+"1660","LongShort 19","neut","short","kilogram","kilo","shortfirst",43
+"1661","LongShort 24","supp","short","air conditioning","A/C","longfirst",43
+"1662","LongShort 15","supp","long","cockroach","roach","shortfirst",43
+"1663","LongShort 17","neut","long","referee","ref","longfirst",43
+"1664","LongShort 9","neut","short","hippopotamus","hippo","shortfirst",43
+"1665","LongShort 6","supp","short","photograph","photo","shortfirst",43
+"1666","LongShort 16","supp","short","telephone","phone","shortfirst",43
+"1667","LongShort 7","supp","long","fraternity","frat","shortfirst",43
+"1668","LongShort 27","supp","long","microphone","mic","shortfirst",43
+"1669","LongShort 4","neut","short","dormitory","dorm","shortfirst",43
+"1670","LongShort 40","neut","long","United Nations","U.N.","shortfirst",43
+"1671","LongShort 38","supp","long","emergency room","ER","shortfirst",43
+"1672","LongShort 22","supp","long","carbohydrates","carbs","longfirst",43
+"1673","LongShort 25","neut","short","gasoline","gas","shortfirst",43
+"1674","LongShort 13","neut","short","limousine","limo","longfirst",43
+"1675","LongShort 31","neut","long","mayonnaise","mayo","shortfirst",43
+"1676","LongShort 29","neut","long","Labrador","Lab","longfirst",43
+"1677","LongShort 3","neut","short","examination","exam","longfirst",43
+"1678","LongShort 28","neut","long","laboratory","lab","longfirst",43
+"1679","LongShort 20","neut","long","chemotherapy","chemo","shortfirst",43
+"1680","LongShort 30","supp","short","identification","ID","shortfirst",43
+"1681","LongShort 8","neut","short","refrigerator","fridge","shortfirst",44
+"1682","LongShort 19","neut","short","kilogram","kilo","longfirst",44
+"1683","LongShort 9","neut","long","hippopotamus","hippo","longfirst",44
+"1684","LongShort 28","neut","short","laboratory","lab","longfirst",44
+"1685","LongShort 35","supp","long","hamburger","burger","longfirst",44
+"1686","LongShort 22","neut","short","carbohydrates","carbs","longfirst",44
+"1687","LongShort 31","neut","long","mayonnaise","mayo","longfirst",44
+"1688","LongShort 1","supp","short","mathematics","math","longfirst",44
+"1689","LongShort 26","neut","short","United Kingdom","U.K.","longfirst",44
+"1690","LongShort 16","supp","short","telephone","phone","longfirst",44
+"1691","LongShort 38","supp","long","emergency room","ER","shortfirst",44
+"1692","LongShort 4","supp","short","dormitory","dorm","longfirst",44
+"1693","LongShort 18","supp","long","undergraduate","undergrad","shortfirst",44
+"1694","LongShort 21","neut","long","television","TV","shortfirst",44
+"1695","LongShort 24","neut","long","air conditioning","A/C","longfirst",44
+"1696","LongShort 13","supp","short","limousine","limo","longfirst",44
+"1697","LongShort 30","neut","short","identification","ID","longfirst",44
+"1698","LongShort 39","neut","long","United States","U.S.","shortfirst",44
+"1699","LongShort 37","supp","short","quadrangle","quad","shortfirst",44
+"1700","LongShort 7","supp","short","fraternity","frat","shortfirst",44
+"1701","LongShort 11","supp","short","chimpanzee","chimp","shortfirst",44
+"1702","LongShort 20","neut","long","chemotherapy","chemo","longfirst",44
+"1703","LongShort 29","neut","long","Labrador","Lab","longfirst",44
+"1704","LongShort 25","neut","short","gasoline","gas","longfirst",44
+"1705","LongShort 33","neut","long","milkshake","shake","longfirst",44
+"1706","LongShort 27","supp","short","microphone","mic","shortfirst",44
+"1707","LongShort 32","supp","short","Coca-Cola","Coke","shortfirst",44
+"1708","LongShort 2","neut","short","bicycle","bike","longfirst",44
+"1709","LongShort 40","supp","long","United Nations","U.N.","shortfirst",44
+"1710","LongShort 5","neut","short","memorandum","memo","shortfirst",44
+"1711","LongShort 36","neut","short","quadriceps","quads","shortfirst",44
+"1712","LongShort 3","supp","short","examination","exam","longfirst",44
+"1713","LongShort 6","supp","long","photograph","photo","shortfirst",44
+"1714","LongShort 12","neut","long","pornography","porn","longfirst",44
+"1715","LongShort 23","supp","long","advertisement","ad","shortfirst",44
+"1716","LongShort 14","supp","long","saxophone","sax","longfirst",44
+"1717","LongShort 10","supp","long","rhinoceros","rhino","longfirst",44
+"1718","LongShort 15","supp","long","cockroach","roach","shortfirst",44
+"1719","LongShort 17","supp","long","referee","ref","shortfirst",44
+"1720","LongShort 34","supp","long","veterinarian","vet","shortfirst",44
+"1721","LongShort 19","neut","short","kilogram","kilo","shortfirst",45
+"1722","LongShort 27","supp","long","microphone","mic","shortfirst",45
+"1723","LongShort 29","neut","long","Labrador","Lab","shortfirst",45
+"1724","LongShort 6","supp","short","photograph","photo","longfirst",45
+"1725","LongShort 11","supp","long","chimpanzee","chimp","shortfirst",45
+"1726","LongShort 38","supp","short","emergency room","ER","longfirst",45
+"1727","LongShort 7","neut","long","fraternity","frat","shortfirst",45
+"1728","LongShort 2","neut","short","bicycle","bike","shortfirst",45
+"1729","LongShort 8","neut","short","refrigerator","fridge","longfirst",45
+"1730","LongShort 12","supp","short","pornography","porn","shortfirst",45
+"1731","LongShort 36","supp","short","quadriceps","quads","longfirst",45
+"1732","LongShort 32","neut","short","Coca-Cola","Coke","longfirst",45
+"1733","LongShort 17","neut","long","referee","ref","longfirst",45
+"1734","LongShort 25","neut","short","gasoline","gas","longfirst",45
+"1735","LongShort 26","neut","short","United Kingdom","U.K.","longfirst",45
+"1736","LongShort 3","neut","short","examination","exam","longfirst",45
+"1737","LongShort 22","supp","short","carbohydrates","carbs","longfirst",45
+"1738","LongShort 4","neut","short","dormitory","dorm","longfirst",45
+"1739","LongShort 20","neut","short","chemotherapy","chemo","longfirst",45
+"1740","LongShort 28","supp","short","laboratory","lab","longfirst",45
+"1741","LongShort 14","neut","long","saxophone","sax","shortfirst",45
+"1742","LongShort 21","neut","short","television","TV","shortfirst",45
+"1743","LongShort 9","supp","short","hippopotamus","hippo","shortfirst",45
+"1744","LongShort 34","neut","short","veterinarian","vet","shortfirst",45
+"1745","LongShort 30","neut","short","identification","ID","shortfirst",45
+"1746","LongShort 37","neut","long","quadrangle","quad","shortfirst",45
+"1747","LongShort 33","supp","short","milkshake","shake","shortfirst",45
+"1748","LongShort 40","neut","short","United Nations","U.N.","shortfirst",45
+"1749","LongShort 18","supp","long","undergraduate","undergrad","shortfirst",45
+"1750","LongShort 13","neut","short","limousine","limo","longfirst",45
+"1751","LongShort 16","supp","short","telephone","phone","shortfirst",45
+"1752","LongShort 23","supp","short","advertisement","ad","longfirst",45
+"1753","LongShort 10","neut","short","rhinoceros","rhino","shortfirst",45
+"1754","LongShort 31","neut","short","mayonnaise","mayo","shortfirst",45
+"1755","LongShort 15","supp","long","cockroach","roach","shortfirst",45
+"1756","LongShort 39","neut","short","United States","U.S.","shortfirst",45
+"1757","LongShort 5","neut","short","memorandum","memo","longfirst",45
+"1758","LongShort 1","supp","short","mathematics","math","shortfirst",45
+"1759","LongShort 24","supp","long","air conditioning","A/C","longfirst",45
+"1760","LongShort 35","neut","short","hamburger","burger","shortfirst",45
+"1761","LongShort 30","supp","short","identification","ID","shortfirst",46
+"1762","LongShort 17","neut","long","referee","ref","shortfirst",46
+"1763","LongShort 34","supp","short","veterinarian","vet","shortfirst",46
+"1764","LongShort 29","neut","long","Labrador","Lab","longfirst",46
+"1765","LongShort 24","supp","long","air conditioning","A/C","longfirst",46
+"1766","LongShort 15","supp","long","cockroach","roach","longfirst",46
+"1767","LongShort 23","neut","short","advertisement","ad","shortfirst",46
+"1768","LongShort 39","neut","short","United States","U.S.","longfirst",46
+"1769","LongShort 10","supp","short","rhinoceros","rhino","longfirst",46
+"1770","LongShort 28","supp","long","laboratory","lab","longfirst",46
+"1771","LongShort 21","neut","short","television","TV","longfirst",46
+"1772","LongShort 40","supp","short","United Nations","U.N.","longfirst",46
+"1773","LongShort 7","supp","short","fraternity","frat","longfirst",46
+"1774","LongShort 37","supp","short","quadrangle","quad","longfirst",46
+"1775","LongShort 2","neut","short","bicycle","bike","shortfirst",46
+"1776","LongShort 36","supp","short","quadriceps","quads","longfirst",46
+"1777","LongShort 35","neut","short","hamburger","burger","shortfirst",46
+"1778","LongShort 14","supp","long","saxophone","sax","longfirst",46
+"1779","LongShort 32","supp","long","Coca-Cola","Coke","shortfirst",46
+"1780","LongShort 27","neut","long","microphone","mic","shortfirst",46
+"1781","LongShort 19","supp","short","kilogram","kilo","shortfirst",46
+"1782","LongShort 13","neut","long","limousine","limo","longfirst",46
+"1783","LongShort 31","supp","short","mayonnaise","mayo","longfirst",46
+"1784","LongShort 20","supp","long","chemotherapy","chemo","longfirst",46
+"1785","LongShort 22","neut","long","carbohydrates","carbs","shortfirst",46
+"1786","LongShort 12","neut","long","pornography","porn","shortfirst",46
+"1787","LongShort 6","supp","short","photograph","photo","shortfirst",46
+"1788","LongShort 8","neut","long","refrigerator","fridge","longfirst",46
+"1789","LongShort 5","neut","long","memorandum","memo","shortfirst",46
+"1790","LongShort 33","supp","short","milkshake","shake","shortfirst",46
+"1791","LongShort 16","supp","short","telephone","phone","shortfirst",46
+"1792","LongShort 1","supp","long","mathematics","math","shortfirst",46
+"1793","LongShort 9","neut","short","hippopotamus","hippo","shortfirst",46
+"1794","LongShort 11","neut","long","chimpanzee","chimp","longfirst",46
+"1795","LongShort 3","supp","short","examination","exam","longfirst",46
+"1796","LongShort 4","supp","long","dormitory","dorm","longfirst",46
+"1797","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",46
+"1798","LongShort 25","neut","long","gasoline","gas","longfirst",46
+"1799","LongShort 18","neut","long","undergraduate","undergrad","shortfirst",46
+"1800","LongShort 38","supp","short","emergency room","ER","shortfirst",46
+"1801","LongShort 15","supp","long","cockroach","roach","longfirst",47
+"1802","LongShort 39","supp","long","United States","U.S.","longfirst",47
+"1803","LongShort 1","neut","long","mathematics","math","longfirst",47
+"1804","LongShort 28","neut","long","laboratory","lab","shortfirst",47
+"1805","LongShort 25","neut","long","gasoline","gas","longfirst",47
+"1806","LongShort 32","neut","long","Coca-Cola","Coke","longfirst",47
+"1807","LongShort 35","supp","long","hamburger","burger","longfirst",47
+"1808","LongShort 3","supp","short","examination","exam","longfirst",47
+"1809","LongShort 18","supp","long","undergraduate","undergrad","shortfirst",47
+"1810","LongShort 33","supp","long","milkshake","shake","shortfirst",47
+"1811","LongShort 4","neut","short","dormitory","dorm","shortfirst",47
+"1812","LongShort 8","supp","long","refrigerator","fridge","longfirst",47
+"1813","LongShort 30","neut","short","identification","ID","shortfirst",47
+"1814","LongShort 19","supp","long","kilogram","kilo","longfirst",47
+"1815","LongShort 27","supp","long","microphone","mic","shortfirst",47
+"1816","LongShort 9","supp","short","hippopotamus","hippo","longfirst",47
+"1817","LongShort 36","neut","long","quadriceps","quads","longfirst",47
+"1818","LongShort 34","neut","long","veterinarian","vet","longfirst",47
+"1819","LongShort 23","neut","short","advertisement","ad","shortfirst",47
+"1820","LongShort 6","supp","long","photograph","photo","longfirst",47
+"1821","LongShort 24","supp","long","air conditioning","A/C","shortfirst",47
+"1822","LongShort 31","supp","long","mayonnaise","mayo","longfirst",47
+"1823","LongShort 2","supp","long","bicycle","bike","shortfirst",47
+"1824","LongShort 29","neut","long","Labrador","Lab","shortfirst",47
+"1825","LongShort 20","supp","long","chemotherapy","chemo","longfirst",47
+"1826","LongShort 37","supp","short","quadrangle","quad","shortfirst",47
+"1827","LongShort 12","supp","short","pornography","porn","shortfirst",47
+"1828","LongShort 26","neut","long","United Kingdom","U.K.","shortfirst",47
+"1829","LongShort 38","neut","long","emergency room","ER","longfirst",47
+"1830","LongShort 21","supp","short","television","TV","longfirst",47
+"1831","LongShort 11","neut","long","chimpanzee","chimp","shortfirst",47
+"1832","LongShort 22","supp","short","carbohydrates","carbs","longfirst",47
+"1833","LongShort 7","neut","long","fraternity","frat","shortfirst",47
+"1834","LongShort 16","supp","short","telephone","phone","shortfirst",47
+"1835","LongShort 5","supp","short","memorandum","memo","longfirst",47
+"1836","LongShort 10","supp","short","rhinoceros","rhino","shortfirst",47
+"1837","LongShort 17","neut","long","referee","ref","longfirst",47
+"1838","LongShort 40","neut","long","United Nations","U.N.","longfirst",47
+"1839","LongShort 14","supp","long","saxophone","sax","shortfirst",47
+"1840","LongShort 13","supp","short","limousine","limo","shortfirst",47
+"1841","LongShort 33","neut","short","milkshake","shake","shortfirst",48
+"1842","LongShort 36","neut","short","quadriceps","quads","longfirst",48
+"1843","LongShort 15","neut","long","cockroach","roach","longfirst",48
+"1844","LongShort 39","neut","long","United States","U.S.","shortfirst",48
+"1845","LongShort 12","neut","long","pornography","porn","longfirst",48
+"1846","LongShort 38","supp","short","emergency room","ER","longfirst",48
+"1847","LongShort 9","neut","long","hippopotamus","hippo","shortfirst",48
+"1848","LongShort 37","supp","short","quadrangle","quad","longfirst",48
+"1849","LongShort 21","supp","long","television","TV","longfirst",48
+"1850","LongShort 35","supp","long","hamburger","burger","shortfirst",48
+"1851","LongShort 29","supp","short","Labrador","Lab","longfirst",48
+"1852","LongShort 7","supp","long","fraternity","frat","longfirst",48
+"1853","LongShort 40","neut","short","United Nations","U.N.","longfirst",48
+"1854","LongShort 11","supp","long","chimpanzee","chimp","longfirst",48
+"1855","LongShort 13","neut","long","limousine","limo","shortfirst",48
+"1856","LongShort 2","neut","short","bicycle","bike","longfirst",48
+"1857","LongShort 30","supp","short","identification","ID","longfirst",48
+"1858","LongShort 25","supp","long","gasoline","gas","shortfirst",48
+"1859","LongShort 5","supp","short","memorandum","memo","shortfirst",48
+"1860","LongShort 16","neut","long","telephone","phone","shortfirst",48
+"1861","LongShort 31","supp","short","mayonnaise","mayo","shortfirst",48
+"1862","LongShort 19","supp","short","kilogram","kilo","shortfirst",48
+"1863","LongShort 22","neut","long","carbohydrates","carbs","shortfirst",48
+"1864","LongShort 4","supp","short","dormitory","dorm","longfirst",48
+"1865","LongShort 28","neut","short","laboratory","lab","longfirst",48
+"1866","LongShort 1","supp","long","mathematics","math","longfirst",48
+"1867","LongShort 17","supp","short","referee","ref","shortfirst",48
+"1868","LongShort 20","neut","long","chemotherapy","chemo","shortfirst",48
+"1869","LongShort 6","neut","short","photograph","photo","longfirst",48
+"1870","LongShort 14","supp","long","saxophone","sax","shortfirst",48
+"1871","LongShort 32","supp","short","Coca-Cola","Coke","longfirst",48
+"1872","LongShort 18","supp","short","undergraduate","undergrad","longfirst",48
+"1873","LongShort 24","neut","long","air conditioning","A/C","shortfirst",48
+"1874","LongShort 8","supp","long","refrigerator","fridge","longfirst",48
+"1875","LongShort 34","supp","long","veterinarian","vet","longfirst",48
+"1876","LongShort 26","supp","short","United Kingdom","U.K.","shortfirst",48
+"1877","LongShort 3","neut","short","examination","exam","longfirst",48
+"1878","LongShort 10","supp","long","rhinoceros","rhino","longfirst",48
+"1879","LongShort 27","neut","long","microphone","mic","shortfirst",48
+"1880","LongShort 23","supp","long","advertisement","ad","longfirst",48
+"1881","LongShort 38","supp","short","emergency room","ER","longfirst",49
+"1882","LongShort 11","supp","long","chimpanzee","chimp","shortfirst",49
+"1883","LongShort 32","neut","short","Coca-Cola","Coke","longfirst",49
+"1884","LongShort 31","supp","long","mayonnaise","mayo","longfirst",49
+"1885","LongShort 20","supp","long","chemotherapy","chemo","longfirst",49
+"1886","LongShort 3","neut","short","examination","exam","shortfirst",49
+"1887","LongShort 24","supp","short","air conditioning","A/C","longfirst",49
+"1888","LongShort 30","supp","short","identification","ID","shortfirst",49
+"1889","LongShort 2","neut","long","bicycle","bike","longfirst",49
+"1890","LongShort 10","neut","long","rhinoceros","rhino","shortfirst",49
+"1891","LongShort 1","neut","long","mathematics","math","longfirst",49
+"1892","LongShort 16","supp","short","telephone","phone","shortfirst",49
+"1893","LongShort 8","supp","short","refrigerator","fridge","longfirst",49
+"1894","LongShort 17","neut","long","referee","ref","shortfirst",49
+"1895","LongShort 22","neut","short","carbohydrates","carbs","shortfirst",49
+"1896","LongShort 19","supp","long","kilogram","kilo","longfirst",49
+"1897","LongShort 40","supp","short","United Nations","U.N.","shortfirst",49
+"1898","LongShort 9","supp","long","hippopotamus","hippo","longfirst",49
+"1899","LongShort 35","supp","long","hamburger","burger","shortfirst",49
+"1900","LongShort 28","neut","long","laboratory","lab","longfirst",49
+"1901","LongShort 15","neut","long","cockroach","roach","longfirst",49
+"1902","LongShort 6","supp","long","photograph","photo","longfirst",49
+"1903","LongShort 21","supp","short","television","TV","longfirst",49
+"1904","LongShort 27","neut","long","microphone","mic","longfirst",49
+"1905","LongShort 26","supp","short","United Kingdom","U.K.","longfirst",49
+"1906","LongShort 23","neut","long","advertisement","ad","longfirst",49
+"1907","LongShort 34","neut","long","veterinarian","vet","longfirst",49
+"1908","LongShort 29","supp","short","Labrador","Lab","shortfirst",49
+"1909","LongShort 13","supp","long","limousine","limo","shortfirst",49
+"1910","LongShort 5","neut","long","memorandum","memo","shortfirst",49
+"1911","LongShort 12","neut","long","pornography","porn","longfirst",49
+"1912","LongShort 36","supp","short","quadriceps","quads","shortfirst",49
+"1913","LongShort 18","supp","long","undergraduate","undergrad","longfirst",49
+"1914","LongShort 25","neut","short","gasoline","gas","shortfirst",49
+"1915","LongShort 7","supp","long","fraternity","frat","longfirst",49
+"1916","LongShort 4","supp","long","dormitory","dorm","longfirst",49
+"1917","LongShort 33","supp","long","milkshake","shake","shortfirst",49
+"1918","LongShort 14","neut","long","saxophone","sax","shortfirst",49
+"1919","LongShort 37","supp","short","quadrangle","quad","longfirst",49
+"1920","LongShort 39","supp","long","United States","U.S.","longfirst",49
+"1921","LongShort 5","supp","short","memorandum","memo","shortfirst",50
+"1922","LongShort 29","supp","long","Labrador","Lab","longfirst",50
+"1923","LongShort 30","neut","short","identification","ID","longfirst",50
+"1924","LongShort 25","neut","short","gasoline","gas","shortfirst",50
+"1925","LongShort 34","supp","short","veterinarian","vet","shortfirst",50
+"1926","LongShort 3","neut","short","examination","exam","shortfirst",50
+"1927","LongShort 1","supp","short","mathematics","math","shortfirst",50
+"1928","LongShort 7","supp","long","fraternity","frat","longfirst",50
+"1929","LongShort 17","neut","long","referee","ref","longfirst",50
+"1930","LongShort 32","supp","short","Coca-Cola","Coke","longfirst",50
+"1931","LongShort 36","neut","short","quadriceps","quads","shortfirst",50
+"1932","LongShort 37","neut","short","quadrangle","quad","longfirst",50
+"1933","LongShort 31","supp","short","mayonnaise","mayo","longfirst",50
+"1934","LongShort 40","supp","short","United Nations","U.N.","longfirst",50
+"1935","LongShort 14","neut","long","saxophone","sax","longfirst",50
+"1936","LongShort 28","neut","long","laboratory","lab","shortfirst",50
+"1937","LongShort 38","neut","short","emergency room","ER","shortfirst",50
+"1938","LongShort 24","neut","short","air conditioning","A/C","longfirst",50
+"1939","LongShort 22","neut","short","carbohydrates","carbs","shortfirst",50
+"1940","LongShort 18","supp","short","undergraduate","undergrad","longfirst",50
+"1941","LongShort 9","supp","short","hippopotamus","hippo","longfirst",50
+"1942","LongShort 11","neut","long","chimpanzee","chimp","shortfirst",50
+"1943","LongShort 10","supp","long","rhinoceros","rhino","shortfirst",50
+"1944","LongShort 13","supp","long","limousine","limo","shortfirst",50
+"1945","LongShort 2","supp","long","bicycle","bike","longfirst",50
+"1946","LongShort 21","neut","short","television","TV","shortfirst",50
+"1947","LongShort 15","neut","long","cockroach","roach","shortfirst",50
+"1948","LongShort 26","neut","short","United Kingdom","U.K.","longfirst",50
+"1949","LongShort 39","supp","short","United States","U.S.","shortfirst",50
+"1950","LongShort 12","neut","long","pornography","porn","shortfirst",50
+"1951","LongShort 16","supp","short","telephone","phone","shortfirst",50
+"1952","LongShort 8","neut","short","refrigerator","fridge","longfirst",50
+"1953","LongShort 33","supp","long","milkshake","shake","shortfirst",50
+"1954","LongShort 27","neut","long","microphone","mic","longfirst",50
+"1955","LongShort 23","neut","short","advertisement","ad","longfirst",50
+"1956","LongShort 35","supp","long","hamburger","burger","shortfirst",50
+"1957","LongShort 6","neut","short","photograph","photo","shortfirst",50
+"1958","LongShort 19","supp","short","kilogram","kilo","longfirst",50
+"1959","LongShort 4","neut","short","dormitory","dorm","shortfirst",50
+"1960","LongShort 20","neut","long","chemotherapy","chemo","shortfirst",50
