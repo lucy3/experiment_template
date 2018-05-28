@@ -6,26 +6,26 @@ library(tidyverse)
 library(lme4)
 library(languageR)
 
-# The dative alternation dataset from Bresnan et al. 2007
-data(dative)
-summary(dative)
-names(dative)
+summary(reformat)
+names(reformat)
 
 # What's the distribution of true/false responses?
-table(dative$RealizationOfRecipient)
-prop.table(table(dative$RealizationOfRecipient))
+table(reformat$response)
+prop.table(table(reformat$response))
 
 # Recall that R by default interprets factor levels in alphanumeric order, so the model will predict the log odds of the recipient being realized as a PP (prepositional object) over an NP
-contrasts(dative$RealizationOfRecipient)
+reformat$response <- factor(reformat$response)
+is.factor(reformat$response)
+contrasts(reformat$response)
 
 # We start with a simple logistic regression model (no random effects). The syntax is the same as in the linear model, but we use the function glm(). The only difference is that the assumed noise distribution is binomial.
-m.norandom = glm(RealizationOfRecipient ~ 1, data=dative, family="binomial")
+m.norandom = glm(response ~ 1, data=reformat, family="binomial")
 summary(m.norandom) 
 
 # 1. What is the interpretation of the intercept coefficient?
 # Intercept capturing what's overall difference in log odds between one prediction versus another. 
-# NP is assigned to 0 and PP is assigned to 1
-# A negative intercept of -1.0450 = log(p(PP)/(1 - p(PP))) means there is a general bias towards NP. 
+# long is assigned to 0 and short is assigned to 1
+# A positive intercept of 0.20892 = log(p(short)/(1-p(short))) means there is a slight bias towards short 
 
 # What if we want to convert this back into probability space? First we define the function that takes a log odds ratio and turns it into a probability.
 logit2prop <- function(l){
@@ -33,54 +33,46 @@ logit2prop <- function(l){
 }
 
 # 2. Use the logit2prop function to find out the probability of a PP realization
-logit2prop(-1.0450)
-qlogis(logit2prop(-1.0450))
+logit2prop(0.20892)
+qlogis(logit2prop(0.20892))
 # If you map the log odds to the logistic regression plot you basically retrieve the proportions.
 
-# Let's add a random effect (verb intercept). There is clearly a lot of by-verb variability:
-table(dative$Verb,dative$RealizationOfRecipient)
+# Let's add a random effect 
+table(reformat$longWord,reformat$response)
+
+# QUESTION: difference between random effect and predictor? 
 
 # Note the use of glmer() instead of glm() for mixed effects. We again specify the binomial noise distribution.
-m = glmer(RealizationOfRecipient ~ 1 + (1|Verb), data=dative, family="binomial")
+m = glmer(response ~ 1 + (1|longWord), data=reformat, family="binomial")
 summary(m)
 
-# 3. How does the overall intercept change? Convert this back into probability space. What was the effect of adding random by-verb variability?
-# Our intercept estimate is now -0.4803, so our bias against PPs has decreased. 
-# Now it thinks it's only marginally signigificant with a p value of 0.0983.
-plogis(-.4803) # has increased
+# 3. How does the overall intercept change? 
+# Intercept estimate is now 
+# Our intercept estimate is now 0.2593, so our bias against longs has increased slightly
+# p value of 0.163 which is nonsignificant? QUESTION: what should be my main takeaway from this
+plogis(0.2593) # has increased 
 
 # Let's add a predictor. 
-table(dative[,c("AnimacyOfRec","RealizationOfRecipient")])
-prop.table(table(dative[,c("AnimacyOfRec","RealizationOfRecipient")]),mar=c(1))
+table(reformat[,c("context","response")])
+prop.table(table(reformat[,c("context","response")]),mar=c(1))
 
-m = glmer(RealizationOfRecipient ~ AnimacyOfRec + (1|Verb), data=dative, family="binomial")
+m = glmer(response ~ context + (1|longWord), data=reformat, family="binomial")
 summary(m)
 
 # 4. What is the interpretation of the coefficients?
-# There is a positive effect of animacy (1.4395) on being realized as a PP
-# Our intercept term is now slightly more negative (-0.5667) than before. 
-# If we don't center our animacy variable, intercept only reflects ...? 
-# Intercept says there's a stronger bias being realized as a PP in the animate row. 
-# Going from animate to inanimate increases our log odds by 1.4395, so PP more likely with inanimate. 
-table(dative$AnimacyOfRec)
+# There is a positive effect of supportive context (0.2653) on being realized as a short
+# Our intercept term is now slightly less (0.1281) than before. (What does this mean?)
+table(reformat$context)
 
 # If we want to get the intercept for the grand mean, we need to center animacy first:
 source("helpers.R")
-centered = cbind(dative,myCenter(dative[,c("AnimacyOfRec","LengthOfRecipient")]))
-head(centered)
+centered = cbind(reformat,myCenter(reformat[,c("context","order")]))
+head(centered) # QUESTION: Why are ccontext and corder all NA? 
 summary(centered)
 
-m.c = glmer(RealizationOfRecipient ~ cAnimacyOfRec + (1|Verb), data=centered, family="binomial")
+m.c = glmer(response ~ ccontext + (1|longWord), data=centered, family="binomial")
+# QUESTION: Error: Invalid grouping factor specification, shortWord
 summary(m.c)
-# there's so many more animate than inanimate, if we want zero to be in middle of these two variables
-# we need the absolute value of the animate ones to be much smaller and so if we sum them all up and divide
-# by total number we get 0. 
-# We should get back the overall NP and PP in the dataframe. 
-# The intercept is -0.4613 which is the same intercept that we got with the first model. 
-# Center in general. The coefficient for animacy remains the same as before centering. 
-# The only thing that changes is the interpretation of the intercept. 
-# Useful for colinear predictors. If two predictors are too strongly correlated, 
-# then that increases type 2 error overall, and doing centering makes them more orthogonal. 
 
 # We can add additional predictors just as in the linear model
 m.c = glmer(RealizationOfRecipient ~ cAnimacyOfRec + cLengthOfRecipient + (1|Verb), data=centered, family="binomial")
