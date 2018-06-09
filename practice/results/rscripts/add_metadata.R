@@ -1,3 +1,5 @@
+library(tidyverse)
+
 # Get some interesting characteristics of words
 longwords = reformat$longWord[1:40] 
 shortwords = reformat$shortWord[1:40]
@@ -34,8 +36,6 @@ reformat$lengthLong = nchar(reformat$longWord)
 reformat$lengthDiff = reformat$lengthLong - reformat$lengthShort
 summary(reformat)
 
-# for syllables instead of cbind just left join 
+# TODO: FREQUENCY Google Books r package 
 
-# FREQUENCY Google Books r package 
-
-# AMBIGUITY 
+# TODO: WordNet AMBIGUITY 

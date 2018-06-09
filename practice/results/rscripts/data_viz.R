@@ -11,7 +11,7 @@ prop.table(table(reformat$response, reformat$context), 2)
 ggplot(reformat, aes(order, fill=response)) + geom_bar(position= "fill")
 prop.table(table(reformat$response, reformat$order), 2)
 
-# add error bars, two lines for different order and x axis context and y axis proportion of long 
+# TODO: add error bars, two lines for different order and x axis context and y axis proportion of long 
 reformatProp = (reformat %>% group_by(context,order, response) %>% 
   count() %>% 
   group_by(context, order) %>% 
@@ -30,12 +30,14 @@ ggplot(reformatProp, aes(x=context, y=prop, color=order)) +
 
 # longfirst/shortfirst not most thereotically most interesting 
 # two different supportive context, mean of choosing long over short 
-# add auxiliary plots show how long or short first interacts 
-# make it as a bar plot 
-# scatter plot: x axis is lengthDiff or syllableDiff, y axis is proportion of long. each point is a word. two smoothers, one for supportive and one for neutral. 
+# add auxiliary plots show how long or short first interacts. make it as a bar plot 
+# Wait... what do these notes mean? 
 
-# two bars per word, one for supportive proportion and one for neutral proportion (assuming no effect from ordering)
-# might as well just do points 
+# TODO: scatter plot: x axis is lengthDiff or syllableDiff, y axis is proportion of long. 
+# each point is a word. two smoothers, one for supportive and one for neutral. 
+# geomtext, length differences on x-axis and each word is a point. 
+
+# TODO: two points per word, one for supportive proportion and one for neutral proportion (assuming no effect from ordering)
 reformatWord = (reformat %>% group_by(context,longWord,response) %>% 
                   count() %>% 
                   group_by(context,longWord) %>% 
@@ -47,5 +49,5 @@ ggplot(reformatWord, aes(x=reorder(longWord, prop), y=prop, color=context)) +
   ylim(0, 1) +
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
 
-# geomtext, length differences on x-axis and each word is a point. 
+# TODO: recreate Kyle plot. 
 

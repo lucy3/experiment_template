@@ -62,13 +62,6 @@ summary(m2)
 anova(m, m2)
 # m2 is significantly better than m
 
-reformat$lengthShort = nchar(reformat$shortWord)
-reformat$lengthLong = nchar(reformat$longWord)
-reformat$lengthDiff = reformat$lengthLong - reformat$lengthShort
-summary(reformat)
-reformat[reformat$lengthDiff==13.0,]$longWord
-# for syllables instead of cbind just left join 
-
 # 4. What is the interpretation of the coefficients?
 # There is a positive effect of supportive context (0.2653) on being realized as a short
 # Our intercept term is now slightly less (0.1281) than before. (What does this mean?)
