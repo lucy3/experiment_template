@@ -40,8 +40,6 @@ qlogis(logit2prop(0.20892))
 # Let's add a random effect 
 table(reformat$longWord,reformat$response)
 
-# QUESTION: difference between random effect and predictor? 
-
 # Note the use of glmer() instead of glm() for mixed effects. We again specify the binomial noise distribution.
 m = glmer(response ~ 1 + (1|longWord), data=reformat, family="binomial")
 summary(m)
@@ -49,15 +47,27 @@ summary(m)
 # 3. How does the overall intercept change? 
 # Intercept estimate is now 
 # Our intercept estimate is now 0.2593, so our bias against longs has increased slightly
-# p value of 0.163 which is nonsignificant? QUESTION: what should be my main takeaway from this
+# p value of 0.163 which is nonsignificant? 
+# Once you take into account each individual word, you can no 
+# longer conclude that overall there's a preference for short words
 plogis(0.2593) # has increased 
 
 # Let's add a predictor. 
 table(reformat[,c("context","response")])
 prop.table(table(reformat[,c("context","response")]),mar=c(1))
 
-m = glmer(response ~ context + (1|longWord), data=reformat, family="binomial")
-summary(m)
+m2 = glmer(response ~ context + (1|longWord), data=reformat, family="binomial")
+summary(m2)
+
+anova(m, m2)
+# m2 is significantly better than m
+
+reformat$lengthShort = nchar(reformat$shortWord)
+reformat$lengthLong = nchar(reformat$longWord)
+reformat$lengthDiff = reformat$lengthLong - reformat$lengthShort
+summary(reformat)
+reformat[reformat$lengthDiff==13.0,]$longWord
+# for syllables instead of cbind just left join 
 
 # 4. What is the interpretation of the coefficients?
 # There is a positive effect of supportive context (0.2653) on being realized as a short
@@ -66,13 +76,19 @@ table(reformat$context)
 
 # If we want to get the intercept for the grand mean, we need to center animacy first:
 source("helpers.R")
+reformat = reformat %>% 
+  mutate(responseNum = 2 - as.integer(response)) %>%# TODO convert
+  # mutate(ccontext = as.numeric(context)-mean(as.numeric(context)))
+  as.data.frame()
 centered = cbind(reformat,myCenter(reformat[,c("context","order")]))
-head(centered) # QUESTION: Why are ccontext and corder all NA? 
+head(centered) 
 summary(centered)
 
 m.c = glmer(response ~ ccontext + (1|longWord), data=centered, family="binomial")
-# QUESTION: Error: Invalid grouping factor specification, shortWord
 summary(m.c)
+
+m2 = glmer(response ~ context + order + syllableDiff + lengthDiff + (1|longWord), data=temp, family="binomial")
+summary(m2)
 
 # We can add additional predictors just as in the linear model
 m.c = glmer(RealizationOfRecipient ~ cAnimacyOfRec + cLengthOfRecipient + (1|Verb), data=centered, family="binomial")
