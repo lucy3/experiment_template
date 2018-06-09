@@ -1,4 +1,5 @@
 library(tidyverse)
+library(ngramr)
 
 # Get some interesting characteristics of words
 longwords = reformat$longWord[1:40] 
@@ -37,5 +38,8 @@ reformat$lengthDiff = reformat$lengthLong - reformat$lengthShort
 summary(reformat)
 
 # TODO: FREQUENCY Google Books r package 
+# Unfortunately the ngram function can only take in 12 words at a time... 
+# so... maybe I will write a loop oops
+temp = ngram(reformat$shortWord, corpus = "eng_2012", year_start=2006, year_end=2008, smoothing=1)$Frequency[3]
 
 # TODO: WordNet AMBIGUITY 
