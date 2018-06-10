@@ -38,6 +38,7 @@ qlogis(logit2prop(0.20892))
 # If you map the log odds to the logistic regression plot you basically retrieve the proportions.
 
 # Let's add a random effect 
+# QUESTION: Maybe a random effect is participant as well? 
 table(reformat$longWord,reformat$response)
 
 # Note the use of glmer() instead of glm() for mixed effects. We again specify the binomial noise distribution.
