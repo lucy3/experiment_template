@@ -84,7 +84,50 @@ ggplot(longShortDataWordDiff, aes(x=reorder(shortWord, shortWord), y=propDiff)) 
 
 # TODO: scatter plot: x axis is lengthDiff or syllableDiff, y axis is proportion of long. 
 # each point is a word. two smoothers, one for supportive and one for neutral. 
-# geomtext, length differences on x-axis and each word is a point. 
+datafreqDiff = (longShortData %>% group_by(context, shortWord,response,freqDiff) %>% 
+                       count() %>% 
+                       group_by(context, shortWord) %>% 
+                       mutate(prop = n /sum(n)) %>% 
+                       filter(response == "long"))
+ggplot(datafreqDiff, aes(x=freqDiff, y=prop, color=context)) + 
+  geom_point() + 
+  geom_smooth() +
+  scale_x_log10() +
+  labs(x = "Frequency difference between long and short form", y = "Proportion of choosing long form", title = "Effect of Frequency Across Words") +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+
+dataambDiff = (longShortData %>% group_by(context, shortWord,response,ambDiff) %>% 
+                  count() %>% 
+                  group_by(context, shortWord) %>% 
+                  mutate(prop = n /sum(n)) %>% 
+                  filter(response == "long"))
+ggplot(dataambDiff, aes(x=ambDiff, y=prop, color=context)) + 
+  geom_point() + 
+  geom_smooth() +
+  labs(x = "Ambiguity difference between long and short form", y = "Proportion of choosing long form", title = "Effect of Ambiguity Across Words") +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+
+datasyllableDiff = (longShortData %>% group_by(context, shortWord,response,syllableDiff) %>% 
+                 count() %>% 
+                 group_by(context, shortWord) %>% 
+                 mutate(prop = n /sum(n)) %>% 
+                 filter(response == "long"))
+ggplot(datasyllableDiff, aes(x=syllableDiff, y=prop, color=context)) + 
+  geom_point() + 
+  geom_smooth() +
+  labs(x = "Syllable difference between long and short form", y = "Proportion of choosing long form", title = "Effect of Syllable Difference Across Words") +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+
+datalengthDiff = (longShortData %>% group_by(context, shortWord,response,lengthDiff) %>% 
+                      count() %>% 
+                      group_by(context, shortWord) %>% 
+                      mutate(prop = n /sum(n)) %>% 
+                      filter(response == "long"))
+ggplot(datalengthDiff, aes(x=lengthDiff, y=prop, color=context)) + 
+  geom_point() + 
+  geom_smooth() +
+  labs(x = "Length difference between long and short form", y = "Proportion of choosing long form", title = "Effect of Length Difference Across Words") +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
 
 # TODO: two points per word, one for supportive proportion and one for neutral proportion (assuming no effect from ordering)
 longShortDataWord = (longShortData %>% group_by(context,shortWord,response) %>% 
