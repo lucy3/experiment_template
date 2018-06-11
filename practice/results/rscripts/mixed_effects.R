@@ -103,33 +103,52 @@ summary(m.nocontext)
 # There was a significant effect of order such that having the short first results in a preference towards short
 # There is a significant effect of context such that having a supportive context also has a preference towards short
 
+centeredFull = cbind(clongShortData,myCenter(clongShortData[,c("context","order", "syllableDiff", "lengthDiff", "ambDiff", "freqDiff")]))
+head(centeredFull) 
+summary(centeredFull)
+
+ggplot(centeredFull, aes(x=csyllableDiff, clengthDiff)) + 
+  geom_point()
+
+pairscor.fnc(centeredFull[,c("csyllableDiff","clengthDiff")])
+
+m.interaction = glmer(response ~ + corder*ccontext + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.interaction)
+
+m.original = glmer(response ~ + corder + ccontext + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.original)
+
+m.syllable = glmer(response ~ + corder + ccontext + csyllableDiff + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.syllable)
+
+m.length = glmer(response ~ + corder + ccontext + clengthDiff + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.length)
+
+anova(m.syllable, m.length)
+
+anova(m.original, m.syllable, m.length)
+
+m.lengthBoth = glmer(response ~ + corder + ccontext + clengthDiff + csyllableDiff + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.lengthBoth)
+# The correlation between syllable and length diff is -0.606 so there's some collinearity here. 
+
+m.contextOnly = glmer(response ~ + ccontext + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.contextOnly)
+
+m.orderOnly = glmer(response ~ + corder + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.orderOnly)
+
+anova(m.original, m.contextOnly, m.orderOnly)
+
+m.amb = glmer(response ~ + corder + ccontext + cambDiff + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.amb)
+
+m.freq = glmer(response ~ + corder + ccontext + cfreqDiff + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.freq)
+
+m.freqamb = glmer(response ~ + corder + ccontext + cfreqDiff + cambDiff + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.freqamb)
+
 m.test = glmer(response ~ context + order + syllableDiff + lengthDiff + (1|longWord), data=temp, family="binomial")
 summary(m.test)
-
-# To get model predictions
-dative$PredictedRealization = predict(m)
-head(dative)
-summary(dative) 
-# overall mean is -1.3877 which means overall mean is at probability of 0.26, 
-# some go pretty close to zero since min is so far.
-
-# Let's turn the predictions into probabilities
-# Turn log odds to probabilities
-dative$PredictedProbRealization = logit2prop(dative$PredictedRealization)
-head(dative)
-
-# Now let's turn them into actual categorical predictions
-# turn probabilities to 0s and 1s. 
-dative$PredictedCatRealization = ifelse(dative$PredictedProbRealization < .5, "NP", "PP")
-head(dative)
-
-# How well do predicted and actual realization match?
-head(dative[,c("RealizationOfRecipient","PredictedCatRealization")],70)
-prop.table(table(dative[,c("RealizationOfRecipient","PredictedCatRealization")]))
-# we get a 2% increase in accuracy if we use m.c instead of m, which includes Length as a predictor
-
-# Compute the proportion of correctly predicted cases
-dative$Prediction = ifelse(dative$RealizationOfRecipient == dative$PredictedCatRealization,"correct","incorrect")
-table(dative$Prediction)
-prop.table(table(dative$Prediction))
 
