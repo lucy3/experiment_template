@@ -146,8 +146,31 @@ summary(m.amb)
 m.freq = glmer(response ~ + corder + ccontext + cfreqDiff + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
 summary(m.freq)
 
-m.freqamb = glmer(response ~ + corder + ccontext + cfreqDiff + cambDiff + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
-summary(m.freqamb)
+# No word random effect
+m.ambNoRandom = glmer(response ~ + corder + ccontext + cambDiff + (1|workerid), data=centeredFull, family="binomial")
+summary(m.ambNoRandom)
+
+anova(m.ambNoRandom, m.original)
+
+m.freqNoRandom = glmer(response ~ + corder + ccontext + cfreqDiff + (1|workerid), data=centeredFull, family="binomial")
+summary(m.freqNoRandom)
+
+anova(m.freqNoRandom, m.original)
+
+m.syllableNoRandom = glmer(response ~ + corder + ccontext + csyllableDiff + (1|workerid), data=centeredFull, family="binomial")
+summary(m.syllableNoRandom)
+
+anova(m.syllableNoRandom, m.original)
+
+m.lengthNoRandom = glmer(response ~ + corder + ccontext + clengthDiff + (1|workerid), data=centeredFull, family="binomial")
+summary(m.lengthNoRandom)
+
+anova(m.lengthNoRandom, m.original)
+
+m.try = glmer(response ~ + corder + ccontext + csyllableDiff + cfreqDiff + cambDiff + (1|workerid), data=centeredFull, family="binomial")
+summary(m.try)
+
+anova(m.original, m.try)
 
 m.test = glmer(response ~ context + order + syllableDiff + lengthDiff + (1|longWord), data=temp, family="binomial")
 summary(m.test)

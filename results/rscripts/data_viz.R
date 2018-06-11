@@ -11,6 +11,8 @@ prop.table(table(longShortData$response, longShortData$context), 2)
 ggplot(longShortData, aes(order, fill=response)) + geom_bar(position= "fill")
 prop.table(table(longShortData$response, longShortData$order), 2)
 
+prop.table(table(longShortData$order, longShortData$context))
+
 # TODO: color = order, x axis = context, and y axis = proportion of long 
 summary(longShortData)
 longShortData$response = factor(longShortData$response)
