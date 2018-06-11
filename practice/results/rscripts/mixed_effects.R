@@ -6,20 +6,20 @@ library(tidyverse)
 library(lme4)
 library(languageR)
 
-summary(reformat)
-names(reformat)
+summary(longShortData)
+names(longShortData)
 
 # What's the distribution of true/false responses?
-table(reformat$response)
-prop.table(table(reformat$response))
+table(longShortData$response)
+prop.table(table(longShortData$response))
 
 # Recall that R by default interprets factor levels in alphanumeric order, so the model will predict the log odds of the recipient being realized as a PP (prepositional object) over an NP
-reformat$response <- factor(reformat$response)
-is.factor(reformat$response)
-contrasts(reformat$response)
+longShortData$response <- factor(longShortData$response)
+is.factor(longShortData$response)
+contrasts(longShortData$response)
 
 # We start with a simple logistic regression model (no random effects). The syntax is the same as in the linear model, but we use the function glm(). The only difference is that the assumed noise distribution is binomial.
-m.norandom = glm(response ~ 1, data=reformat, family="binomial")
+m.norandom = glm(response ~ 1, data=longShortData, family="binomial")
 summary(m.norandom) 
 
 # 1. What is the interpretation of the intercept coefficient?
@@ -38,12 +38,11 @@ qlogis(logit2prop(0.20892))
 # If you map the log odds to the logistic regression plot you basically retrieve the proportions.
 
 # Let's add a random effect 
-# QUESTION: Maybe a random effect is participant as well? 
-table(reformat$longWord,reformat$response)
+table(longShortData$longWord,longShortData$response)
 
 # Note the use of glmer() instead of glm() for mixed effects. We again specify the binomial noise distribution.
-m = glmer(response ~ 1 + (1|longWord), data=reformat, family="binomial")
-summary(m)
+m.word = glmer(response ~ 1 + (1|longWord), data=longShortData, family="binomial")
+summary(m.word)
 
 # 3. How does the overall intercept change? 
 # Intercept estimate is now 
@@ -54,48 +53,58 @@ summary(m)
 plogis(0.2593) # has increased 
 
 # Let's add a predictor. 
-table(reformat[,c("context","response")])
-prop.table(table(reformat[,c("context","response")]),mar=c(1))
+table(longShortData[,c("context","response")])
+prop.table(table(longShortData[,c("context","response")]),mar=c(1))
 
-m2 = glmer(response ~ context + (1|longWord), data=reformat, family="binomial")
+m2 = glmer(response ~ context + (1|longWord), data=longShortData, family="binomial")
 summary(m2)
 
-anova(m, m2)
+anova(m.word, m2)
 # m2 is significantly better than m
 
 # 4. What is the interpretation of the coefficients?
+# Fixed effects:
+#  Estimate Std. Error z value Pr(>|z|)   
+# (Intercept)   0.1281     0.1925   0.665  0.50592   
+# contextsupp   0.2653     0.1028   2.581  0.00985 **
 # There is a positive effect of supportive context (0.2653) on being realized as a short
-# Our intercept term is now slightly less (0.1281) than before. (What does this mean?)
-table(reformat$context)
+# Our intercept term is now slightly less (0.1281) than before. 
+table(longShortData$context)
 
-# If we want to get the intercept for the grand mean, we need to center animacy first:
+# If we want to get the intercept for the grand mean, we need to center first:
+longShortData$order = factor(longShortData$order)
+longShortData$context = factor(longShortData$context)
+longShortData$response = factor(longShortData$response)
 source("helpers.R")
-reformat = reformat %>% 
-  mutate(responseNum = 2 - as.integer(response)) %>%# TODO convert
-  # mutate(ccontext = as.numeric(context)-mean(as.numeric(context)))
+clongShortData = longShortData %>% 
+  mutate(responseNum = 2 - as.integer(response)) %>%
   as.data.frame()
-centered = cbind(reformat,myCenter(reformat[,c("context","order")]))
+centered = cbind(clongShortData,myCenter(clongShortData[,c("context","order")]))
 head(centered) 
 summary(centered)
 
-m.c = glmer(response ~ ccontext + (1|longWord), data=centered, family="binomial")
+m.c = glmer(response ~ ccontext + corder + (1|longWord) + (1|workerid), data=centered, family="binomial")
 summary(m.c)
+# Random effects:
+#  Groups   Name        Variance Std.Dev.
+# workerid (Intercept) 0.8686   0.932   
+# longWord (Intercept) 1.7578   1.326   
+# Number of obs: 1960, groups:  workerid, 49; longWord, 40
+# Fixed effects:
+#  Estimate Std. Error z value Pr(>|z|)    
+# (Intercept)   0.3118     0.2549   1.223 0.221263    
+# ccontext      0.3953     0.1127   3.506 0.000455 ***
+# corder        0.3606     0.1122   3.213 0.001313 ** 
 
-m2 = glmer(response ~ context + order + syllableDiff + lengthDiff + (1|longWord), data=temp, family="binomial")
-summary(m2)
+# NO context
+m.nocontext = glmer(response ~ + corder + (1|longWord) + (1|workerid), data=centered, family="binomial")
+summary(m.nocontext)
 
-# We can add additional predictors just as in the linear model
-m.c = glmer(RealizationOfRecipient ~ cAnimacyOfRec + cLengthOfRecipient + (1|Verb), data=centered, family="binomial")
-summary(m.c)
-# Changed coefficient of animacy and intercept after adding length of recipient. 
-ggplot(dative, aes(x=LengthOfRecipient)) + geom_histogram()
-# Positive 0.60099 for length of recipient means positive effect on being realized as PP. 
-# As the length of the recipient increases, people prefer producing it as a PP rather than an NP. 
-# Animacy remains but slightly weaker now. 
-# The longer you are, the more inanimate you are? 
-# Longest lengths tend to be inanimate, some of the variance 
-# that was previously explained by animacy now explained by length. 
-table(dative$AnimacyOfRec, dative$LengthOfRecipient)
+# There was a significant effect of order such that having the short first results in a preference towards short
+# There is a significant effect of context such that having a supportive context also has a preference towards short
+
+m.test = glmer(response ~ context + order + syllableDiff + lengthDiff + (1|longWord), data=temp, family="binomial")
+summary(m.test)
 
 # To get model predictions
 dative$PredictedRealization = predict(m)
