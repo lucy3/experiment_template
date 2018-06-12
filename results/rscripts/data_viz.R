@@ -84,8 +84,10 @@ ggplot(longShortDataWordDiff, aes(x=reorder(shortWord, shortWord), y=propDiff)) 
         panel.grid.major = element_blank(), axis.ticks.x = element_blank(), 
         axis.title.y = element_text(size=14), axis.title.x = element_text(size=14))
 
-# TODO: scatter plot: x axis is lengthDiff or syllableDiff, y axis is proportion of long. 
+# TODO: scatter plot: x axis is an additional predictor, y axis is proportion of long. 
 # each point is a word. two smoothers, one for supportive and one for neutral. 
+# I didn't end up including these plots in my writeup since these predictors are not significant, 
+# but they can be generated below. 
 datafreqDiff = (longShortData %>% group_by(context, shortWord,response,freqDiff) %>% 
                        count() %>% 
                        group_by(context, shortWord) %>% 
@@ -94,7 +96,7 @@ datafreqDiff = (longShortData %>% group_by(context, shortWord,response,freqDiff)
 ggplot(datafreqDiff, aes(x=freqDiff, y=prop, color=context)) + 
   geom_point() + 
   geom_smooth() +
-  scale_x_log10() +
+  xlim(-0.000001, 0.00001) + 
   labs(x = "Frequency difference between long and short form", y = "Proportion of choosing long form", title = "Effect of Frequency Across Words") +
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
 

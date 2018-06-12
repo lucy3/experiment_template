@@ -96,10 +96,6 @@ summary(m.c)
 # ccontext      0.3953     0.1127   3.506 0.000455 ***
 # corder        0.3606     0.1122   3.213 0.001313 ** 
 
-# NO context
-m.nocontext = glmer(response ~ + corder + (1|longWord) + (1|workerid), data=centered, family="binomial")
-summary(m.nocontext)
-
 # There was a significant effect of order such that having the short first results in a preference towards short
 # There is a significant effect of context such that having a supportive context also has a preference towards short
 
@@ -124,7 +120,7 @@ summary(m.syllable)
 m.length = glmer(response ~ + corder + ccontext + clengthDiff + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
 summary(m.length)
 
-anova(m.syllable, m.length)
+anova(m.original, m.syllable)
 
 anova(m.original, m.syllable, m.length)
 
@@ -137,6 +133,9 @@ summary(m.contextOnly)
 
 m.orderOnly = glmer(response ~ + corder + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
 summary(m.orderOnly)
+
+m.randomOnly = glmer(response ~ + (1|longWord) + (1|workerid), data=centeredFull, family="binomial")
+summary(m.randomOnly)
 
 anova(m.original, m.contextOnly, m.orderOnly)
 
